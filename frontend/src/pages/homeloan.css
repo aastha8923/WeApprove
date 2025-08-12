@@ -1,0 +1,82 @@
+home-loan-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    background-color: blurrywood(240, 248, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+  
+  body {
+    background: url('https://www.toptal.com/designers/subtlepatterns/patterns/wood-pattern.png');
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .home-loan-title {
+    color:white;
+    margin: 0;
+  }
+  .apply-btn {
+    background-color: darkred;
+    color: white;
+    padding: 25px 25px; /* Chhota button */
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    top: 10px; /* Topmost */
+    right: 10px; /* Rightmost */
+    z-index: 1000;
+    border-radius: 3px;
+    font-size: 20px;
+    width: auto; /* Box ko content ke size ka bana dega */
+    display: inline-block; /* Box ko extra bada hone se rokega */
+    text-align: center;
+  }
+  
+  .apply-btn a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .loan-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .loan-table th, .loan-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .loan-table th {
+    background-color: darkred;
+    color: white;
+  }
+  
+  .emi-calculator {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin-bottom: 20px;
+  }
+  
+  .calculate-btn {
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  

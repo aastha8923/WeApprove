@@ -1,0 +1,1001 @@
+Loan_Type,Income,LoanAmount,Tenure,DownPayment,Credit_History,Dependents,Education,EmploymentType,Experience,LoanPurpose,PropertyValue,GoldValue,SecurityValue,CoApplicantIncome,Loan_Approved
+Car,38879,1796659,24,113215,1,2,Graduate,Business Owner,21,Business Expansion,,,,,0
+Car,83488,2869822,12,763870,0,3,Not Graduate,Self-Employed,25,Renovation,,,,,0
+Car,24695,391278,360,59900,1,1,Graduate,Self-Employed,0,Purchase,,,,,1
+Car,130293,2315523,240,514286,1,1,Not Graduate,Freelancer,2,Purchase,,,,,1
+Car,46224,2068610,180,330824,0,0,Not Graduate,Business Owner,25,Purchase,,,,,0
+Car,159150,3691947,180,423726,0,0,Graduate,Freelancer,19,Purchase,,,,,0
+Car,184656,4871170,36,275182,1,0,Not Graduate,Business Owner,0,Business Expansion,,,,,0
+Car,96011,4204923,24,982862,1,0,Graduate,Business Owner,27,Refinance,,,,,0
+Car,46149,1519499,36,311686,0,4,Graduate,Self-Employed,16,Business Expansion,,,,,0
+Car,27159,2288709,12,509578,1,2,Graduate,Self-Employed,29,Education,,,,,0
+Car,187923,3366921,36,843010,0,1,Not Graduate,Business Owner,9,Purchase,,,,,0
+Car,176848,1857084,24,268150,1,1,Not Graduate,Salaried,27,Purchase,,,,,1
+Car,157144,4848078,120,832101,1,2,Not Graduate,Self-Employed,5,Education,,,,,1
+Car,40076,1733486,120,322468,0,4,Not Graduate,Business Owner,4,Renovation,,,,,0
+Car,194142,3386841,240,835721,1,3,Not Graduate,Salaried,10,Education,,,,,1
+Car,163069,3149108,180,890486,0,1,Not Graduate,Business Owner,22,Education,,,,,0
+Car,53005,1815796,36,459374,1,4,Graduate,Self-Employed,21,Business Expansion,,,,,0
+Car,164676,622461,24,56840,1,4,Graduate,Salaried,22,Purchase,,,,,1
+Car,28174,406561,180,89749,1,2,Graduate,Business Owner,4,Education,,,,,1
+Car,87234,3794880,12,956127,1,1,Graduate,Self-Employed,28,Renovation,,,,,0
+Car,154686,583746,24,149576,1,3,Graduate,Business Owner,0,Education,,,,,1
+Car,93942,2791659,360,645763,0,0,Graduate,Self-Employed,25,Renovation,,,,,0
+Car,74914,4147210,120,688871,1,4,Graduate,Self-Employed,0,Renovation,,,,,1
+Car,137517,645617,240,35144,1,3,Graduate,Business Owner,26,Renovation,,,,,1
+Car,65967,168462,36,34259,1,2,Not Graduate,Freelancer,21,Renovation,,,,,1
+Car,173275,3047522,36,729702,1,1,Not Graduate,Salaried,3,Business Expansion,,,,,1
+Car,84605,612809,36,57672,0,1,Graduate,Salaried,27,Education,,,,,0
+Car,60047,363724,240,31208,0,2,Graduate,Business Owner,16,Purchase,,,,,0
+Car,110544,569693,180,54506,0,1,Graduate,Self-Employed,6,Education,,,,,0
+Car,110534,464282,60,78048,1,4,Not Graduate,Freelancer,24,Refinance,,,,,1
+Car,93122,2470204,60,492699,1,4,Graduate,Freelancer,24,Purchase,,,,,1
+Car,85482,1454976,120,338372,1,4,Not Graduate,Self-Employed,12,Education,,,,,1
+Car,33494,3019240,120,898469,0,0,Not Graduate,Salaried,5,Renovation,,,,,0
+Car,37458,359551,12,31159,1,0,Graduate,Business Owner,24,Renovation,,,,,0
+Car,78557,3556232,360,549098,0,4,Not Graduate,Business Owner,29,Purchase,,,,,0
+Car,153613,4942251,12,562142,1,3,Graduate,Self-Employed,25,Education,,,,,0
+Car,84760,2425027,60,153219,0,4,Not Graduate,Salaried,8,Education,,,,,0
+Car,189387,2400226,240,252849,1,2,Not Graduate,Salaried,3,Education,,,,,1
+Car,150885,3811273,12,1129289,1,1,Not Graduate,Business Owner,4,Business Expansion,,,,,0
+Car,167582,2041864,180,190586,1,0,Graduate,Freelancer,23,Education,,,,,1
+Car,185548,2846603,120,432089,1,4,Graduate,Freelancer,24,Education,,,,,1
+Car,80206,3036751,36,393730,1,3,Not Graduate,Freelancer,11,Refinance,,,,,0
+Car,152424,508893,120,90323,1,3,Not Graduate,Business Owner,24,Renovation,,,,,1
+Car,160235,4339734,240,450683,0,2,Not Graduate,Freelancer,20,Refinance,,,,,0
+Car,193028,2883048,36,324897,0,3,Not Graduate,Business Owner,3,Refinance,,,,,0
+Car,199888,3819385,180,495333,0,3,Graduate,Business Owner,2,Purchase,,,,,0
+Car,88445,4080783,12,457372,1,2,Graduate,Business Owner,5,Renovation,,,,,0
+Car,32696,571247,24,112961,0,3,Not Graduate,Salaried,24,Business Expansion,,,,,0
+Car,174304,3359652,60,230197,0,0,Not Graduate,Salaried,11,Refinance,,,,,0
+Car,96222,4101275,360,542589,0,0,Graduate,Salaried,6,Refinance,,,,,0
+Car,41075,4625106,240,1227292,1,4,Graduate,Salaried,3,Renovation,,,,,1
+Car,124242,2383478,240,679562,0,4,Not Graduate,Freelancer,7,Refinance,,,,,0
+Car,113300,1404656,360,75446,1,0,Not Graduate,Self-Employed,4,Renovation,,,,,1
+Car,99752,675522,180,97081,1,3,Not Graduate,Freelancer,1,Business Expansion,,,,,1
+Car,110526,3302740,120,477756,0,0,Graduate,Business Owner,6,Education,,,,,0
+Car,89558,186329,24,31482,1,3,Not Graduate,Salaried,14,Refinance,,,,,1
+Car,100926,1599662,12,257640,0,1,Graduate,Freelancer,27,Refinance,,,,,0
+Car,124919,1343423,36,279605,0,4,Graduate,Salaried,26,Renovation,,,,,0
+Car,163824,4996757,36,561778,1,1,Graduate,Salaried,20,Business Expansion,,,,,0
+Car,64202,1932053,24,263965,0,2,Graduate,Business Owner,23,Business Expansion,,,,,0
+Car,93596,1939932,240,155522,1,4,Not Graduate,Salaried,28,Refinance,,,,,1
+Car,106898,2916306,24,579736,1,0,Graduate,Salaried,25,Education,,,,,0
+Car,56380,510251,12,122030,0,0,Graduate,Salaried,3,Business Expansion,,,,,0
+Car,58955,3012160,36,688369,0,2,Not Graduate,Self-Employed,26,Renovation,,,,,0
+Car,130355,1887831,240,337265,1,0,Not Graduate,Salaried,15,Business Expansion,,,,,1
+Car,165179,4688263,12,1035892,1,1,Graduate,Freelancer,23,Refinance,,,,,0
+Car,141865,748628,24,110539,0,4,Not Graduate,Freelancer,22,Purchase,,,,,0
+Car,158164,1710450,360,337591,0,4,Not Graduate,Self-Employed,16,Business Expansion,,,,,0
+Car,158597,3535548,12,335724,0,3,Graduate,Salaried,17,Education,,,,,0
+Car,64166,4454966,120,790304,0,1,Not Graduate,Business Owner,26,Education,,,,,0
+Car,174133,4443301,180,259848,1,0,Not Graduate,Self-Employed,5,Business Expansion,,,,,1
+Car,104647,1252050,24,134463,0,0,Not Graduate,Business Owner,19,Purchase,,,,,0
+Car,21884,799530,360,60149,0,2,Graduate,Self-Employed,24,Education,,,,,0
+Car,34502,4632697,180,1014813,0,2,Graduate,Business Owner,20,Education,,,,,0
+Car,168699,2940811,240,537480,0,1,Graduate,Self-Employed,27,Purchase,,,,,0
+Car,180932,3653121,120,395683,1,4,Not Graduate,Business Owner,16,Renovation,,,,,1
+Car,137697,2133180,360,609800,0,2,Not Graduate,Business Owner,25,Renovation,,,,,0
+Car,140388,417422,120,91396,1,0,Not Graduate,Freelancer,30,Business Expansion,,,,,1
+Car,197124,4093933,180,904775,1,3,Not Graduate,Business Owner,22,Renovation,,,,,1
+Car,18088,4579672,120,1203330,0,0,Graduate,Self-Employed,29,Refinance,,,,,0
+Car,169443,2691749,24,699304,1,1,Graduate,Freelancer,10,Business Expansion,,,,,1
+Car,169695,2328059,24,238606,1,4,Not Graduate,Salaried,6,Renovation,,,,,0
+Car,89333,4251910,60,509616,1,2,Graduate,Self-Employed,1,Refinance,,,,,0
+Car,174317,1775227,12,270038,1,1,Not Graduate,Freelancer,17,Purchase,,,,,0
+Car,196209,3120244,24,297179,0,2,Not Graduate,Self-Employed,13,Purchase,,,,,0
+Car,160194,4353349,180,1120416,0,4,Not Graduate,Salaried,14,Education,,,,,0
+Car,37900,766536,360,141185,1,0,Not Graduate,Freelancer,0,Education,,,,,1
+Car,157363,3710637,240,701167,1,1,Graduate,Business Owner,2,Purchase,,,,,1
+Car,156966,1193126,180,300250,0,2,Not Graduate,Salaried,10,Business Expansion,,,,,0
+Car,86445,4182464,360,1182838,0,1,Graduate,Self-Employed,8,Refinance,,,,,0
+Car,150996,3564902,120,318920,0,1,Graduate,Salaried,30,Refinance,,,,,0
+Car,52574,3099398,24,774607,0,0,Not Graduate,Salaried,1,Business Expansion,,,,,0
+Car,93479,2703943,180,764613,1,3,Graduate,Self-Employed,9,Purchase,,,,,1
+Car,86932,1802757,36,149563,0,4,Graduate,Freelancer,5,Business Expansion,,,,,0
+Car,41665,900676,60,231315,0,0,Graduate,Business Owner,21,Education,,,,,0
+Car,190523,4240653,360,667701,1,1,Not Graduate,Salaried,17,Renovation,,,,,1
+Car,63250,3053074,36,555582,1,1,Not Graduate,Salaried,28,Business Expansion,,,,,0
+Car,196418,4225506,360,315548,1,0,Graduate,Salaried,13,Education,,,,,1
+Car,180395,339281,180,38916,0,1,Graduate,Freelancer,16,Renovation,,,,,0
+Car,66501,2265624,36,288910,0,0,Graduate,Self-Employed,13,Education,,,,,0
+Car,176623,2186670,180,502889,1,4,Not Graduate,Salaried,18,Purchase,,,,,1
+Car,91635,765117,12,136625,1,1,Graduate,Business Owner,9,Business Expansion,,,,,0
+Car,187914,3405072,360,250032,1,1,Graduate,Business Owner,13,Business Expansion,,,,,1
+Car,112571,4434207,24,420577,1,1,Graduate,Business Owner,18,Purchase,,,,,0
+Car,69197,4537610,360,341182,0,2,Not Graduate,Business Owner,25,Refinance,,,,,0
+Car,101113,3337151,360,209091,1,2,Not Graduate,Self-Employed,20,Renovation,,,,,1
+Car,60138,3325460,24,541770,0,2,Graduate,Salaried,5,Education,,,,,0
+Car,72358,1555573,240,298774,0,3,Not Graduate,Business Owner,12,Education,,,,,0
+Car,98727,2696063,180,293071,0,4,Graduate,Self-Employed,18,Renovation,,,,,0
+Car,193192,56804,120,8905,0,2,Not Graduate,Freelancer,29,Refinance,,,,,0
+Car,88164,3093799,60,623705,0,1,Not Graduate,Self-Employed,14,Renovation,,,,,0
+Car,190768,3263837,60,803494,0,2,Not Graduate,Self-Employed,27,Business Expansion,,,,,0
+Car,29038,327249,120,17926,1,0,Graduate,Salaried,12,Renovation,,,,,1
+Car,99814,2437404,36,283268,0,0,Not Graduate,Self-Employed,20,Refinance,,,,,0
+Car,108056,1299735,36,165651,1,2,Graduate,Salaried,4,Refinance,,,,,1
+Car,77368,1502547,360,179275,1,4,Not Graduate,Salaried,16,Renovation,,,,,1
+Car,20889,1877372,36,210476,0,0,Graduate,Self-Employed,7,Renovation,,,,,0
+Car,190310,588402,12,52069,0,0,Graduate,Self-Employed,23,Education,,,,,0
+Car,167662,4424240,180,1074135,1,3,Graduate,Salaried,8,Purchase,,,,,1
+Car,93661,4257273,240,425223,0,4,Not Graduate,Salaried,20,Education,,,,,0
+Car,28520,3059914,180,775464,0,2,Graduate,Salaried,5,Education,,,,,0
+Car,65318,742029,24,198474,1,3,Graduate,Business Owner,29,Business Expansion,,,,,1
+Car,62266,4720260,60,638090,1,1,Not Graduate,Salaried,10,Purchase,,,,,0
+Car,17215,889510,12,168218,0,0,Not Graduate,Self-Employed,27,Education,,,,,0
+Car,149890,1105756,180,85530,1,3,Graduate,Self-Employed,3,Refinance,,,,,1
+Car,157071,763907,360,221788,0,3,Graduate,Salaried,12,Renovation,,,,,0
+Car,119369,593295,360,93434,1,3,Graduate,Freelancer,12,Refinance,,,,,1
+Car,75586,2836936,36,370443,0,1,Graduate,Freelancer,1,Purchase,,,,,0
+Car,194298,4586955,180,578286,1,3,Graduate,Freelancer,19,Renovation,,,,,1
+Car,189382,4325867,360,843022,0,0,Not Graduate,Freelancer,2,Renovation,,,,,0
+Car,56830,4137958,12,1091261,1,4,Graduate,Salaried,3,Business Expansion,,,,,0
+Car,16349,2795096,60,715474,0,1,Not Graduate,Business Owner,23,Business Expansion,,,,,0
+Car,86000,3523683,180,291602,1,4,Graduate,Salaried,1,Purchase,,,,,1
+Car,103006,2103512,120,589908,0,1,Not Graduate,Business Owner,24,Education,,,,,0
+Car,42042,4635768,36,1344601,1,2,Not Graduate,Salaried,0,Purchase,,,,,0
+Car,197466,386241,60,28771,1,0,Not Graduate,Business Owner,11,Refinance,,,,,1
+Car,19734,143714,36,34008,0,0,Not Graduate,Business Owner,27,Purchase,,,,,0
+Car,145434,830925,24,141750,0,4,Not Graduate,Business Owner,29,Renovation,,,,,0
+Car,110048,60908,12,8976,1,0,Graduate,Business Owner,6,Renovation,,,,,1
+Car,146938,2558276,360,637564,1,3,Not Graduate,Salaried,3,Renovation,,,,,1
+Car,34074,921839,24,180075,0,4,Graduate,Self-Employed,22,Business Expansion,,,,,0
+Car,132435,4867664,360,1431410,1,2,Not Graduate,Freelancer,10,Renovation,,,,,1
+Car,110765,2708971,180,796990,0,3,Graduate,Self-Employed,16,Purchase,,,,,0
+Car,56608,122616,60,13917,0,0,Not Graduate,Salaried,10,Education,,,,,0
+Car,149020,2887778,24,519028,1,0,Graduate,Self-Employed,11,Renovation,,,,,0
+Car,144054,2027427,120,144640,1,4,Graduate,Self-Employed,11,Refinance,,,,,1
+Car,188710,873410,12,183334,0,2,Not Graduate,Business Owner,7,Education,,,,,0
+Car,45609,3261212,24,881762,0,2,Graduate,Self-Employed,17,Renovation,,,,,0
+Car,197568,484682,36,39206,1,0,Not Graduate,Business Owner,7,Purchase,,,,,1
+Car,62063,2100444,24,145782,0,1,Graduate,Business Owner,23,Purchase,,,,,0
+Car,153074,3038457,12,451035,1,4,Graduate,Self-Employed,2,Renovation,,,,,0
+Car,54245,1316728,360,277258,0,3,Graduate,Business Owner,16,Renovation,,,,,0
+Car,42526,1410114,120,391851,0,4,Graduate,Freelancer,3,Refinance,,,,,0
+Car,108207,2622200,24,566983,0,1,Graduate,Business Owner,11,Renovation,,,,,0
+Car,18724,2308887,180,589056,1,1,Not Graduate,Self-Employed,5,Refinance,,,,,0
+Car,68256,2648772,180,553386,1,4,Not Graduate,Freelancer,26,Renovation,,,,,1
+Car,145485,924875,24,210086,1,0,Not Graduate,Self-Employed,8,Renovation,,,,,1
+Car,80807,630361,360,85788,0,1,Not Graduate,Business Owner,20,Purchase,,,,,0
+Car,20634,3329708,60,317635,0,2,Graduate,Self-Employed,4,Purchase,,,,,0
+Car,57911,4007616,180,438063,0,0,Graduate,Freelancer,25,Renovation,,,,,0
+Car,132767,2134873,120,136081,0,0,Graduate,Business Owner,8,Refinance,,,,,0
+Car,193872,1611967,360,290503,0,4,Graduate,Self-Employed,9,Refinance,,,,,0
+Car,25390,4083240,60,1050363,1,3,Graduate,Salaried,7,Refinance,,,,,0
+Car,119317,3516007,12,293021,0,1,Graduate,Freelancer,24,Refinance,,,,,0
+Car,41099,2589544,36,355911,1,2,Graduate,Self-Employed,30,Renovation,,,,,0
+Car,157369,986113,12,292048,0,4,Graduate,Salaried,16,Education,,,,,0
+Car,77250,1654188,24,280671,1,4,Graduate,Freelancer,6,Renovation,,,,,0
+Car,192418,1304211,24,105649,0,2,Graduate,Business Owner,10,Business Expansion,,,,,0
+Car,195939,4803541,12,1009513,0,0,Graduate,Business Owner,24,Education,,,,,0
+Car,30446,691166,120,71970,1,4,Not Graduate,Self-Employed,5,Business Expansion,,,,,1
+Car,73798,4015192,12,1119494,0,3,Not Graduate,Freelancer,17,Refinance,,,,,0
+Car,186534,3352317,24,741316,1,4,Graduate,Self-Employed,23,Business Expansion,,,,,0
+Car,156825,2905364,360,711563,0,4,Graduate,Freelancer,7,Education,,,,,0
+Car,196486,4040018,12,392166,0,2,Not Graduate,Salaried,30,Purchase,,,,,0
+Car,23838,1638702,180,104092,1,1,Graduate,Business Owner,17,Purchase,,,,,1
+Car,29385,1212436,120,292277,1,3,Graduate,Salaried,8,Refinance,,,,,1
+Car,135601,721638,360,163813,1,2,Graduate,Freelancer,21,Education,,,,,1
+Car,98480,286915,60,45809,1,1,Graduate,Freelancer,2,Education,,,,,1
+Car,20413,3239406,180,454226,0,4,Graduate,Freelancer,2,Purchase,,,,,0
+Car,49192,3629219,24,477710,0,2,Graduate,Salaried,13,Refinance,,,,,0
+Car,159057,349405,240,87087,1,3,Not Graduate,Business Owner,1,Business Expansion,,,,,1
+Car,145217,4497761,24,1069991,1,4,Graduate,Self-Employed,28,Refinance,,,,,0
+Car,161072,2142900,180,550990,1,3,Not Graduate,Business Owner,16,Purchase,,,,,1
+Car,20402,1725306,12,260434,0,3,Not Graduate,Freelancer,27,Refinance,,,,,0
+Car,68119,768204,360,144466,0,0,Graduate,Freelancer,20,Education,,,,,0
+Car,180491,4374250,360,476472,1,1,Graduate,Business Owner,3,Renovation,,,,,1
+Car,130228,3711640,24,811818,0,1,Graduate,Self-Employed,22,Refinance,,,,,0
+Car,116422,4717076,240,407466,0,0,Graduate,Business Owner,3,Renovation,,,,,0
+Car,41015,4980545,240,282488,1,1,Not Graduate,Salaried,14,Purchase,,,,,1
+Car,170262,3357504,24,322308,1,4,Not Graduate,Salaried,21,Renovation,,,,,0
+Car,47486,508474,12,49936,1,4,Not Graduate,Salaried,0,Business Expansion,,,,,0
+Car,144964,4185918,240,1099986,0,0,Not Graduate,Salaried,3,Refinance,,,,,0
+Car,64285,4573139,24,1145093,0,4,Not Graduate,Business Owner,13,Renovation,,,,,0
+Car,85217,61461,24,12809,1,1,Graduate,Salaried,13,Purchase,,,,,1
+Car,154459,4878742,360,1164459,0,0,Not Graduate,Freelancer,23,Purchase,,,,,0
+Car,25622,2043618,120,156668,0,4,Not Graduate,Salaried,27,Education,,,,,0
+Car,77044,2990717,60,244964,1,1,Not Graduate,Business Owner,6,Business Expansion,,,,,0
+Car,86533,4088016,180,805530,0,3,Graduate,Business Owner,27,Education,,,,,0
+Car,26779,4358864,36,274019,0,4,Not Graduate,Freelancer,30,Education,,,,,0
+Car,112045,4367672,180,940461,0,0,Not Graduate,Business Owner,10,Refinance,,,,,0
+Car,160928,160163,360,16431,0,4,Not Graduate,Freelancer,22,Renovation,,,,,0
+Car,103233,3924362,60,1092824,1,0,Not Graduate,Business Owner,5,Education,,,,,1
+Car,92963,945031,60,213740,0,0,Graduate,Self-Employed,10,Purchase,,,,,0
+Car,119919,2434179,240,164109,0,1,Not Graduate,Freelancer,11,Renovation,,,,,0
+Car,135947,936315,360,137742,1,0,Graduate,Freelancer,16,Education,,,,,1
+Car,119090,1064085,60,64743,1,4,Graduate,Business Owner,14,Renovation,,,,,1
+Car,183150,2958537,360,162755,0,1,Graduate,Self-Employed,1,Business Expansion,,,,,0
+Car,106700,1991293,36,99727,1,1,Graduate,Freelancer,18,Refinance,,,,,1
+Car,153289,3509097,24,990523,0,0,Graduate,Salaried,24,Renovation,,,,,0
+Car,118294,3180216,240,321071,0,2,Graduate,Freelancer,30,Purchase,,,,,0
+Car,116793,1826921,60,497113,1,0,Not Graduate,Salaried,15,Business Expansion,,,,,1
+Car,75302,1737777,360,393500,0,0,Graduate,Business Owner,8,Education,,,,,0
+Car,109076,628073,180,60390,0,2,Not Graduate,Freelancer,2,Education,,,,,0
+Car,174645,4316901,240,339856,0,4,Graduate,Freelancer,10,Education,,,,,0
+Car,77143,711852,240,142381,1,3,Graduate,Freelancer,10,Education,,,,,1
+Car,165377,205413,180,32260,0,3,Graduate,Freelancer,30,Refinance,,,,,0
+Car,54773,2837563,60,249805,1,0,Graduate,Freelancer,0,Renovation,,,,,0
+Car,155052,3668073,240,710112,0,3,Not Graduate,Business Owner,6,Purchase,,,,,0
+Car,180912,4145191,240,911008,1,4,Not Graduate,Salaried,2,Business Expansion,,,,,1
+Car,128949,1879478,12,94286,1,3,Graduate,Self-Employed,10,Business Expansion,,,,,0
+Car,70603,1888703,12,501124,0,0,Not Graduate,Self-Employed,30,Education,,,,,0
+Car,137760,4714086,360,1056366,0,4,Graduate,Business Owner,4,Purchase,,,,,0
+Car,37603,243276,24,49236,1,4,Not Graduate,Salaried,9,Education,,,,,1
+Car,188354,2475495,24,201229,1,4,Not Graduate,Freelancer,25,Purchase,,,,,0
+Car,133891,3742718,240,314824,0,4,Graduate,Freelancer,16,Refinance,,,,,0
+Car,137535,2629717,360,402975,0,2,Not Graduate,Salaried,18,Purchase,,,,,0
+Car,55186,4854679,12,1347708,0,0,Not Graduate,Business Owner,3,Education,,,,,0
+Car,152907,4315371,180,988691,1,3,Not Graduate,Salaried,9,Refinance,,,,,1
+Car,125427,3105286,120,533563,0,1,Graduate,Business Owner,27,Education,,,,,0
+Car,138706,1919281,36,554998,1,1,Not Graduate,Freelancer,21,Business Expansion,,,,,1
+Car,86874,3635343,36,509862,1,3,Graduate,Business Owner,0,Purchase,,,,,0
+Car,117704,4643195,12,1390640,0,1,Not Graduate,Salaried,30,Refinance,,,,,0
+Car,117485,4817487,36,678178,1,2,Graduate,Self-Employed,30,Education,,,,,0
+Car,126360,3074598,24,461315,1,3,Not Graduate,Business Owner,16,Refinance,,,,,0
+Car,168963,4918907,180,969519,1,0,Not Graduate,Self-Employed,7,Purchase,,,,,1
+Car,31452,1863372,120,548705,0,2,Not Graduate,Salaried,6,Renovation,,,,,0
+Car,17580,2920900,240,546919,0,1,Not Graduate,Business Owner,24,Education,,,,,0
+Car,141725,3992263,12,815891,1,4,Not Graduate,Self-Employed,3,Education,,,,,0
+Car,167375,4130120,24,1103362,0,0,Graduate,Self-Employed,13,Refinance,,,,,0
+Car,53917,2640991,60,137078,1,4,Graduate,Self-Employed,26,Business Expansion,,,,,0
+Car,33165,1503302,120,226852,1,2,Graduate,Freelancer,5,Education,,,,,1
+Car,47404,3682201,240,289989,0,2,Not Graduate,Salaried,25,Business Expansion,,,,,0
+Car,91592,4906280,180,1393098,0,1,Not Graduate,Freelancer,12,Purchase,,,,,0
+Car,193872,4947784,360,891101,0,4,Not Graduate,Self-Employed,19,Purchase,,,,,0
+Car,47367,1197819,12,70313,0,4,Graduate,Self-Employed,3,Renovation,,,,,0
+Car,123424,3833964,60,597515,0,3,Graduate,Freelancer,13,Business Expansion,,,,,0
+Car,20770,2837753,180,452265,0,0,Not Graduate,Business Owner,10,Refinance,,,,,0
+Car,95024,3446570,120,359188,0,0,Not Graduate,Self-Employed,15,Renovation,,,,,0
+Car,169723,1714530,240,176310,1,0,Graduate,Self-Employed,18,Education,,,,,1
+Car,144878,1150566,36,303890,1,3,Graduate,Self-Employed,26,Refinance,,,,,1
+Car,81886,4450220,24,646051,1,0,Graduate,Self-Employed,19,Purchase,,,,,0
+Car,94797,2745768,120,215112,0,3,Not Graduate,Business Owner,19,Education,,,,,0
+Car,39011,1239918,180,130073,0,3,Graduate,Freelancer,19,Business Expansion,,,,,0
+Car,108998,3521559,24,885493,0,1,Not Graduate,Freelancer,13,Refinance,,,,,0
+Car,107960,3375860,24,469944,1,2,Not Graduate,Salaried,1,Purchase,,,,,0
+Car,65646,1290319,60,125887,1,1,Not Graduate,Salaried,8,Refinance,,,,,1
+Car,67189,1720111,180,193150,1,2,Not Graduate,Self-Employed,26,Business Expansion,,,,,1
+Car,129121,4487853,240,350732,0,2,Graduate,Business Owner,10,Renovation,,,,,0
+Car,142063,1921924,240,454559,0,3,Graduate,Business Owner,25,Purchase,,,,,0
+Car,101891,325433,120,76773,0,3,Not Graduate,Business Owner,28,Renovation,,,,,0
+Car,36999,2565803,120,151201,1,2,Not Graduate,Business Owner,9,Purchase,,,,,0
+Car,69102,4113878,24,460658,1,3,Graduate,Self-Employed,12,Renovation,,,,,0
+Car,119658,2516235,120,617893,1,3,Graduate,Self-Employed,22,Purchase,,,,,1
+Car,45488,2736107,360,440625,1,4,Not Graduate,Business Owner,21,Business Expansion,,,,,1
+Car,154840,1563234,24,191171,1,2,Not Graduate,Freelancer,25,Renovation,,,,,1
+Car,166414,4960566,12,1030797,0,3,Graduate,Business Owner,6,Business Expansion,,,,,0
+Car,129048,4825317,240,939189,0,2,Graduate,Freelancer,22,Business Expansion,,,,,0
+Car,84800,4464880,60,792307,0,2,Not Graduate,Salaried,28,Purchase,,,,,0
+Car,27552,4025377,12,633650,0,2,Not Graduate,Freelancer,22,Purchase,,,,,0
+Car,124379,4026404,36,1052926,1,0,Graduate,Salaried,4,Business Expansion,,,,,0
+Car,165344,75706,180,14528,1,1,Not Graduate,Business Owner,16,Business Expansion,,,,,1
+Car,188207,170046,240,11633,0,4,Not Graduate,Self-Employed,28,Business Expansion,,,,,0
+Car,82357,2043857,360,496110,0,4,Not Graduate,Business Owner,29,Education,,,,,0
+Car,170849,3257282,24,491296,0,4,Graduate,Salaried,25,Purchase,,,,,0
+Car,123558,1901668,12,563497,1,1,Not Graduate,Freelancer,4,Business Expansion,,,,,0
+Car,150932,1080399,24,106875,1,0,Not Graduate,Salaried,20,Education,,,,,1
+Car,21405,235566,36,27561,1,2,Graduate,Freelancer,26,Business Expansion,,,,,1
+Car,70846,4815161,60,752517,0,3,Not Graduate,Business Owner,18,Refinance,,,,,0
+Car,98372,3267824,36,367602,0,3,Not Graduate,Salaried,24,Renovation,,,,,0
+Car,121620,3600320,120,796019,1,1,Graduate,Business Owner,28,Education,,,,,1
+Car,73110,4387723,12,969597,1,1,Not Graduate,Salaried,25,Purchase,,,,,0
+Car,192413,1589699,36,220437,1,3,Graduate,Salaried,2,Purchase,,,,,1
+Car,93685,884637,240,186442,0,4,Graduate,Business Owner,21,Refinance,,,,,0
+Car,131218,2181187,120,431549,1,2,Graduate,Self-Employed,6,Renovation,,,,,1
+Car,118307,3036731,360,879482,1,0,Graduate,Salaried,24,Purchase,,,,,1
+Car,183609,2620318,360,562400,1,1,Graduate,Salaried,13,Education,,,,,1
+Car,146417,3940990,60,883485,1,4,Graduate,Business Owner,2,Business Expansion,,,,,1
+Car,174810,1349136,360,231186,0,4,Not Graduate,Salaried,11,Refinance,,,,,0
+Car,99312,1826011,60,403828,1,2,Not Graduate,Salaried,16,Purchase,,,,,1
+Car,70139,4579892,24,929051,0,1,Not Graduate,Freelancer,18,Purchase,,,,,0
+Car,45344,1051952,36,95998,0,1,Not Graduate,Self-Employed,25,Renovation,,,,,0
+Car,73309,3198297,12,331962,1,4,Not Graduate,Business Owner,9,Refinance,,,,,0
+Car,63115,4516798,60,1323896,0,1,Not Graduate,Business Owner,16,Renovation,,,,,0
+Car,133651,3767877,180,1045407,1,2,Not Graduate,Salaried,15,Renovation,,,,,1
+Car,152763,159230,240,19485,0,0,Graduate,Freelancer,10,Renovation,,,,,0
+Car,192295,4116893,180,698775,0,4,Graduate,Salaried,27,Refinance,,,,,0
+Car,190175,3901841,360,669446,1,2,Not Graduate,Freelancer,2,Refinance,,,,,1
+Car,49389,4536546,120,799581,1,4,Graduate,Self-Employed,2,Refinance,,,,,0
+Car,173003,2635887,36,580348,0,1,Graduate,Business Owner,12,Business Expansion,,,,,0
+Car,60339,3945343,360,758655,1,0,Not Graduate,Freelancer,24,Education,,,,,1
+Car,20260,924556,12,107899,1,4,Not Graduate,Self-Employed,19,Refinance,,,,,0
+Car,161238,2754535,12,718861,1,2,Not Graduate,Business Owner,24,Purchase,,,,,0
+Car,126643,1478588,120,160258,1,2,Not Graduate,Freelancer,24,Business Expansion,,,,,1
+Car,82020,2536449,180,380144,1,0,Not Graduate,Freelancer,8,Education,,,,,1
+Car,34099,2349621,120,672197,0,3,Graduate,Business Owner,27,Education,,,,,0
+Car,196019,4712689,36,971919,0,0,Graduate,Business Owner,1,Refinance,,,,,0
+Car,73165,792738,180,74987,1,1,Not Graduate,Self-Employed,11,Renovation,,,,,1
+Car,130717,4757370,36,305111,1,4,Not Graduate,Salaried,14,Refinance,,,,,0
+Car,158255,3883807,180,325133,0,4,Not Graduate,Freelancer,16,Renovation,,,,,0
+Car,81373,681074,36,139414,0,4,Not Graduate,Business Owner,15,Refinance,,,,,0
+Car,176349,434289,60,60811,0,0,Not Graduate,Self-Employed,25,Business Expansion,,,,,0
+Car,158153,3732351,12,965220,0,4,Graduate,Self-Employed,5,Refinance,,,,,0
+Car,138659,832526,240,81417,1,3,Graduate,Self-Employed,7,Education,,,,,1
+Car,85111,2433312,180,462252,0,4,Graduate,Business Owner,27,Refinance,,,,,0
+Car,133833,1185590,120,270279,0,3,Graduate,Freelancer,30,Education,,,,,0
+Car,38352,3168335,240,327425,1,0,Graduate,Freelancer,3,Purchase,,,,,1
+Car,96864,4152088,24,359441,1,1,Graduate,Business Owner,17,Refinance,,,,,0
+Car,131196,3904333,120,675191,1,3,Not Graduate,Business Owner,10,Education,,,,,1
+Car,32264,593705,240,147879,1,2,Graduate,Salaried,11,Purchase,,,,,1
+Car,126904,2192396,12,482607,0,4,Not Graduate,Salaried,24,Refinance,,,,,0
+Car,151803,2863053,360,635907,0,4,Not Graduate,Freelancer,13,Refinance,,,,,0
+Car,38910,2328717,120,196954,1,0,Graduate,Freelancer,23,Purchase,,,,,1
+Car,189364,4718858,360,1400778,1,3,Graduate,Salaried,6,Business Expansion,,,,,1
+Car,156935,384668,60,38371,1,0,Not Graduate,Freelancer,11,Business Expansion,,,,,1
+Car,96872,4253247,36,871428,1,3,Graduate,Salaried,12,Business Expansion,,,,,0
+Car,193303,2310452,360,578299,0,2,Graduate,Freelancer,5,Purchase,,,,,0
+Car,27906,2754650,12,534376,1,3,Graduate,Self-Employed,17,Business Expansion,,,,,0
+Car,129764,804508,12,196728,1,4,Not Graduate,Business Owner,29,Renovation,,,,,1
+Car,74677,3749035,120,621375,1,3,Graduate,Business Owner,11,Refinance,,,,,1
+Car,93710,1172492,360,206661,0,4,Not Graduate,Freelancer,14,Education,,,,,0
+Car,16295,1548075,60,343698,0,0,Graduate,Self-Employed,23,Business Expansion,,,,,0
+Car,114352,2086740,60,107197,1,1,Not Graduate,Self-Employed,24,Purchase,,,,,1
+Car,75653,4869172,120,735360,1,4,Graduate,Freelancer,25,Refinance,,,,,1
+Car,195140,3642910,12,475867,1,2,Graduate,Business Owner,9,Education,,,,,0
+Car,64249,469108,180,114519,0,4,Graduate,Self-Employed,23,Purchase,,,,,0
+Car,180559,4302840,12,698621,0,3,Graduate,Freelancer,22,Education,,,,,0
+Car,85145,4221403,240,242378,1,2,Graduate,Self-Employed,15,Renovation,,,,,1
+Car,197258,1344261,24,213331,1,4,Graduate,Salaried,28,Refinance,,,,,1
+Car,23720,2372825,24,261302,1,2,Graduate,Self-Employed,27,Business Expansion,,,,,0
+Car,63286,3099262,12,806367,0,4,Graduate,Business Owner,11,Refinance,,,,,0
+Car,147092,3797201,12,468338,1,1,Not Graduate,Freelancer,8,Renovation,,,,,0
+Car,74425,4386866,240,1051235,0,1,Graduate,Self-Employed,6,Purchase,,,,,0
+Car,140640,2525265,24,574156,0,3,Graduate,Business Owner,24,Education,,,,,0
+Car,184748,2384278,60,284718,0,3,Not Graduate,Business Owner,4,Refinance,,,,,0
+Car,137474,4063569,180,415640,0,2,Not Graduate,Business Owner,6,Renovation,,,,,0
+Car,195209,1676966,36,425102,1,4,Not Graduate,Business Owner,7,Refinance,,,,,1
+Car,70173,4068721,360,883169,1,2,Not Graduate,Business Owner,30,Renovation,,,,,1
+Car,163055,4189236,360,346978,1,4,Not Graduate,Salaried,23,Business Expansion,,,,,1
+Car,171323,3879092,180,454073,1,0,Not Graduate,Salaried,19,Renovation,,,,,1
+Car,113503,2778519,120,605519,1,4,Graduate,Self-Employed,7,Business Expansion,,,,,1
+Car,190270,4901097,12,1190965,1,1,Not Graduate,Self-Employed,27,Business Expansion,,,,,0
+Car,132318,366405,12,82319,0,4,Graduate,Business Owner,13,Refinance,,,,,0
+Car,22814,4061352,24,766630,0,2,Graduate,Freelancer,25,Business Expansion,,,,,0
+Car,115979,1539904,180,373297,0,2,Graduate,Business Owner,8,Education,,,,,0
+Car,83704,1511270,360,300386,0,2,Not Graduate,Freelancer,7,Education,,,,,0
+Car,162185,3443823,240,805630,0,3,Graduate,Salaried,5,Refinance,,,,,0
+Car,23662,1311038,180,148915,0,2,Not Graduate,Business Owner,5,Purchase,,,,,0
+Car,124979,3156162,60,759893,0,2,Graduate,Freelancer,19,Refinance,,,,,0
+Car,166357,2571823,36,251620,1,3,Graduate,Salaried,27,Education,,,,,1
+Car,47794,971568,12,100967,1,1,Not Graduate,Self-Employed,7,Business Expansion,,,,,0
+Car,78709,2686879,24,228840,0,3,Graduate,Self-Employed,15,Business Expansion,,,,,0
+Car,147640,3845038,240,1000574,1,3,Graduate,Freelancer,13,Purchase,,,,,1
+Car,107786,4391466,60,255751,1,0,Graduate,Freelancer,3,Purchase,,,,,0
+Car,43683,3581387,12,1070587,1,3,Not Graduate,Freelancer,17,Renovation,,,,,0
+Car,105187,3557509,60,337218,0,3,Graduate,Freelancer,27,Business Expansion,,,,,0
+Car,174360,770059,120,116698,0,2,Graduate,Freelancer,8,Refinance,,,,,0
+Car,167572,4088043,12,204975,0,4,Not Graduate,Self-Employed,22,Purchase,,,,,0
+Car,126566,2905219,180,735988,0,4,Not Graduate,Self-Employed,4,Refinance,,,,,0
+Car,86314,2479911,180,449801,1,4,Graduate,Business Owner,14,Education,,,,,1
+Car,72501,3723457,60,390373,0,2,Not Graduate,Freelancer,11,Business Expansion,,,,,0
+Car,163478,240754,24,18388,0,4,Not Graduate,Freelancer,4,Business Expansion,,,,,0
+Car,48415,1483330,24,297359,1,4,Graduate,Self-Employed,19,Refinance,,,,,0
+Car,176009,1510082,360,257448,1,3,Graduate,Business Owner,22,Business Expansion,,,,,1
+Car,87551,2882304,120,227857,0,4,Not Graduate,Freelancer,7,Purchase,,,,,0
+Car,37126,4041041,240,682000,1,1,Not Graduate,Business Owner,30,Renovation,,,,,1
+Car,172863,88398,360,24671,0,4,Graduate,Business Owner,16,Renovation,,,,,0
+Car,90168,4324259,60,619297,0,0,Graduate,Freelancer,4,Business Expansion,,,,,0
+Car,54976,3570549,240,552530,0,3,Graduate,Salaried,16,Purchase,,,,,0
+Car,133829,4323886,36,1161143,1,0,Not Graduate,Self-Employed,6,Purchase,,,,,0
+Car,72932,3272161,24,481223,1,3,Graduate,Salaried,29,Refinance,,,,,0
+Car,90544,1803549,240,205871,0,0,Not Graduate,Self-Employed,23,Education,,,,,0
+Car,91463,3737550,240,435671,1,3,Not Graduate,Freelancer,6,Business Expansion,,,,,1
+Car,164111,208141,60,18875,1,3,Not Graduate,Freelancer,15,Refinance,,,,,1
+Car,67000,880843,360,249772,0,4,Graduate,Freelancer,16,Purchase,,,,,0
+Car,110930,140499,120,18926,0,1,Graduate,Self-Employed,23,Education,,,,,0
+Car,132205,3727248,36,1107610,1,2,Graduate,Self-Employed,5,Purchase,,,,,0
+Car,48559,233087,360,50512,0,3,Not Graduate,Business Owner,26,Business Expansion,,,,,0
+Car,162541,652705,60,159438,1,3,Graduate,Business Owner,26,Purchase,,,,,1
+Car,69287,3626456,36,730137,0,3,Not Graduate,Freelancer,8,Education,,,,,0
+Car,110328,1944785,36,470299,0,2,Graduate,Salaried,18,Education,,,,,0
+Car,117845,4833530,180,1418746,0,0,Graduate,Salaried,24,Education,,,,,0
+Car,24089,2728415,24,168663,1,1,Not Graduate,Salaried,4,Business Expansion,,,,,0
+Car,80330,4515200,24,767372,1,0,Graduate,Freelancer,21,Education,,,,,0
+Car,91730,3110326,180,740014,1,1,Graduate,Self-Employed,28,Business Expansion,,,,,1
+Car,128639,4108334,120,806953,1,1,Graduate,Self-Employed,7,Purchase,,,,,1
+Car,67956,747090,240,79775,0,3,Not Graduate,Self-Employed,22,Business Expansion,,,,,0
+Car,101777,3963185,36,610228,0,2,Graduate,Salaried,4,Refinance,,,,,0
+Car,78794,4734309,12,417554,1,4,Not Graduate,Salaried,9,Refinance,,,,,0
+Car,33064,2150946,60,482699,0,1,Not Graduate,Self-Employed,8,Education,,,,,0
+Car,55012,2357073,60,320998,0,1,Not Graduate,Salaried,7,Education,,,,,0
+Car,101372,3214278,240,250479,1,3,Graduate,Self-Employed,18,Business Expansion,,,,,1
+Car,66325,4278019,12,304666,0,1,Not Graduate,Freelancer,4,Renovation,,,,,0
+Car,41212,3145784,60,267421,1,0,Not Graduate,Business Owner,9,Business Expansion,,,,,0
+Car,92828,205498,12,22889,1,3,Graduate,Freelancer,10,Purchase,,,,,1
+Car,76947,77764,360,15287,1,2,Not Graduate,Freelancer,7,Renovation,,,,,1
+Car,41886,4991350,120,483289,1,2,Not Graduate,Business Owner,22,Business Expansion,,,,,0
+Car,175391,4448862,240,1012464,1,0,Not Graduate,Freelancer,4,Purchase,,,,,1
+Car,153413,357886,180,104180,0,1,Graduate,Business Owner,30,Purchase,,,,,0
+Car,67935,1180250,360,246320,0,3,Graduate,Freelancer,19,Renovation,,,,,0
+Car,136955,2376955,12,438612,1,3,Graduate,Business Owner,11,Refinance,,,,,0
+Car,90127,3113132,60,177404,1,3,Graduate,Salaried,2,Business Expansion,,,,,0
+Car,119781,4099630,180,244115,1,0,Not Graduate,Salaried,10,Business Expansion,,,,,1
+Car,19238,1205826,360,335599,0,1,Graduate,Self-Employed,29,Business Expansion,,,,,0
+Car,90814,378765,24,31882,1,2,Graduate,Self-Employed,10,Business Expansion,,,,,1
+Car,189467,838863,120,166512,0,4,Not Graduate,Salaried,12,Education,,,,,0
+Car,103074,1707283,240,178517,1,0,Not Graduate,Salaried,7,Education,,,,,1
+Car,34929,1830709,240,235497,0,1,Not Graduate,Self-Employed,8,Business Expansion,,,,,0
+Car,144262,704877,60,61665,0,0,Graduate,Business Owner,27,Education,,,,,0
+Car,30131,3782514,360,516380,1,2,Not Graduate,Self-Employed,9,Business Expansion,,,,,1
+Car,63813,84721,24,10385,0,0,Not Graduate,Salaried,1,Education,,,,,0
+Car,114314,378737,24,46843,0,3,Not Graduate,Self-Employed,16,Refinance,,,,,0
+Car,62161,2530456,120,688109,1,2,Not Graduate,Self-Employed,16,Renovation,,,,,1
+Car,182105,1773842,360,138119,1,0,Not Graduate,Freelancer,27,Purchase,,,,,1
+Car,148796,1335981,360,355041,0,1,Not Graduate,Salaried,11,Purchase,,,,,0
+Car,192630,4292554,12,420434,1,2,Graduate,Business Owner,14,Education,,,,,0
+Car,45163,3759663,180,948174,1,4,Not Graduate,Freelancer,9,Education,,,,,1
+Car,105606,1259600,36,351693,0,0,Not Graduate,Self-Employed,7,Education,,,,,0
+Car,26096,1623255,60,449225,0,0,Graduate,Freelancer,18,Business Expansion,,,,,0
+Car,129194,4353063,120,761138,1,1,Not Graduate,Business Owner,0,Renovation,,,,,1
+Car,27747,2752582,360,169844,1,0,Graduate,Business Owner,4,Education,,,,,1
+Car,156996,4709902,60,892641,0,2,Graduate,Freelancer,21,Business Expansion,,,,,0
+Car,82580,746963,180,180341,0,1,Not Graduate,Business Owner,4,Purchase,,,,,0
+Car,72591,4207230,180,315689,1,4,Not Graduate,Business Owner,15,Business Expansion,,,,,1
+Car,20594,4092322,120,872660,0,3,Not Graduate,Self-Employed,21,Education,,,,,0
+Car,91895,887727,60,258108,1,2,Not Graduate,Self-Employed,13,Renovation,,,,,1
+Car,164378,3456202,240,454088,1,1,Graduate,Freelancer,5,Renovation,,,,,1
+Car,155771,4565435,360,1309318,0,3,Not Graduate,Salaried,1,Business Expansion,,,,,0
+Car,134063,234156,180,58092,1,0,Graduate,Business Owner,20,Renovation,,,,,1
+Car,184567,3409483,360,949370,1,4,Graduate,Freelancer,21,Business Expansion,,,,,1
+Car,63957,278028,12,66495,1,1,Graduate,Self-Employed,19,Education,,,,,1
+Car,32483,1794871,360,266485,1,0,Graduate,Freelancer,9,Business Expansion,,,,,1
+Car,103342,1836592,240,414550,1,0,Graduate,Salaried,25,Business Expansion,,,,,1
+Car,193671,1696080,60,312425,0,1,Not Graduate,Salaried,11,Purchase,,,,,0
+Car,167520,274763,12,45862,0,4,Not Graduate,Freelancer,8,Business Expansion,,,,,0
+Car,118362,2666260,120,685439,0,0,Not Graduate,Salaried,18,Business Expansion,,,,,0
+Car,21201,4186555,12,1050409,0,2,Not Graduate,Salaried,22,Education,,,,,0
+Car,135116,296105,120,30717,1,1,Graduate,Business Owner,6,Refinance,,,,,1
+Car,122046,4027835,360,433277,0,0,Graduate,Salaried,17,Education,,,,,0
+Car,126416,2009301,12,154558,1,3,Not Graduate,Freelancer,13,Education,,,,,0
+Car,180758,2542389,12,664682,1,4,Graduate,Self-Employed,25,Education,,,,,0
+Car,183915,4371337,180,1115592,0,4,Not Graduate,Self-Employed,0,Business Expansion,,,,,0
+Car,42654,2209792,180,226240,1,3,Graduate,Business Owner,29,Education,,,,,1
+Car,173210,2890083,180,288415,1,2,Graduate,Business Owner,18,Purchase,,,,,1
+Car,129812,4671687,12,234689,1,0,Graduate,Freelancer,17,Refinance,,,,,0
+Car,27878,315414,240,22167,1,4,Not Graduate,Freelancer,29,Purchase,,,,,1
+Car,73201,3470214,12,890788,1,2,Graduate,Self-Employed,15,Purchase,,,,,0
+Car,189614,1506043,24,375961,1,2,Not Graduate,Business Owner,27,Business Expansion,,,,,1
+Car,197703,1732025,12,299742,0,2,Not Graduate,Business Owner,12,Education,,,,,0
+Car,107612,3500405,60,527601,0,3,Not Graduate,Freelancer,17,Education,,,,,0
+Car,82880,814055,12,196794,0,1,Not Graduate,Business Owner,27,Purchase,,,,,0
+Car,111369,1446135,12,110349,1,4,Graduate,Salaried,16,Business Expansion,,,,,0
+Car,61958,4092944,12,709595,0,3,Graduate,Self-Employed,14,Refinance,,,,,0
+Car,183027,3698968,120,739009,1,3,Not Graduate,Self-Employed,7,Education,,,,,1
+Car,97953,338518,120,24231,0,3,Not Graduate,Salaried,16,Business Expansion,,,,,0
+Car,91039,2548500,60,638157,1,3,Graduate,Freelancer,2,Business Expansion,,,,,1
+Car,166104,697604,60,43348,1,4,Graduate,Self-Employed,25,Purchase,,,,,1
+Car,183969,1372100,12,281040,0,0,Not Graduate,Freelancer,27,Education,,,,,0
+Car,197563,4980041,120,1328791,0,4,Not Graduate,Salaried,7,Education,,,,,0
+Car,103494,3525930,12,278584,1,3,Graduate,Freelancer,13,Business Expansion,,,,,0
+Car,58505,3319059,36,596561,0,1,Graduate,Self-Employed,30,Education,,,,,0
+Car,188582,3058589,360,720566,0,0,Graduate,Self-Employed,6,Education,,,,,0
+Car,73763,1521358,60,441069,1,2,Graduate,Salaried,26,Purchase,,,,,1
+Car,154049,4749699,360,908691,1,2,Graduate,Self-Employed,16,Purchase,,,,,1
+Car,151258,4633050,240,784819,0,2,Graduate,Self-Employed,5,Education,,,,,0
+Car,33359,1389400,360,312300,0,3,Not Graduate,Salaried,0,Education,,,,,0
+Car,168777,3527506,60,943377,1,2,Graduate,Self-Employed,0,Renovation,,,,,1
+Car,192391,2775239,180,310804,1,1,Not Graduate,Freelancer,20,Purchase,,,,,1
+Car,69046,2748177,180,502485,0,0,Graduate,Freelancer,26,Education,,,,,0
+Car,161872,3196347,60,652814,1,3,Graduate,Salaried,27,Renovation,,,,,1
+Car,67597,3175308,24,574907,1,0,Not Graduate,Business Owner,2,Education,,,,,0
+Car,123129,1710642,36,486747,1,1,Not Graduate,Business Owner,11,Education,,,,,1
+Car,174154,2208977,360,570470,1,4,Not Graduate,Self-Employed,16,Business Expansion,,,,,1
+Car,158024,2358987,12,433339,0,0,Graduate,Salaried,30,Renovation,,,,,0
+Car,54916,4647281,12,1238129,1,1,Not Graduate,Salaried,29,Business Expansion,,,,,0
+Car,22171,3263898,180,869831,1,1,Not Graduate,Self-Employed,8,Refinance,,,,,0
+Car,152646,2561704,12,184241,0,0,Not Graduate,Business Owner,21,Business Expansion,,,,,0
+Car,167262,2341917,24,438964,0,1,Not Graduate,Business Owner,27,Business Expansion,,,,,0
+Car,159985,1457886,36,175899,0,0,Not Graduate,Freelancer,14,Refinance,,,,,0
+Car,53056,581274,240,164202,0,2,Not Graduate,Freelancer,2,Renovation,,,,,0
+Car,149727,2226257,12,448093,1,3,Not Graduate,Salaried,28,Purchase,,,,,0
+Car,173279,75518,240,19934,0,4,Graduate,Salaried,10,Refinance,,,,,0
+Car,165188,111671,24,9194,1,3,Not Graduate,Business Owner,11,Education,,,,,1
+Car,80124,3319646,240,633077,0,0,Not Graduate,Self-Employed,18,Education,,,,,0
+Car,43973,3060782,60,594720,1,1,Not Graduate,Freelancer,16,Business Expansion,,,,,0
+Car,56557,1347179,12,263306,0,0,Graduate,Salaried,28,Purchase,,,,,0
+Car,172508,4729989,120,782716,0,3,Not Graduate,Salaried,0,Renovation,,,,,0
+Car,28670,3008136,12,244814,0,2,Graduate,Business Owner,5,Education,,,,,0
+Car,109718,2419715,120,515790,0,4,Graduate,Self-Employed,6,Renovation,,,,,0
+Car,177139,689880,240,47232,0,2,Not Graduate,Business Owner,27,Business Expansion,,,,,0
+Car,104290,4273375,12,709595,1,1,Graduate,Self-Employed,17,Business Expansion,,,,,0
+Car,134148,4183984,180,994963,1,0,Graduate,Self-Employed,12,Purchase,,,,,1
+Car,87064,987606,24,197028,1,0,Not Graduate,Salaried,4,Business Expansion,,,,,1
+Car,133924,4224324,12,1228434,1,1,Not Graduate,Self-Employed,7,Business Expansion,,,,,0
+Car,188953,2668886,180,378136,0,0,Not Graduate,Freelancer,28,Renovation,,,,,0
+Car,145298,4978507,12,539876,0,2,Graduate,Freelancer,20,Business Expansion,,,,,0
+Car,46609,4294169,180,581672,0,1,Not Graduate,Salaried,23,Renovation,,,,,0
+Car,84624,2808755,240,171450,1,0,Graduate,Salaried,21,Purchase,,,,,1
+Car,77825,1691641,120,422451,0,1,Not Graduate,Salaried,12,Refinance,,,,,0
+Car,66938,1608347,60,345696,0,2,Graduate,Salaried,12,Business Expansion,,,,,0
+Car,114131,4409431,240,1004948,0,4,Not Graduate,Freelancer,0,Renovation,,,,,0
+Car,56734,4885706,12,750788,1,3,Graduate,Salaried,22,Renovation,,,,,0
+Car,187366,2519228,12,617354,0,3,Graduate,Self-Employed,19,Renovation,,,,,0
+Car,124457,2115072,24,378208,0,3,Graduate,Business Owner,7,Purchase,,,,,0
+Car,167385,2474995,120,670326,0,3,Not Graduate,Self-Employed,4,Refinance,,,,,0
+Car,184373,4679143,60,748540,1,0,Not Graduate,Self-Employed,20,Refinance,,,,,1
+Car,29245,752909,120,221868,0,0,Not Graduate,Self-Employed,17,Business Expansion,,,,,0
+Car,166576,3086134,24,705326,0,3,Not Graduate,Salaried,11,Renovation,,,,,0
+Car,71572,3714538,360,335183,1,3,Graduate,Freelancer,6,Renovation,,,,,1
+Car,158993,4594267,36,1186908,1,1,Graduate,Self-Employed,0,Renovation,,,,,0
+Car,180613,1604465,24,327504,1,4,Graduate,Freelancer,16,Purchase,,,,,1
+Car,86609,4490105,12,356656,1,4,Graduate,Salaried,29,Education,,,,,0
+Car,136140,1907590,360,380889,0,2,Graduate,Self-Employed,17,Business Expansion,,,,,0
+Car,48802,1103344,180,191768,0,4,Not Graduate,Salaried,6,Renovation,,,,,0
+Car,97042,2384812,60,509257,0,0,Graduate,Freelancer,18,Refinance,,,,,0
+Car,137587,3047658,180,859476,1,3,Not Graduate,Business Owner,19,Purchase,,,,,1
+Car,97800,3784671,180,952468,1,1,Graduate,Business Owner,14,Business Expansion,,,,,1
+Car,98121,3202004,60,556687,0,2,Not Graduate,Freelancer,18,Refinance,,,,,0
+Car,34143,482747,360,71565,0,1,Graduate,Business Owner,26,Business Expansion,,,,,0
+Car,166353,4638844,12,1032195,1,0,Graduate,Business Owner,29,Renovation,,,,,0
+Car,182028,4612943,240,437888,0,0,Not Graduate,Salaried,29,Education,,,,,0
+Car,198372,936611,60,216690,1,1,Graduate,Business Owner,26,Purchase,,,,,1
+Car,41235,4651860,60,350257,0,2,Not Graduate,Business Owner,23,Purchase,,,,,0
+Car,86525,3556050,12,691925,0,2,Graduate,Salaried,15,Purchase,,,,,0
+Car,117586,3502176,24,734637,0,3,Graduate,Self-Employed,25,Renovation,,,,,0
+Car,68272,2001669,60,121394,1,4,Graduate,Salaried,2,Refinance,,,,,1
+Car,15362,1920562,120,378434,1,0,Not Graduate,Freelancer,29,Refinance,,,,,0
+Car,199886,957665,60,172825,0,3,Not Graduate,Self-Employed,24,Renovation,,,,,0
+Car,169091,2282547,120,391225,1,3,Graduate,Salaried,30,Education,,,,,1
+Car,72109,1955632,36,264789,1,1,Not Graduate,Self-Employed,12,Purchase,,,,,0
+Car,108351,4450548,12,909853,1,2,Graduate,Self-Employed,19,Business Expansion,,,,,0
+Car,40109,3363687,12,403742,0,1,Not Graduate,Salaried,15,Renovation,,,,,0
+Car,47150,265447,120,69895,0,0,Graduate,Self-Employed,22,Purchase,,,,,0
+Car,82282,2055434,24,118777,0,0,Not Graduate,Self-Employed,4,Refinance,,,,,0
+Car,148936,1351922,12,100200,1,2,Not Graduate,Business Owner,14,Purchase,,,,,0
+Car,178654,2365521,360,252308,1,0,Graduate,Self-Employed,6,Refinance,,,,,1
+Car,85584,4152844,360,615504,1,4,Graduate,Salaried,7,Purchase,,,,,1
+Car,142258,2424396,240,567449,0,2,Graduate,Freelancer,21,Business Expansion,,,,,0
+Car,68213,4973759,120,1420752,1,4,Graduate,Salaried,9,Purchase,,,,,1
+Car,142830,3989804,12,538575,1,1,Graduate,Self-Employed,16,Refinance,,,,,0
+Car,97993,3404792,120,717572,0,3,Graduate,Freelancer,18,Renovation,,,,,0
+Car,195304,725909,36,139724,1,0,Not Graduate,Self-Employed,7,Education,,,,,1
+Car,48963,2981708,360,289011,1,2,Not Graduate,Salaried,29,Renovation,,,,,1
+Car,138478,493734,360,126081,0,4,Not Graduate,Salaried,6,Purchase,,,,,0
+Car,35586,284520,60,67754,0,2,Graduate,Salaried,0,Purchase,,,,,0
+Car,52903,1314414,120,176048,0,0,Graduate,Freelancer,25,Business Expansion,,,,,0
+Car,102115,3327037,60,250443,1,1,Not Graduate,Self-Employed,20,Renovation,,,,,0
+Car,79808,3886107,360,363980,1,3,Not Graduate,Business Owner,23,Purchase,,,,,1
+Car,166191,4954124,36,1094583,1,0,Not Graduate,Business Owner,29,Refinance,,,,,0
+Car,144219,1230823,180,275172,0,4,Not Graduate,Self-Employed,0,Refinance,,,,,0
+Car,113693,970526,240,91691,0,2,Not Graduate,Salaried,15,Business Expansion,,,,,0
+Car,148422,2387148,24,610796,0,2,Graduate,Freelancer,28,Business Expansion,,,,,0
+Car,159036,1446603,120,238652,0,3,Graduate,Business Owner,9,Education,,,,,0
+Car,47390,4582456,36,1226290,0,0,Graduate,Freelancer,14,Renovation,,,,,0
+Car,113709,3783899,12,854883,0,3,Not Graduate,Business Owner,0,Business Expansion,,,,,0
+Car,119659,696162,360,106208,1,0,Graduate,Business Owner,15,Refinance,,,,,1
+Car,95005,167296,120,45856,1,2,Graduate,Salaried,9,Refinance,,,,,1
+Car,70294,4265335,12,673697,1,1,Graduate,Salaried,25,Renovation,,,,,0
+Car,113260,2384747,180,161664,0,4,Not Graduate,Self-Employed,7,Education,,,,,0
+Car,67939,2454399,36,451231,0,3,Graduate,Freelancer,28,Business Expansion,,,,,0
+Car,92335,322976,120,81083,1,4,Not Graduate,Business Owner,29,Renovation,,,,,1
+Car,172771,4596738,120,417219,1,1,Not Graduate,Self-Employed,14,Education,,,,,1
+Car,146880,1102410,36,99064,0,1,Not Graduate,Business Owner,1,Education,,,,,0
+Car,39107,1624637,240,326774,1,0,Graduate,Self-Employed,22,Refinance,,,,,1
+Car,163711,3539638,12,323305,1,3,Not Graduate,Self-Employed,4,Business Expansion,,,,,0
+Car,148712,362541,24,34517,0,4,Graduate,Self-Employed,24,Refinance,,,,,0
+Car,27929,4574673,36,956733,1,1,Not Graduate,Business Owner,2,Refinance,,,,,0
+Car,173637,508757,36,90047,1,3,Graduate,Freelancer,14,Business Expansion,,,,,1
+Car,175114,3728665,24,1039597,1,3,Graduate,Freelancer,28,Refinance,,,,,0
+Car,117535,1122909,60,68007,1,4,Not Graduate,Self-Employed,17,Refinance,,,,,1
+Car,86501,3751154,240,904351,1,4,Not Graduate,Business Owner,1,Renovation,,,,,1
+Car,16290,2608799,60,162803,1,2,Not Graduate,Freelancer,30,Education,,,,,0
+Car,140387,3513207,36,747214,0,1,Graduate,Salaried,29,Business Expansion,,,,,0
+Car,168023,3966353,120,766164,1,4,Graduate,Business Owner,24,Refinance,,,,,1
+Car,172462,978633,180,145778,1,3,Graduate,Freelancer,6,Renovation,,,,,1
+Car,18758,1994690,24,498910,0,3,Not Graduate,Salaried,3,Refinance,,,,,0
+Car,104786,3248173,360,922785,0,2,Not Graduate,Freelancer,8,Business Expansion,,,,,0
+Car,106689,4852436,12,415696,1,2,Not Graduate,Self-Employed,22,Purchase,,,,,0
+Car,157621,3895048,60,644717,0,3,Not Graduate,Freelancer,27,Renovation,,,,,0
+Car,126802,2412566,60,254060,1,4,Graduate,Freelancer,8,Business Expansion,,,,,1
+Car,127594,1033073,12,56027,1,2,Not Graduate,Self-Employed,22,Business Expansion,,,,,0
+Car,129641,2340633,24,528492,1,4,Graduate,Self-Employed,2,Renovation,,,,,0
+Car,61758,4167044,120,696740,1,3,Graduate,Business Owner,25,Refinance,,,,,1
+Car,24703,3081169,12,862821,1,0,Not Graduate,Salaried,10,Purchase,,,,,0
+Car,33634,3380210,180,924810,0,3,Not Graduate,Salaried,18,Refinance,,,,,0
+Car,20939,2678451,36,163457,0,4,Not Graduate,Business Owner,26,Renovation,,,,,0
+Car,185090,4281067,240,1265997,1,3,Not Graduate,Freelancer,11,Refinance,,,,,1
+Car,174710,4961601,360,1126850,0,2,Graduate,Business Owner,17,Renovation,,,,,0
+Car,162210,1233908,240,100584,0,2,Not Graduate,Freelancer,18,Business Expansion,,,,,0
+Car,142898,281588,360,34467,0,4,Not Graduate,Freelancer,15,Renovation,,,,,0
+Car,143072,3088878,240,652491,0,1,Not Graduate,Salaried,30,Renovation,,,,,0
+Car,20796,776670,12,84029,1,0,Graduate,Self-Employed,26,Renovation,,,,,0
+Car,194142,2522206,36,146575,0,3,Graduate,Self-Employed,25,Business Expansion,,,,,0
+Car,18218,1793192,240,183640,0,0,Graduate,Business Owner,4,Refinance,,,,,0
+Car,70890,3090125,24,546189,1,1,Not Graduate,Self-Employed,10,Purchase,,,,,0
+Car,131804,1144683,36,91260,0,4,Graduate,Freelancer,14,Purchase,,,,,0
+Car,24430,1045541,24,145750,0,3,Graduate,Freelancer,26,Renovation,,,,,0
+Car,23264,1815888,180,318647,0,4,Not Graduate,Salaried,28,Renovation,,,,,0
+Car,120664,522488,12,52213,1,4,Not Graduate,Self-Employed,24,Renovation,,,,,1
+Car,26256,1906603,240,456893,0,4,Not Graduate,Self-Employed,25,Refinance,,,,,0
+Car,68120,459277,12,129635,1,2,Graduate,Business Owner,23,Renovation,,,,,1
+Car,132401,3570196,240,798224,0,3,Graduate,Business Owner,16,Purchase,,,,,0
+Car,102248,2479378,180,674398,1,1,Graduate,Self-Employed,29,Renovation,,,,,1
+Car,173660,3656997,24,978043,1,4,Graduate,Self-Employed,27,Business Expansion,,,,,0
+Car,54989,584715,24,69910,1,4,Not Graduate,Salaried,6,Purchase,,,,,1
+Car,25581,1557981,36,201202,1,0,Graduate,Salaried,10,Purchase,,,,,0
+Car,70043,1862562,24,412041,0,3,Graduate,Freelancer,16,Renovation,,,,,0
+Car,122654,2424221,360,202641,0,0,Graduate,Salaried,28,Business Expansion,,,,,0
+Car,105443,3182358,36,290995,0,3,Not Graduate,Freelancer,12,Education,,,,,0
+Car,198196,2844611,360,720647,1,4,Not Graduate,Freelancer,19,Education,,,,,1
+Car,73132,4354814,240,350340,1,3,Not Graduate,Salaried,6,Business Expansion,,,,,1
+Car,136706,2541784,360,436252,1,4,Graduate,Salaried,16,Refinance,,,,,1
+Car,109915,4703591,240,718246,0,4,Not Graduate,Freelancer,25,Education,,,,,0
+Car,130640,559531,240,124648,1,4,Graduate,Self-Employed,3,Refinance,,,,,1
+Car,65280,105436,36,17871,0,1,Not Graduate,Salaried,1,Refinance,,,,,0
+Car,82772,2783352,180,190068,0,0,Not Graduate,Self-Employed,4,Education,,,,,0
+Car,148023,4148916,180,460463,0,1,Not Graduate,Freelancer,18,Business Expansion,,,,,0
+Car,129342,4117838,12,933589,1,3,Not Graduate,Self-Employed,11,Purchase,,,,,0
+Car,138103,143290,180,23873,0,1,Not Graduate,Self-Employed,10,Education,,,,,0
+Car,176847,3128305,180,746888,0,1,Not Graduate,Freelancer,29,Renovation,,,,,0
+Car,72811,4727094,120,1068000,0,2,Not Graduate,Freelancer,17,Purchase,,,,,0
+Car,198200,284476,12,16039,1,2,Graduate,Business Owner,18,Business Expansion,,,,,1
+Car,59283,3794294,180,1126646,1,2,Graduate,Self-Employed,12,Refinance,,,,,1
+Car,34799,2338079,24,597128,0,3,Not Graduate,Salaried,21,Education,,,,,0
+Car,49144,4519417,24,1115149,0,2,Graduate,Freelancer,14,Renovation,,,,,0
+Car,30667,4165026,24,541258,1,3,Graduate,Freelancer,2,Business Expansion,,,,,0
+Car,29116,566646,36,136632,1,0,Not Graduate,Business Owner,18,Purchase,,,,,1
+Car,130532,4211714,360,599043,1,0,Graduate,Freelancer,24,Education,,,,,1
+Car,160389,2707389,60,136735,0,0,Not Graduate,Salaried,0,Purchase,,,,,0
+Car,191870,2535952,12,237792,0,1,Not Graduate,Business Owner,23,Refinance,,,,,0
+Car,112972,1723356,120,376987,0,3,Not Graduate,Salaried,1,Refinance,,,,,0
+Car,75930,1715250,240,285955,1,1,Graduate,Business Owner,7,Renovation,,,,,1
+Car,71889,4861894,120,728380,0,2,Graduate,Freelancer,11,Renovation,,,,,0
+Car,103366,1373142,120,328900,0,0,Not Graduate,Salaried,10,Purchase,,,,,0
+Car,93047,1262644,12,342935,1,2,Not Graduate,Freelancer,29,Purchase,,,,,0
+Car,119694,2438637,60,587546,1,3,Not Graduate,Freelancer,7,Refinance,,,,,1
+Car,36951,920180,12,184021,0,0,Not Graduate,Self-Employed,27,Renovation,,,,,0
+Car,174366,1916258,24,513072,0,3,Not Graduate,Salaried,28,Purchase,,,,,0
+Car,171939,3296010,240,918856,0,0,Not Graduate,Business Owner,6,Business Expansion,,,,,0
+Car,64492,3483472,36,642827,0,0,Graduate,Self-Employed,5,Education,,,,,0
+Car,26990,2894089,360,474252,1,4,Not Graduate,Business Owner,22,Business Expansion,,,,,1
+Car,66207,1395494,24,171732,1,1,Not Graduate,Self-Employed,14,Refinance,,,,,0
+Car,104755,551573,120,28222,1,2,Not Graduate,Business Owner,5,Purchase,,,,,1
+Car,70261,1714333,36,225441,1,1,Not Graduate,Freelancer,17,Business Expansion,,,,,0
+Car,154171,1721502,24,151180,0,3,Not Graduate,Salaried,25,Refinance,,,,,0
+Car,197108,2291259,60,475448,0,1,Not Graduate,Salaried,28,Refinance,,,,,0
+Car,177033,4142660,24,1160668,1,3,Graduate,Freelancer,9,Education,,,,,0
+Car,161922,2265770,24,420824,0,1,Not Graduate,Business Owner,3,Renovation,,,,,0
+Car,50809,493227,24,93177,0,3,Not Graduate,Self-Employed,16,Education,,,,,0
+Car,83829,1649640,24,253099,1,3,Not Graduate,Freelancer,7,Education,,,,,0
+Car,117572,1330240,24,392974,0,2,Not Graduate,Freelancer,23,Renovation,,,,,0
+Car,105477,1576724,60,213426,0,1,Not Graduate,Self-Employed,8,Renovation,,,,,0
+Car,23829,4978145,60,357163,1,3,Graduate,Self-Employed,3,Renovation,,,,,0
+Car,114095,4775386,24,996738,0,4,Not Graduate,Business Owner,8,Business Expansion,,,,,0
+Car,124780,106331,12,14542,1,3,Not Graduate,Business Owner,23,Renovation,,,,,1
+Car,190057,384418,60,91869,0,4,Graduate,Business Owner,23,Business Expansion,,,,,0
+Car,168699,3483592,12,518549,0,4,Graduate,Salaried,4,Business Expansion,,,,,0
+Car,21582,3945371,360,1145963,1,2,Graduate,Self-Employed,1,Refinance,,,,,1
+Car,54179,4536655,120,843618,1,1,Graduate,Business Owner,4,Refinance,,,,,0
+Car,18542,3651388,240,915160,1,2,Graduate,Self-Employed,0,Renovation,,,,,0
+Car,189669,2912099,240,397428,0,0,Not Graduate,Salaried,1,Purchase,,,,,0
+Car,111097,521143,36,120642,1,0,Graduate,Freelancer,29,Refinance,,,,,1
+Car,44159,1553431,360,421225,0,3,Graduate,Freelancer,19,Business Expansion,,,,,0
+Car,44945,2218067,240,135062,0,1,Not Graduate,Salaried,20,Purchase,,,,,0
+Car,51289,4739695,120,278774,1,3,Graduate,Self-Employed,26,Business Expansion,,,,,0
+Car,110682,4671908,24,349747,0,3,Not Graduate,Salaried,8,Refinance,,,,,0
+Car,36134,3383530,60,449042,0,3,Not Graduate,Freelancer,20,Refinance,,,,,0
+Car,124751,3559862,36,509821,0,4,Graduate,Business Owner,9,Business Expansion,,,,,0
+Car,51622,1213161,24,271194,0,3,Graduate,Salaried,28,Refinance,,,,,0
+Car,23801,3218934,60,964242,1,0,Graduate,Salaried,2,Purchase,,,,,0
+Car,37828,3975998,12,1026153,0,1,Not Graduate,Self-Employed,21,Purchase,,,,,0
+Car,66916,1445049,24,124849,0,3,Not Graduate,Freelancer,23,Business Expansion,,,,,0
+Car,103572,4529435,36,245030,0,1,Not Graduate,Self-Employed,0,Business Expansion,,,,,0
+Car,64014,2527832,180,678930,1,2,Not Graduate,Business Owner,28,Education,,,,,1
+Car,158850,4599545,12,429787,1,0,Graduate,Self-Employed,19,Business Expansion,,,,,0
+Car,92383,1293564,12,288148,0,3,Graduate,Self-Employed,24,Refinance,,,,,0
+Car,135304,561311,240,53323,0,4,Not Graduate,Freelancer,13,Renovation,,,,,0
+Car,185582,4164089,60,1167182,1,0,Graduate,Self-Employed,5,Renovation,,,,,1
+Car,103916,2787582,36,478756,1,1,Graduate,Self-Employed,17,Purchase,,,,,0
+Car,171244,1886440,12,264405,1,0,Not Graduate,Business Owner,19,Purchase,,,,,0
+Car,161334,2258416,12,252448,1,0,Not Graduate,Salaried,23,Renovation,,,,,0
+Car,21522,1546112,24,324083,0,2,Not Graduate,Salaried,30,Purchase,,,,,0
+Car,141978,3380235,120,545936,0,2,Graduate,Business Owner,20,Business Expansion,,,,,0
+Car,177376,3110598,12,426232,1,3,Not Graduate,Business Owner,1,Education,,,,,0
+Car,73722,4165121,60,885569,1,1,Not Graduate,Business Owner,3,Education,,,,,0
+Car,96086,1395000,360,152375,0,2,Not Graduate,Self-Employed,29,Purchase,,,,,0
+Car,23079,2331712,240,347007,1,3,Not Graduate,Freelancer,17,Education,,,,,1
+Car,77330,1647331,24,331212,1,4,Not Graduate,Salaried,2,Education,,,,,0
+Car,139339,2789462,60,527613,1,3,Not Graduate,Business Owner,26,Business Expansion,,,,,1
+Car,37573,528551,120,119432,1,0,Not Graduate,Business Owner,5,Education,,,,,1
+Car,130930,1376514,24,175671,0,4,Graduate,Freelancer,6,Refinance,,,,,0
+Car,85791,3472338,24,359045,1,1,Graduate,Business Owner,20,Renovation,,,,,0
+Car,29795,3478431,120,493592,0,3,Graduate,Freelancer,12,Business Expansion,,,,,0
+Car,51206,682687,240,142309,1,2,Not Graduate,Self-Employed,10,Business Expansion,,,,,1
+Car,79007,855425,24,111309,1,0,Not Graduate,Business Owner,15,Education,,,,,1
+Car,156506,2900339,120,388824,1,0,Graduate,Self-Employed,26,Refinance,,,,,1
+Car,134460,961771,36,76338,1,4,Graduate,Salaried,1,Refinance,,,,,1
+Car,164233,3204684,12,845286,1,0,Graduate,Freelancer,22,Renovation,,,,,0
+Car,167013,1841245,360,247667,0,0,Graduate,Self-Employed,6,Purchase,,,,,0
+Car,135939,413371,60,101408,0,3,Not Graduate,Business Owner,3,Refinance,,,,,0
+Car,172746,3908538,120,276863,1,4,Graduate,Business Owner,11,Business Expansion,,,,,1
+Car,132544,4233602,240,751447,0,1,Not Graduate,Self-Employed,19,Purchase,,,,,0
+Car,16025,4928642,120,621193,1,4,Graduate,Self-Employed,19,Education,,,,,0
+Car,179973,991192,240,109621,1,1,Graduate,Salaried,8,Renovation,,,,,1
+Car,198540,2884313,24,720818,1,2,Graduate,Self-Employed,19,Business Expansion,,,,,1
+Car,15391,306883,240,46535,1,1,Not Graduate,Business Owner,19,Education,,,,,1
+Car,65630,4203530,60,503702,1,4,Not Graduate,Freelancer,4,Education,,,,,0
+Car,34569,438932,36,95210,0,1,Graduate,Self-Employed,12,Refinance,,,,,0
+Car,146707,1177985,360,102409,0,4,Graduate,Business Owner,18,Education,,,,,0
+Car,123659,1393951,120,231982,1,0,Graduate,Salaried,9,Education,,,,,1
+Car,71188,4105301,12,452232,0,2,Not Graduate,Self-Employed,21,Renovation,,,,,0
+Car,50990,1166399,120,281079,0,1,Not Graduate,Self-Employed,8,Education,,,,,0
+Car,47337,3979566,12,639408,0,1,Not Graduate,Self-Employed,3,Education,,,,,0
+Car,89866,1922274,240,147171,0,3,Graduate,Business Owner,1,Business Expansion,,,,,0
+Car,198311,4133383,120,972393,0,1,Graduate,Self-Employed,4,Refinance,,,,,0
+Car,149363,3283403,60,686477,0,1,Graduate,Salaried,9,Refinance,,,,,0
+Car,73712,1967436,36,223837,1,0,Graduate,Salaried,27,Business Expansion,,,,,0
+Car,95333,3576659,12,184713,0,3,Graduate,Salaried,23,Renovation,,,,,0
+Car,75942,3388623,12,809457,1,0,Not Graduate,Business Owner,17,Business Expansion,,,,,0
+Car,196474,943475,120,145813,1,4,Not Graduate,Salaried,5,Refinance,,,,,1
+Car,173719,2881590,180,218730,1,4,Graduate,Business Owner,22,Business Expansion,,,,,1
+Car,144395,4355603,36,749436,1,0,Not Graduate,Self-Employed,16,Refinance,,,,,0
+Car,22144,3767560,360,842304,1,4,Not Graduate,Business Owner,14,Purchase,,,,,1
+Car,174149,4220018,36,802027,0,2,Graduate,Business Owner,20,Business Expansion,,,,,0
+Car,115701,3978747,180,798318,1,1,Not Graduate,Self-Employed,22,Purchase,,,,,1
+Car,32036,3875710,120,919700,0,2,Not Graduate,Salaried,0,Refinance,,,,,0
+Car,111113,1711500,60,283754,1,0,Not Graduate,Business Owner,8,Business Expansion,,,,,1
+Car,150509,3297907,180,760825,0,2,Not Graduate,Business Owner,6,Purchase,,,,,0
+Car,22422,3465237,60,526508,1,1,Not Graduate,Business Owner,30,Education,,,,,0
+Car,32693,1384597,240,95820,1,4,Graduate,Business Owner,1,Purchase,,,,,1
+Car,60400,1827699,12,458465,0,2,Not Graduate,Salaried,3,Renovation,,,,,0
+Car,77714,3294160,240,479833,1,0,Graduate,Freelancer,11,Refinance,,,,,1
+Car,97410,1744104,60,145797,1,3,Not Graduate,Self-Employed,11,Renovation,,,,,1
+Car,83032,688884,180,198306,1,0,Graduate,Business Owner,25,Education,,,,,1
+Car,15410,2932332,240,330563,0,0,Not Graduate,Self-Employed,1,Refinance,,,,,0
+Car,152855,1505225,36,442966,0,2,Graduate,Business Owner,26,Renovation,,,,,0
+Car,28425,3827626,36,522922,1,3,Not Graduate,Freelancer,28,Business Expansion,,,,,0
+Car,56376,4147308,12,1231680,0,2,Graduate,Salaried,16,Business Expansion,,,,,0
+Car,184641,3652927,60,746186,0,3,Graduate,Self-Employed,0,Refinance,,,,,0
+Car,167026,3644158,36,420666,1,1,Graduate,Salaried,24,Business Expansion,,,,,0
+Car,99132,4126400,240,277155,0,3,Graduate,Business Owner,10,Refinance,,,,,0
+Car,88669,3681319,12,467953,1,2,Graduate,Freelancer,8,Education,,,,,0
+Car,177974,3199818,12,404956,0,1,Not Graduate,Salaried,11,Refinance,,,,,0
+Car,145085,3217432,360,664420,1,1,Graduate,Self-Employed,7,Business Expansion,,,,,1
+Car,155854,1778514,240,376264,1,2,Graduate,Freelancer,14,Business Expansion,,,,,1
+Car,40440,1762243,24,281162,0,3,Not Graduate,Salaried,2,Refinance,,,,,0
+Car,132035,4216662,60,401433,1,1,Graduate,Freelancer,12,Purchase,,,,,1
+Car,148807,4954946,240,438468,0,2,Graduate,Business Owner,7,Business Expansion,,,,,0
+Car,120275,4411970,36,1306959,1,3,Graduate,Salaried,24,Refinance,,,,,0
+Car,29055,554327,360,67980,0,4,Graduate,Freelancer,6,Education,,,,,0
+Car,158080,2042823,12,608637,1,1,Not Graduate,Freelancer,9,Education,,,,,0
+Car,163538,2903429,12,440826,1,3,Not Graduate,Freelancer,5,Purchase,,,,,0
+Car,85474,846010,60,59630,0,0,Not Graduate,Business Owner,2,Renovation,,,,,0
+Car,49498,644928,240,86546,1,2,Graduate,Freelancer,21,Refinance,,,,,1
+Car,43207,2181071,60,169885,1,4,Not Graduate,Salaried,1,Purchase,,,,,0
+Car,170516,3037471,24,406260,0,1,Graduate,Freelancer,10,Refinance,,,,,0
+Car,173177,2675849,120,365552,1,0,Not Graduate,Self-Employed,18,Refinance,,,,,1
+Car,86083,4455445,24,242865,0,2,Graduate,Self-Employed,28,Purchase,,,,,0
+Car,164212,2740989,240,676069,0,4,Not Graduate,Freelancer,18,Refinance,,,,,0
+Car,68057,2199301,180,621328,1,0,Not Graduate,Business Owner,21,Education,,,,,1
+Car,89297,789212,180,196293,0,4,Graduate,Freelancer,20,Renovation,,,,,0
+Car,22987,863148,120,172676,1,3,Graduate,Self-Employed,11,Education,,,,,1
+Car,66986,2805822,240,402829,0,2,Graduate,Freelancer,9,Refinance,,,,,0
+Car,153202,3458529,240,694826,1,1,Graduate,Salaried,23,Purchase,,,,,1
+Car,52767,4775013,24,948722,0,2,Not Graduate,Self-Employed,18,Renovation,,,,,0
+Car,192891,3519022,360,331463,0,2,Not Graduate,Self-Employed,10,Purchase,,,,,0
+Car,199743,3337618,240,560426,1,2,Not Graduate,Freelancer,18,Education,,,,,1
+Car,55305,4459069,120,527780,1,3,Not Graduate,Self-Employed,10,Refinance,,,,,0
+Car,70191,4619368,360,907541,1,2,Graduate,Salaried,24,Purchase,,,,,1
+Car,193764,2557109,60,176814,0,0,Not Graduate,Salaried,28,Education,,,,,0
+Car,108769,2180127,180,150074,0,0,Graduate,Freelancer,20,Refinance,,,,,0
+Car,113096,4643322,120,1035770,0,2,Graduate,Self-Employed,5,Refinance,,,,,0
+Car,16070,2684972,36,399628,0,1,Graduate,Salaried,30,Refinance,,,,,0
+Car,94752,3985687,180,854092,1,0,Not Graduate,Freelancer,18,Education,,,,,1
+Car,51300,3257656,360,938367,0,1,Graduate,Freelancer,20,Education,,,,,0
+Car,31966,1226506,60,197098,0,0,Graduate,Self-Employed,0,Purchase,,,,,0
+Car,82207,3708696,36,684311,0,3,Graduate,Salaried,17,Refinance,,,,,0
+Car,165356,4653678,180,787490,1,0,Not Graduate,Business Owner,2,Business Expansion,,,,,1
+Car,15302,3721933,240,340764,1,1,Graduate,Freelancer,25,Business Expansion,,,,,0
+Car,61566,1126920,24,72452,1,3,Graduate,Business Owner,28,Renovation,,,,,0
+Car,60203,3257038,120,358733,0,3,Graduate,Salaried,20,Purchase,,,,,0
+Car,47478,443190,360,73095,0,2,Not Graduate,Freelancer,0,Refinance,,,,,0
+Car,93147,793728,12,219391,1,0,Graduate,Self-Employed,22,Refinance,,,,,0
+Car,64048,1867442,60,128890,0,3,Graduate,Self-Employed,5,Refinance,,,,,0
+Car,38169,3919374,24,866582,1,4,Graduate,Business Owner,7,Purchase,,,,,0
+Car,196205,2658475,60,635270,0,3,Graduate,Freelancer,28,Business Expansion,,,,,0
+Car,178023,957907,180,137857,1,3,Graduate,Freelancer,21,Refinance,,,,,1
+Car,97787,4479068,36,527929,0,4,Graduate,Salaried,1,Refinance,,,,,0
+Car,174012,283305,120,38265,1,3,Not Graduate,Salaried,30,Business Expansion,,,,,1
+Car,103299,4827140,120,1034467,1,2,Graduate,Self-Employed,24,Education,,,,,1
+Car,48571,1278774,24,354318,0,0,Graduate,Freelancer,3,Renovation,,,,,0
+Car,124224,3345836,24,279215,0,2,Graduate,Self-Employed,15,Purchase,,,,,0
+Car,155602,670203,24,108968,0,0,Not Graduate,Business Owner,6,Purchase,,,,,0
+Car,126911,1527838,180,126473,0,2,Not Graduate,Salaried,19,Renovation,,,,,0
+Car,77870,4105957,36,1088765,1,3,Graduate,Self-Employed,7,Business Expansion,,,,,0
+Car,104184,3719269,12,315328,1,0,Not Graduate,Freelancer,3,Refinance,,,,,0
+Car,161296,3850238,240,298088,1,3,Not Graduate,Freelancer,21,Education,,,,,1
+Car,188178,225672,60,44700,1,3,Graduate,Business Owner,29,Renovation,,,,,1
+Car,98015,2498075,36,568083,0,0,Graduate,Salaried,17,Renovation,,,,,0
+Car,64837,2243274,36,140400,0,4,Graduate,Salaried,19,Education,,,,,0
+Car,160676,4501490,12,1289723,1,1,Not Graduate,Self-Employed,25,Education,,,,,0
+Car,105777,1712051,12,99921,0,2,Not Graduate,Salaried,20,Renovation,,,,,0
+Car,40416,509584,36,151361,0,4,Graduate,Self-Employed,10,Refinance,,,,,0
+Car,159374,1857227,60,491529,0,3,Not Graduate,Freelancer,6,Business Expansion,,,,,0
+Car,17647,3936776,36,1171533,0,2,Not Graduate,Salaried,23,Refinance,,,,,0
+Car,124896,3925198,60,242561,0,2,Graduate,Freelancer,24,Purchase,,,,,0
+Car,180358,4889594,120,1236380,1,3,Graduate,Business Owner,29,Education,,,,,1
+Car,156354,705076,12,66203,0,4,Not Graduate,Freelancer,1,Refinance,,,,,0
+Car,29108,1751243,120,410803,0,3,Graduate,Freelancer,7,Purchase,,,,,0
+Car,167877,3610948,36,328570,1,1,Not Graduate,Salaried,25,Renovation,,,,,0
+Car,136153,3890834,240,798369,0,1,Graduate,Business Owner,7,Education,,,,,0
+Car,161779,2760733,36,697758,1,1,Not Graduate,Self-Employed,3,Education,,,,,1
+Car,29537,2808699,120,513444,0,3,Not Graduate,Self-Employed,29,Refinance,,,,,0
+Car,74620,4055097,24,1085238,1,3,Not Graduate,Salaried,26,Refinance,,,,,0
+Car,30591,4669724,360,283252,0,2,Not Graduate,Self-Employed,8,Business Expansion,,,,,0
+Car,101846,366531,240,72913,0,0,Graduate,Freelancer,5,Purchase,,,,,0
+Car,118014,3941102,120,593708,1,0,Not Graduate,Business Owner,14,Renovation,,,,,1
+Car,16904,2458494,360,195617,1,2,Not Graduate,Self-Employed,6,Refinance,,,,,1
+Car,31604,935806,24,165736,1,0,Graduate,Salaried,29,Refinance,,,,,0
+Car,159512,4843491,12,940327,1,0,Graduate,Freelancer,1,Renovation,,,,,0
+Car,180219,1891661,360,280428,0,2,Not Graduate,Freelancer,27,Refinance,,,,,0
+Car,41232,2314812,120,591957,1,2,Not Graduate,Freelancer,30,Renovation,,,,,1
+Car,18510,128617,36,6502,0,4,Not Graduate,Salaried,11,Purchase,,,,,0
+Car,104927,1551573,12,286457,0,4,Not Graduate,Salaried,9,Refinance,,,,,0
+Car,63184,132698,240,32672,0,3,Not Graduate,Business Owner,4,Purchase,,,,,0
+Car,71546,4933368,120,607811,1,2,Not Graduate,Salaried,13,Refinance,,,,,0
+Car,152789,100801,36,6226,1,4,Graduate,Self-Employed,25,Refinance,,,,,1
+Car,36585,2320903,180,679175,0,4,Graduate,Salaried,2,Refinance,,,,,0
+Car,146390,1622550,36,343214,0,1,Not Graduate,Self-Employed,22,Education,,,,,0
+Car,90150,2366031,240,601439,0,3,Not Graduate,Freelancer,19,Education,,,,,0
+Car,16229,683664,180,84592,1,1,Graduate,Salaried,28,Purchase,,,,,1
+Car,20199,3487989,12,849565,1,3,Not Graduate,Freelancer,9,Business Expansion,,,,,0
+Car,106421,1544057,60,192949,0,4,Graduate,Salaried,7,Refinance,,,,,0
+Car,58598,2657888,24,232144,1,4,Graduate,Salaried,15,Business Expansion,,,,,0
+Car,138894,3351743,24,847758,1,4,Graduate,Freelancer,15,Business Expansion,,,,,0
+Car,121631,4569902,120,512287,1,2,Not Graduate,Salaried,7,Refinance,,,,,1
+Car,100245,3495225,120,338658,0,3,Not Graduate,Salaried,12,Renovation,,,,,0
+Car,59978,2853490,180,569809,0,4,Graduate,Salaried,19,Renovation,,,,,0
+Car,49518,1837075,360,546260,0,2,Not Graduate,Freelancer,11,Purchase,,,,,0
+Car,175735,3784710,12,895546,0,1,Graduate,Business Owner,17,Refinance,,,,,0
+Car,98449,2025836,360,320988,1,3,Not Graduate,Freelancer,28,Refinance,,,,,1
+Car,145851,460377,36,104327,1,2,Not Graduate,Freelancer,25,Renovation,,,,,1
+Car,77676,680159,24,120133,1,0,Graduate,Self-Employed,10,Refinance,,,,,1
+Car,104759,3994487,240,517492,1,0,Not Graduate,Self-Employed,5,Business Expansion,,,,,1
+Car,192647,1374813,60,205109,1,3,Not Graduate,Self-Employed,24,Refinance,,,,,1
+Car,38942,4184147,240,1212015,0,2,Graduate,Self-Employed,2,Business Expansion,,,,,0
+Car,132542,481042,240,71111,0,0,Not Graduate,Self-Employed,3,Business Expansion,,,,,0
+Car,37327,3812977,240,192123,1,0,Graduate,Business Owner,15,Education,,,,,1
+Car,171829,2265470,12,301149,0,3,Graduate,Self-Employed,30,Business Expansion,,,,,0
+Car,151497,581795,120,92514,0,1,Not Graduate,Freelancer,10,Refinance,,,,,0
+Car,190657,4648720,36,497874,0,2,Graduate,Salaried,24,Purchase,,,,,0
+Car,91036,2158971,360,318518,1,4,Not Graduate,Self-Employed,7,Education,,,,,1
+Car,54680,4226681,60,501878,0,3,Not Graduate,Freelancer,27,Purchase,,,,,0
+Car,142550,824995,24,162862,1,3,Not Graduate,Freelancer,29,Renovation,,,,,1
+Car,199412,3024175,120,735242,0,2,Not Graduate,Salaried,12,Education,,,,,0
+Car,100691,1534935,360,238201,0,1,Not Graduate,Self-Employed,27,Purchase,,,,,0
+Car,141183,1455596,36,278212,1,1,Not Graduate,Salaried,21,Renovation,,,,,1
+Car,151392,3821297,36,699263,0,2,Graduate,Self-Employed,12,Purchase,,,,,0
+Car,44541,321975,12,43012,1,2,Graduate,Business Owner,14,Refinance,,,,,0
+Car,96598,3788413,240,542193,1,2,Graduate,Salaried,12,Business Expansion,,,,,1
+Car,47342,3684293,120,1042249,1,4,Not Graduate,Business Owner,26,Business Expansion,,,,,1
+Car,167928,396183,180,44403,1,4,Graduate,Business Owner,1,Purchase,,,,,1
+Car,93554,3701746,360,609620,0,0,Not Graduate,Freelancer,17,Purchase,,,,,0
+Car,181424,2898325,36,457641,1,4,Graduate,Self-Employed,12,Renovation,,,,,1
+Car,138313,3873884,12,509547,0,0,Graduate,Freelancer,22,Renovation,,,,,0
+Car,111045,2749092,24,281060,0,2,Not Graduate,Self-Employed,20,Business Expansion,,,,,0
+Car,53956,3330308,120,286414,0,0,Graduate,Freelancer,18,Renovation,,,,,0
+Car,158859,2388140,24,309711,1,1,Graduate,Freelancer,19,Renovation,,,,,0
+Car,148291,2862600,120,462768,0,2,Graduate,Business Owner,15,Refinance,,,,,0
+Car,160190,4514395,36,733065,1,3,Not Graduate,Freelancer,12,Refinance,,,,,0
+Car,70298,2544308,120,153327,0,2,Graduate,Business Owner,17,Renovation,,,,,0
+Car,71474,4115565,240,551737,1,0,Graduate,Business Owner,4,Purchase,,,,,1
+Car,44377,2592561,36,164595,0,1,Not Graduate,Salaried,29,Business Expansion,,,,,0
+Car,61937,628821,240,170223,0,3,Not Graduate,Freelancer,23,Education,,,,,0
+Car,102432,3340697,240,283569,1,0,Graduate,Self-Employed,19,Refinance,,,,,1
+Car,64007,4250302,120,329326,1,3,Graduate,Self-Employed,12,Education,,,,,0
+Car,17501,4101254,12,1032820,1,4,Not Graduate,Salaried,24,Purchase,,,,,0
+Car,172451,1412048,180,385777,0,2,Not Graduate,Business Owner,10,Refinance,,,,,0
+Car,21796,2096156,12,302713,0,4,Graduate,Self-Employed,2,Refinance,,,,,0
+Car,132707,1474211,36,313543,0,3,Graduate,Freelancer,0,Renovation,,,,,0
+Car,18987,4878372,24,572899,0,1,Not Graduate,Salaried,10,Purchase,,,,,0
+Car,179268,795204,12,215270,1,4,Graduate,Business Owner,12,Refinance,,,,,1
+Car,120570,3076889,180,278503,1,1,Not Graduate,Business Owner,26,Education,,,,,1
+Car,110901,4086833,360,872539,1,0,Graduate,Freelancer,23,Purchase,,,,,1
+Car,81188,181661,360,31250,1,0,Graduate,Salaried,20,Business Expansion,,,,,1
+Car,103553,802038,180,123488,1,4,Graduate,Salaried,7,Refinance,,,,,1
+Car,116489,1562309,12,342098,0,3,Graduate,Business Owner,21,Refinance,,,,,0
+Car,32911,4525291,240,1035397,1,4,Graduate,Self-Employed,6,Education,,,,,1
+Car,96766,2361472,36,174184,1,3,Graduate,Freelancer,22,Refinance,,,,,0
+Car,83486,2418662,24,346472,1,0,Graduate,Freelancer,8,Business Expansion,,,,,0
+Car,156690,1939372,360,103835,0,0,Graduate,Freelancer,0,Education,,,,,0
+Car,131887,1441925,180,269589,1,2,Graduate,Freelancer,18,Business Expansion,,,,,1
+Car,22098,1144338,12,76645,0,2,Graduate,Business Owner,30,Purchase,,,,,0
+Car,156444,1513182,120,287753,1,4,Graduate,Freelancer,13,Renovation,,,,,1
+Car,56291,1632210,120,146479,0,1,Graduate,Freelancer,27,Education,,,,,0
+Car,17267,4194651,360,484304,1,2,Not Graduate,Business Owner,9,Purchase,,,,,0
+Car,97566,3655003,240,642187,0,4,Not Graduate,Self-Employed,20,Refinance,,,,,0
+Car,131383,4705223,240,335911,0,0,Graduate,Freelancer,6,Renovation,,,,,0
+Car,180410,2083362,36,484137,1,2,Not Graduate,Self-Employed,30,Business Expansion,,,,,1
+Car,90922,798996,240,66431,0,0,Graduate,Salaried,8,Business Expansion,,,,,0
+Car,133232,2957232,180,547462,1,3,Not Graduate,Self-Employed,20,Purchase,,,,,1
+Car,165232,3139120,360,420810,1,2,Graduate,Freelancer,9,Business Expansion,,,,,1
+Car,159927,1892226,360,183842,0,1,Not Graduate,Self-Employed,18,Business Expansion,,,,,0
+Car,192102,130507,360,13008,0,1,Graduate,Self-Employed,11,Education,,,,,0
+Car,182301,4896452,120,1399816,0,3,Not Graduate,Self-Employed,21,Refinance,,,,,0
+Car,185171,4960861,120,359935,1,3,Not Graduate,Freelancer,25,Purchase,,,,,1
+Car,85918,3659374,360,958278,0,3,Graduate,Freelancer,23,Business Expansion,,,,,0
+Car,30448,2522689,12,256330,1,1,Graduate,Self-Employed,12,Business Expansion,,,,,0
+Car,97461,2676705,24,553154,1,0,Graduate,Business Owner,9,Refinance,,,,,0
+Car,133963,3971041,24,781033,0,2,Graduate,Salaried,21,Business Expansion,,,,,0
+Car,104151,4243188,240,628280,1,2,Graduate,Business Owner,17,Business Expansion,,,,,1
+Car,108880,1288569,360,351639,0,0,Graduate,Salaried,0,Business Expansion,,,,,0
+Car,131116,3119042,12,569170,0,1,Graduate,Freelancer,22,Business Expansion,,,,,0
+Car,17469,1323926,120,84660,0,2,Graduate,Salaried,21,Education,,,,,0
+Car,89026,3748562,24,793392,1,4,Graduate,Self-Employed,22,Refinance,,,,,0
+Car,156446,1955193,12,433833,1,4,Graduate,Salaried,2,Education,,,,,0
+Car,183311,3854932,120,795488,0,0,Graduate,Self-Employed,20,Refinance,,,,,0
+Car,122813,4377337,120,743763,0,4,Graduate,Business Owner,12,Business Expansion,,,,,0
+Car,110224,3281278,36,191761,0,2,Graduate,Business Owner,8,Purchase,,,,,0
+Car,76309,3209958,36,394243,1,0,Not Graduate,Freelancer,14,Business Expansion,,,,,0
+Car,195285,2945928,120,683651,1,2,Graduate,Freelancer,4,Business Expansion,,,,,1
+Car,122294,2673952,60,343679,1,2,Graduate,Self-Employed,6,Education,,,,,1
+Car,75381,3301364,360,452596,0,0,Not Graduate,Self-Employed,22,Purchase,,,,,0
+Car,85933,1336635,120,95781,1,1,Not Graduate,Freelancer,10,Education,,,,,1
+Car,109879,4925377,180,1242703,0,3,Graduate,Freelancer,23,Education,,,,,0
+Car,141341,141654,120,15368,1,0,Not Graduate,Salaried,5,Purchase,,,,,1
+Car,190186,3455079,24,959710,0,4,Graduate,Freelancer,9,Business Expansion,,,,,0
+Car,41149,658652,24,38104,0,4,Graduate,Business Owner,11,Renovation,,,,,0
+Car,24251,4716430,180,1078352,1,1,Graduate,Freelancer,0,Business Expansion,,,,,0
+Car,117790,1784676,60,294961,0,1,Graduate,Salaried,17,Renovation,,,,,0
+Car,98534,2424576,360,595016,0,2,Not Graduate,Business Owner,15,Education,,,,,0
+Car,25079,3966460,60,753920,1,3,Not Graduate,Business Owner,3,Purchase,,,,,0
+Car,165528,2561498,12,730196,0,1,Not Graduate,Freelancer,18,Renovation,,,,,0
+Car,96961,4813817,60,1090736,1,1,Not Graduate,Freelancer,29,Purchase,,,,,0
+Car,145508,195689,240,55543,1,4,Not Graduate,Freelancer,28,Purchase,,,,,1
+Car,62954,2210615,60,141543,1,3,Not Graduate,Freelancer,13,Purchase,,,,,0
+Car,149410,103214,120,16115,0,3,Not Graduate,Freelancer,28,Purchase,,,,,0
+Car,40571,487376,360,74507,0,1,Graduate,Business Owner,9,Education,,,,,0
+Car,22518,1850093,120,193807,1,3,Graduate,Freelancer,3,Purchase,,,,,0
+Car,83372,2931303,240,382165,1,4,Not Graduate,Salaried,12,Business Expansion,,,,,1
+Car,107195,776160,240,143742,0,2,Not Graduate,Self-Employed,12,Refinance,,,,,0
+Car,31738,2671576,120,746866,1,3,Graduate,Business Owner,3,Purchase,,,,,0
+Car,95973,4636510,180,750456,1,3,Not Graduate,Self-Employed,0,Education,,,,,1
+Car,84582,2927081,360,651855,0,2,Graduate,Salaried,18,Purchase,,,,,0
+Car,149830,1442252,60,329142,0,3,Not Graduate,Freelancer,17,Renovation,,,,,0
+Car,82773,3046371,360,404030,1,3,Graduate,Self-Employed,19,Refinance,,,,,1
+Car,76864,3518921,240,441770,1,0,Not Graduate,Freelancer,15,Education,,,,,1
+Car,21119,2304642,36,361474,0,3,Not Graduate,Freelancer,7,Renovation,,,,,0
+Car,103885,1745209,360,216130,0,2,Graduate,Self-Employed,11,Renovation,,,,,0
+Car,17042,706497,360,47309,1,2,Graduate,Salaried,1,Education,,,,,1
+Car,164812,170314,240,22125,1,3,Not Graduate,Freelancer,21,Purchase,,,,,1
+Car,151405,1865003,180,338748,0,4,Not Graduate,Business Owner,18,Renovation,,,,,0
+Car,128905,2025819,24,190455,0,4,Graduate,Freelancer,18,Refinance,,,,,0
+Car,63951,3281289,120,455186,0,4,Not Graduate,Salaried,0,Purchase,,,,,0
+Car,51745,1076721,180,56320,1,4,Not Graduate,Freelancer,29,Purchase,,,,,1
+Car,142906,2181250,12,626188,1,2,Graduate,Self-Employed,23,Business Expansion,,,,,0
+Car,80635,3071287,12,426869,1,1,Graduate,Salaried,28,Refinance,,,,,0
+Car,94153,3626858,12,770517,1,3,Not Graduate,Business Owner,19,Business Expansion,,,,,0
+Car,67940,2186049,360,183769,0,3,Not Graduate,Self-Employed,18,Purchase,,,,,0
+Car,94157,3746178,120,371971,1,4,Graduate,Salaried,2,Business Expansion,,,,,1
+Car,50284,727195,36,62791,1,2,Graduate,Business Owner,21,Renovation,,,,,1
+Car,16125,2146191,60,191886,0,4,Graduate,Self-Employed,11,Refinance,,,,,0
+Car,127712,4022012,36,455450,0,1,Not Graduate,Salaried,3,Education,,,,,0
+Car,84584,1157712,360,85678,0,3,Graduate,Business Owner,12,Renovation,,,,,0
+Car,95623,781026,12,233930,0,1,Not Graduate,Self-Employed,19,Education,,,,,0
+Car,175131,2673050,240,499955,0,0,Not Graduate,Salaried,15,Refinance,,,,,0
+Car,25871,1910009,60,556219,0,2,Not Graduate,Freelancer,25,Business Expansion,,,,,0
+Car,49900,102283,12,20843,1,1,Graduate,Self-Employed,7,Refinance,,,,,1
+Car,16822,3185920,180,795456,1,4,Not Graduate,Freelancer,2,Refinance,,,,,0
+Car,57438,2356340,36,635280,0,1,Not Graduate,Business Owner,27,Business Expansion,,,,,0
+Car,159981,748629,120,223611,0,2,Graduate,Freelancer,19,Business Expansion,,,,,0
+Car,197859,615578,240,105050,1,1,Not Graduate,Salaried,0,Renovation,,,,,1
+Car,92954,4049111,240,689785,1,4,Graduate,Self-Employed,21,Education,,,,,1
+Car,171177,420687,180,29787,0,1,Graduate,Business Owner,24,Business Expansion,,,,,0
+Car,175115,210246,24,47430,1,3,Graduate,Salaried,20,Purchase,,,,,1
+Car,171516,3221678,240,799716,0,3,Not Graduate,Salaried,5,Purchase,,,,,0
+Car,170532,4515654,120,1006756,1,1,Graduate,Self-Employed,22,Renovation,,,,,1
+Car,60462,4212220,60,550708,1,4,Graduate,Self-Employed,18,Renovation,,,,,0
+Car,59119,433230,120,39868,0,2,Not Graduate,Self-Employed,17,Renovation,,,,,0
+Car,59721,1399139,240,323876,1,4,Graduate,Salaried,2,Education,,,,,1
+Car,130451,256451,120,18382,1,4,Not Graduate,Self-Employed,23,Business Expansion,,,,,1
+Car,119367,3635941,60,686917,1,0,Not Graduate,Salaried,9,Education,,,,,1
+Car,146506,1130500,36,179128,1,1,Graduate,Self-Employed,10,Business Expansion,,,,,1
+Car,56115,4933316,240,1252589,1,3,Not Graduate,Freelancer,27,Business Expansion,,,,,1
+Car,33185,2348590,24,260201,1,1,Not Graduate,Salaried,21,Business Expansion,,,,,0
+Car,146045,532066,120,49183,0,2,Not Graduate,Self-Employed,19,Purchase,,,,,0
+Car,71090,1562590,12,272724,0,2,Not Graduate,Business Owner,11,Business Expansion,,,,,0
+Car,67271,2600795,24,238325,1,2,Not Graduate,Salaried,14,Education,,,,,0
+Car,63752,1078893,180,289188,1,2,Graduate,Business Owner,12,Purchase,,,,,1
+Car,87052,4205720,120,702570,1,0,Graduate,Business Owner,2,Education,,,,,1
+Car,123827,4656877,24,529376,1,4,Not Graduate,Freelancer,24,Refinance,,,,,0

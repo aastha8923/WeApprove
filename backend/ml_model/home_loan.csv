@@ -1,0 +1,1001 @@
+Loan_Type,Income,LoanAmount,Tenure,DownPayment,Credit_History,Dependents,Education,EmploymentType,Experience,LoanPurpose,PropertyValue,GoldValue,SecurityValue,CoApplicantIncome,Loan_Approved
+Home,50414,1223964,120,156245,0,4,Not Graduate,Business Owner,16,Purchase,2337470.0,,,,0
+Home,191918,3244133,12,707880,1,3,Graduate,Business Owner,26,Refinance,4225302.0,,,,0
+Home,190443,3456635,360,587789,0,4,Graduate,Business Owner,8,Education,3719950.0,,,,0
+Home,189107,4146630,12,537288,1,0,Not Graduate,Freelancer,20,Education,4721825.0,,,,0
+Home,30623,590449,12,126120,0,0,Not Graduate,Self-Employed,18,Refinance,1216120.0,,,,0
+Home,192786,3632672,24,714677,0,2,Graduate,Salaried,13,Renovation,5278342.0,,,,0
+Home,159806,4145034,360,1095314,1,3,Not Graduate,Business Owner,17,Renovation,4834113.0,,,,1
+Home,152780,540361,360,94125,0,1,Graduate,Self-Employed,6,Refinance,1657315.0,,,,0
+Home,81767,2209108,36,289174,1,2,Not Graduate,Salaried,23,Renovation,3444967.0,,,,0
+Home,107029,4126942,60,1197687,1,4,Graduate,Business Owner,25,Renovation,4447255.0,,,,1
+Home,43148,1201712,180,110992,1,2,Graduate,Business Owner,23,Renovation,2497355.0,,,,1
+Home,65983,380425,36,92897,1,4,Not Graduate,Salaried,0,Business Expansion,1224128.0,,,,1
+Home,185226,4809805,240,1030939,1,0,Not Graduate,Self-Employed,2,Renovation,6411971.0,,,,1
+Home,27246,4134716,60,1024374,1,3,Not Graduate,Business Owner,3,Refinance,5140663.0,,,,0
+Home,20404,1766446,180,319981,1,1,Graduate,Salaried,22,Education,3575515.0,,,,1
+Home,88085,3410819,360,549586,0,4,Not Graduate,Salaried,26,Refinance,4794468.0,,,,0
+Home,192118,620858,12,172454,0,3,Not Graduate,Self-Employed,3,Education,1291938.0,,,,0
+Home,172609,4480444,36,584827,0,2,Graduate,Freelancer,19,Renovation,5124707.0,,,,0
+Home,26441,2454989,240,300409,1,3,Graduate,Salaried,14,Business Expansion,3921547.0,,,,1
+Home,37783,904088,60,229058,1,1,Not Graduate,Business Owner,25,Purchase,2364019.0,,,,1
+Home,97093,484338,60,46915,1,4,Not Graduate,Business Owner,5,Education,2458301.0,,,,1
+Home,182557,3286356,240,644411,0,4,Graduate,Self-Employed,17,Refinance,4380565.0,,,,0
+Home,173230,382122,120,69098,0,3,Graduate,Salaried,28,Business Expansion,1996974.0,,,,0
+Home,128256,2126320,360,136330,1,3,Not Graduate,Salaried,8,Refinance,3560782.0,,,,1
+Home,166411,2801875,360,179084,0,2,Graduate,Freelancer,26,Education,4016143.0,,,,0
+Home,173701,4896241,12,1131069,1,2,Not Graduate,Salaried,23,Education,6229992.0,,,,0
+Home,120573,1343780,180,107815,1,2,Graduate,Salaried,8,Education,2648657.0,,,,1
+Home,103899,4690716,24,1351352,1,0,Graduate,Freelancer,8,Business Expansion,5806764.0,,,,0
+Home,52793,2003814,180,110278,0,2,Not Graduate,Freelancer,3,Purchase,2448437.0,,,,0
+Home,100659,3792908,60,224429,1,1,Graduate,Salaried,11,Education,4162731.0,,,,0
+Home,167219,2173792,24,466228,0,3,Graduate,Freelancer,18,Renovation,3786855.0,,,,0
+Home,163161,438241,36,24038,0,1,Not Graduate,Business Owner,9,Refinance,2033737.0,,,,0
+Home,146641,4775591,36,601642,1,1,Graduate,Salaried,17,Purchase,5583617.0,,,,0
+Home,118227,4376923,240,1166362,0,0,Not Graduate,Freelancer,14,Renovation,5049883.0,,,,0
+Home,36258,4685783,24,1312576,1,3,Graduate,Salaried,1,Business Expansion,6664874.0,,,,0
+Home,190161,948808,24,261475,1,2,Graduate,Business Owner,11,Renovation,2813587.0,,,,1
+Home,192163,441950,180,103373,1,4,Graduate,Business Owner,23,Refinance,2436060.0,,,,1
+Home,111563,4371919,120,266304,0,2,Graduate,Freelancer,22,Purchase,4873841.0,,,,0
+Home,195603,4737237,36,869002,1,0,Graduate,Salaried,25,Education,5634016.0,,,,0
+Home,37916,2196823,240,462051,0,0,Graduate,Self-Employed,24,Business Expansion,3347456.0,,,,0
+Home,47343,907825,240,180891,0,2,Not Graduate,Self-Employed,9,Business Expansion,2175320.0,,,,0
+Home,17194,3283658,60,758234,0,4,Not Graduate,Self-Employed,6,Education,4004483.0,,,,0
+Home,82479,2128941,12,375815,1,4,Not Graduate,Self-Employed,3,Business Expansion,3964343.0,,,,0
+Home,177037,515093,24,114655,1,0,Graduate,Freelancer,30,Refinance,1172132.0,,,,1
+Home,103031,3078632,60,475817,0,1,Graduate,Freelancer,8,Renovation,4996089.0,,,,0
+Home,144200,449695,12,82696,0,0,Not Graduate,Freelancer,0,Purchase,1021263.0,,,,0
+Home,174591,941342,360,141915,0,0,Not Graduate,Salaried,4,Purchase,2683949.0,,,,0
+Home,114892,2415079,360,630600,1,0,Not Graduate,Freelancer,0,Education,3209480.0,,,,1
+Home,190394,4408089,24,251498,1,0,Graduate,Salaried,22,Refinance,4827740.0,,,,0
+Home,185068,2596467,360,442479,1,1,Graduate,Self-Employed,10,Renovation,3502629.0,,,,1
+Home,180727,4788419,36,965897,1,4,Not Graduate,Business Owner,30,Education,6354431.0,,,,0
+Home,178213,3192679,60,209476,0,0,Graduate,Self-Employed,6,Education,3448459.0,,,,0
+Home,109075,4618039,120,1116979,1,3,Graduate,Salaried,2,Purchase,6391335.0,,,,1
+Home,141429,2936712,24,225316,1,4,Not Graduate,Salaried,2,Business Expansion,4811750.0,,,,0
+Home,110707,2276833,12,569859,1,0,Graduate,Business Owner,19,Purchase,4031168.0,,,,0
+Home,171367,3782282,360,978418,0,2,Not Graduate,Freelancer,8,Renovation,4591260.0,,,,0
+Home,106752,379885,240,56508,1,2,Not Graduate,Business Owner,29,Purchase,1976791.0,,,,1
+Home,56469,1675421,120,445864,1,1,Not Graduate,Freelancer,8,Renovation,3164750.0,,,,1
+Home,131839,3190784,36,627855,1,4,Graduate,Freelancer,24,Business Expansion,3688441.0,,,,0
+Home,135564,1474391,180,205309,1,1,Not Graduate,Salaried,23,Education,2690801.0,,,,1
+Home,156130,3247459,240,336250,0,4,Graduate,Salaried,6,Renovation,3864761.0,,,,0
+Home,180770,2311871,24,216621,1,3,Graduate,Self-Employed,20,Education,3577815.0,,,,1
+Home,128611,392736,24,95569,1,1,Not Graduate,Salaried,25,Renovation,906199.0,,,,1
+Home,124184,2390319,12,316455,0,3,Not Graduate,Business Owner,12,Business Expansion,3989853.0,,,,0
+Home,93946,4977246,120,1230417,0,1,Not Graduate,Freelancer,5,Education,5361980.0,,,,0
+Home,34413,4794920,240,1076426,1,0,Not Graduate,Business Owner,9,Purchase,5479032.0,,,,1
+Home,36231,4457522,24,1166143,1,2,Not Graduate,Salaried,15,Purchase,5137716.0,,,,0
+Home,86880,358305,240,98585,1,0,Not Graduate,Salaried,5,Purchase,2306881.0,,,,1
+Home,89082,4429037,60,1238457,0,1,Graduate,Salaried,27,Business Expansion,6350572.0,,,,0
+Home,166988,2053411,60,394519,1,0,Not Graduate,Business Owner,12,Business Expansion,3594681.0,,,,1
+Home,179296,2088388,360,397259,0,2,Not Graduate,Business Owner,2,Purchase,2820784.0,,,,0
+Home,157485,1526736,24,362427,1,1,Not Graduate,Business Owner,0,Business Expansion,1904478.0,,,,1
+Home,130930,3588456,120,379269,0,3,Graduate,Self-Employed,9,Refinance,4057904.0,,,,0
+Home,134097,4473813,24,550545,0,0,Graduate,Salaried,18,Purchase,4721089.0,,,,0
+Home,17470,2578891,120,305369,1,1,Not Graduate,Freelancer,25,Renovation,3313832.0,,,,0
+Home,105506,3799717,60,315669,1,0,Not Graduate,Freelancer,11,Renovation,4479981.0,,,,0
+Home,139086,129976,120,25790,0,0,Not Graduate,Self-Employed,17,Refinance,1575352.0,,,,0
+Home,37143,693667,180,87714,0,2,Graduate,Self-Employed,0,Refinance,2176522.0,,,,0
+Home,179731,3695567,240,426448,0,0,Graduate,Business Owner,10,Refinance,4126642.0,,,,0
+Home,181820,2453903,36,553056,1,1,Not Graduate,Freelancer,7,Education,3308266.0,,,,1
+Home,145857,4391497,24,1310231,0,0,Graduate,Salaried,10,Purchase,4740867.0,,,,0
+Home,131044,1570654,36,439561,0,3,Graduate,Salaried,18,Education,2646541.0,,,,0
+Home,118789,1773153,120,396138,1,0,Not Graduate,Self-Employed,13,Education,3765366.0,,,,1
+Home,133909,1393778,180,343907,0,3,Graduate,Salaried,28,Renovation,2031694.0,,,,0
+Home,76656,83209,12,4856,1,2,Graduate,Self-Employed,29,Business Expansion,378762.0,,,,1
+Home,16831,2104137,360,624123,0,3,Not Graduate,Freelancer,6,Education,3099734.0,,,,0
+Home,47960,3366708,60,699593,1,3,Not Graduate,Business Owner,17,Education,3984454.0,,,,0
+Home,83926,2830681,180,231068,0,3,Not Graduate,Self-Employed,13,Renovation,4680212.0,,,,0
+Home,81274,3243636,360,291608,1,3,Not Graduate,Freelancer,25,Purchase,3667383.0,,,,1
+Home,37418,1443176,60,132219,0,0,Not Graduate,Self-Employed,23,Purchase,2270567.0,,,,0
+Home,167462,2540022,24,260057,1,4,Not Graduate,Freelancer,1,Purchase,3918859.0,,,,0
+Home,136236,4388727,60,721214,0,2,Graduate,Salaried,17,Business Expansion,5239703.0,,,,0
+Home,114873,963049,120,166796,0,3,Not Graduate,Self-Employed,2,Business Expansion,2652246.0,,,,0
+Home,67968,3175142,360,948799,1,4,Not Graduate,Freelancer,26,Purchase,5100273.0,,,,1
+Home,70111,4672615,360,559252,1,1,Graduate,Business Owner,14,Refinance,5722584.0,,,,1
+Home,191313,4329981,60,660111,0,0,Not Graduate,Salaried,8,Education,5286946.0,,,,0
+Home,140959,778719,240,155127,1,2,Graduate,Self-Employed,2,Renovation,2034201.0,,,,1
+Home,92982,2070724,120,194690,0,1,Graduate,Self-Employed,9,Refinance,3644040.0,,,,0
+Home,173636,1196990,24,165127,1,3,Not Graduate,Salaried,6,Refinance,1981147.0,,,,1
+Home,125420,3085858,180,909387,0,4,Graduate,Business Owner,26,Business Expansion,4264918.0,,,,0
+Home,158629,3827154,24,660536,0,2,Graduate,Salaried,15,Purchase,4393375.0,,,,0
+Home,23065,4572192,36,494697,1,1,Graduate,Freelancer,27,Business Expansion,6187336.0,,,,0
+Home,152080,4671700,60,1142145,0,3,Graduate,Business Owner,18,Purchase,6089479.0,,,,0
+Home,153576,4760517,36,1069043,0,2,Graduate,Self-Employed,2,Renovation,5027639.0,,,,0
+Home,41547,913600,240,172572,1,0,Graduate,Self-Employed,9,Renovation,1136913.0,,,,1
+Home,49495,2616015,60,149043,0,1,Graduate,Business Owner,7,Purchase,4255863.0,,,,0
+Home,123598,1125629,180,80302,0,2,Graduate,Business Owner,9,Business Expansion,2402953.0,,,,0
+Home,183786,1327009,120,273611,1,0,Not Graduate,Self-Employed,4,Business Expansion,2466488.0,,,,1
+Home,105135,4600599,240,845806,0,2,Not Graduate,Self-Employed,29,Purchase,5519124.0,,,,0
+Home,114810,893529,120,148644,0,2,Graduate,Self-Employed,4,Refinance,2428375.0,,,,0
+Home,189986,3434496,360,236237,0,0,Not Graduate,Self-Employed,9,Business Expansion,4501373.0,,,,0
+Home,80649,3065841,360,672574,0,2,Not Graduate,Self-Employed,24,Renovation,4235718.0,,,,0
+Home,150422,4666302,120,1122940,1,3,Not Graduate,Freelancer,18,Business Expansion,5101802.0,,,,1
+Home,173914,1837479,24,189696,1,0,Not Graduate,Self-Employed,16,Business Expansion,3525100.0,,,,1
+Home,54923,4679694,24,287717,1,1,Not Graduate,Salaried,26,Refinance,6138240.0,,,,0
+Home,43265,1241764,36,125946,1,1,Graduate,Self-Employed,19,Education,2149871.0,,,,0
+Home,181018,176243,60,20493,1,4,Graduate,Self-Employed,10,Education,718355.0,,,,1
+Home,150416,543238,24,119312,1,2,Not Graduate,Business Owner,29,Renovation,2161190.0,,,,1
+Home,68428,4002737,180,328901,1,0,Not Graduate,Salaried,28,Purchase,5001451.0,,,,1
+Home,148176,4201323,36,933405,1,4,Graduate,Self-Employed,2,Education,4487000.0,,,,0
+Home,158794,1689698,36,229345,1,3,Graduate,Freelancer,27,Renovation,2743202.0,,,,1
+Home,95689,3231473,12,723782,0,3,Graduate,Business Owner,12,Renovation,3762170.0,,,,0
+Home,127758,703778,120,112214,1,2,Graduate,Self-Employed,13,Purchase,1120655.0,,,,1
+Home,35912,4834956,240,1027702,0,2,Not Graduate,Freelancer,12,Renovation,6628991.0,,,,0
+Home,139473,120582,360,20702,1,2,Graduate,Salaried,0,Renovation,1502180.0,,,,1
+Home,96722,3246023,240,725447,1,0,Not Graduate,Salaried,29,Education,4529104.0,,,,1
+Home,180270,1784924,36,127833,1,3,Not Graduate,Salaried,25,Business Expansion,3290143.0,,,,1
+Home,146784,3423225,360,317878,1,3,Not Graduate,Salaried,26,Business Expansion,4031959.0,,,,1
+Home,154881,4350923,240,751615,0,3,Graduate,Self-Employed,16,Renovation,5494879.0,,,,0
+Home,154374,4202347,120,789350,1,4,Not Graduate,Business Owner,16,Renovation,4942029.0,,,,1
+Home,40902,3342724,360,285387,0,4,Graduate,Self-Employed,30,Renovation,3867872.0,,,,0
+Home,104816,3383664,180,388819,0,2,Not Graduate,Freelancer,23,Refinance,3742734.0,,,,0
+Home,86129,3081304,240,264718,1,4,Not Graduate,Freelancer,14,Purchase,4792415.0,,,,1
+Home,34414,2936383,36,816083,1,3,Graduate,Freelancer,21,Renovation,4024231.0,,,,0
+Home,118381,4436438,180,661376,0,3,Graduate,Self-Employed,6,Purchase,4698117.0,,,,0
+Home,106087,1244807,24,81859,1,4,Not Graduate,Self-Employed,10,Education,1578022.0,,,,1
+Home,114442,1850259,120,487252,1,4,Not Graduate,Business Owner,6,Business Expansion,2592333.0,,,,1
+Home,151986,3106718,60,602239,1,1,Graduate,Freelancer,1,Refinance,4440839.0,,,,1
+Home,172010,4468096,24,334706,0,3,Not Graduate,Business Owner,28,Business Expansion,5730625.0,,,,0
+Home,169604,1212696,180,307643,0,3,Graduate,Business Owner,26,Refinance,2120530.0,,,,0
+Home,106927,1067937,240,98480,0,4,Not Graduate,Business Owner,15,Renovation,2154752.0,,,,0
+Home,65125,518740,60,105135,0,3,Graduate,Business Owner,0,Business Expansion,981796.0,,,,0
+Home,148654,2997808,120,882430,0,3,Not Graduate,Self-Employed,4,Education,4763196.0,,,,0
+Home,53352,3085514,24,627159,1,3,Graduate,Salaried,16,Renovation,4678332.0,,,,0
+Home,84299,2545518,36,569779,1,0,Not Graduate,Salaried,7,Purchase,2844786.0,,,,0
+Home,167351,4251171,360,244623,0,4,Not Graduate,Self-Employed,25,Purchase,5924050.0,,,,0
+Home,175741,193826,36,42432,1,0,Graduate,Freelancer,16,Refinance,1825692.0,,,,1
+Home,127729,543759,60,86785,0,2,Graduate,Self-Employed,13,Refinance,1609820.0,,,,0
+Home,139011,1029838,120,233780,1,3,Graduate,Business Owner,1,Refinance,1283986.0,,,,1
+Home,39888,4091474,36,644656,0,2,Graduate,Freelancer,29,Renovation,5565698.0,,,,0
+Home,133838,3114948,12,781733,0,4,Graduate,Business Owner,7,Business Expansion,3960552.0,,,,0
+Home,154620,2232438,12,201714,0,0,Not Graduate,Freelancer,30,Education,2941449.0,,,,0
+Home,161754,2744352,240,540644,1,1,Not Graduate,Salaried,25,Education,3547673.0,,,,1
+Home,123677,4994931,180,843996,0,3,Not Graduate,Salaried,19,Business Expansion,5815343.0,,,,0
+Home,39496,2412403,24,153676,0,4,Graduate,Self-Employed,15,Education,4288377.0,,,,0
+Home,186145,1817170,12,406665,1,3,Graduate,Self-Employed,4,Refinance,2450313.0,,,,0
+Home,48758,432739,360,49122,0,1,Not Graduate,Self-Employed,18,Refinance,675233.0,,,,0
+Home,124261,4039698,240,296522,0,1,Graduate,Salaried,4,Education,5655132.0,,,,0
+Home,155370,1799410,36,380235,0,2,Graduate,Business Owner,0,Education,2985442.0,,,,0
+Home,141765,114756,36,34145,1,2,Graduate,Freelancer,1,Business Expansion,2058152.0,,,,1
+Home,179961,1444769,12,76333,1,1,Graduate,Self-Employed,4,Business Expansion,2098331.0,,,,0
+Home,46869,3532262,12,707160,0,0,Graduate,Salaried,4,Purchase,4703459.0,,,,0
+Home,190741,4132563,12,1135813,0,4,Graduate,Business Owner,5,Purchase,5877870.0,,,,0
+Home,38764,2695765,120,698954,1,0,Not Graduate,Business Owner,15,Education,2969282.0,,,,1
+Home,71505,4955554,360,1048235,1,3,Not Graduate,Self-Employed,16,Purchase,6358646.0,,,,1
+Home,33862,2623430,360,613646,1,2,Not Graduate,Business Owner,3,Purchase,3832818.0,,,,1
+Home,30737,746859,240,119171,0,3,Graduate,Salaried,15,Refinance,1318984.0,,,,0
+Home,72735,2229739,120,405004,1,4,Not Graduate,Freelancer,1,Education,3270536.0,,,,1
+Home,119135,1742281,24,452992,0,0,Graduate,Self-Employed,14,Renovation,3720489.0,,,,0
+Home,19985,1436332,36,287100,0,2,Not Graduate,Salaried,26,Refinance,2733589.0,,,,0
+Home,107048,3689870,360,476991,0,0,Not Graduate,Salaried,4,Refinance,4960863.0,,,,0
+Home,48870,2303050,60,306101,1,2,Not Graduate,Business Owner,12,Refinance,3930209.0,,,,0
+Home,42616,743958,36,129164,0,0,Not Graduate,Self-Employed,24,Refinance,2381953.0,,,,0
+Home,73495,1740868,120,210750,0,0,Not Graduate,Self-Employed,1,Renovation,2617448.0,,,,0
+Home,76347,261231,60,66158,0,2,Graduate,Salaried,12,Purchase,2224352.0,,,,0
+Home,156568,1205401,36,324491,1,4,Not Graduate,Self-Employed,23,Refinance,1889713.0,,,,1
+Home,176531,4286227,180,338880,0,0,Not Graduate,Business Owner,25,Education,4642083.0,,,,0
+Home,124217,1853379,180,256599,0,2,Not Graduate,Freelancer,14,Purchase,3646314.0,,,,0
+Home,183581,3258614,120,568767,1,3,Graduate,Business Owner,28,Renovation,3484395.0,,,,1
+Home,187714,1849413,36,110487,0,2,Not Graduate,Business Owner,6,Purchase,2465083.0,,,,0
+Home,145258,4347328,240,775533,1,4,Not Graduate,Salaried,28,Education,5772626.0,,,,1
+Home,146434,3501951,24,365472,0,0,Graduate,Salaried,9,Education,5297685.0,,,,0
+Home,28840,3609254,180,455919,0,1,Not Graduate,Self-Employed,30,Refinance,5033087.0,,,,0
+Home,73405,3516217,120,663378,1,2,Graduate,Business Owner,6,Purchase,4022117.0,,,,1
+Home,145075,531014,36,75189,1,4,Not Graduate,Freelancer,19,Refinance,1978306.0,,,,1
+Home,60975,3314932,180,846380,1,0,Not Graduate,Self-Employed,19,Education,3904631.0,,,,1
+Home,26363,550770,24,155573,0,1,Graduate,Business Owner,4,Purchase,1686684.0,,,,0
+Home,187947,3855472,24,1086653,1,1,Not Graduate,Freelancer,17,Refinance,4489607.0,,,,0
+Home,43973,1144223,60,279395,1,0,Graduate,Freelancer,25,Education,2536512.0,,,,1
+Home,182362,4219300,360,1061255,1,3,Graduate,Freelancer,3,Refinance,4780928.0,,,,1
+Home,45209,486071,180,61102,0,0,Not Graduate,Business Owner,19,Business Expansion,1567095.0,,,,0
+Home,87633,2900380,120,224504,0,2,Graduate,Self-Employed,0,Business Expansion,4838485.0,,,,0
+Home,77453,2383862,12,198188,0,1,Graduate,Salaried,0,Refinance,2943691.0,,,,0
+Home,74131,3703633,36,1071429,0,2,Graduate,Self-Employed,27,Business Expansion,5652431.0,,,,0
+Home,120063,194911,24,34065,1,1,Not Graduate,Salaried,15,Education,395618.0,,,,1
+Home,167280,3574658,12,575405,1,4,Graduate,Freelancer,10,Refinance,4322426.0,,,,0
+Home,136922,1609289,24,422094,1,1,Not Graduate,Self-Employed,10,Purchase,3306779.0,,,,1
+Home,28194,4978074,120,544323,1,1,Graduate,Salaried,10,Renovation,5580480.0,,,,0
+Home,55306,4065447,60,366228,1,3,Graduate,Business Owner,10,Purchase,4551988.0,,,,0
+Home,170250,1930819,24,251898,0,0,Not Graduate,Self-Employed,19,Education,2978637.0,,,,0
+Home,54822,3964682,240,705606,1,4,Graduate,Salaried,1,Education,4942764.0,,,,1
+Home,72994,2477016,120,166637,0,1,Graduate,Freelancer,26,Business Expansion,4087559.0,,,,0
+Home,149334,4958369,360,1072436,1,0,Not Graduate,Business Owner,0,Education,5961258.0,,,,1
+Home,42474,3792391,60,903021,1,0,Not Graduate,Self-Employed,21,Education,4646107.0,,,,0
+Home,108380,1405868,36,180277,1,3,Graduate,Salaried,8,Purchase,2213721.0,,,,1
+Home,150689,3316095,60,965780,0,2,Not Graduate,Salaried,26,Education,3667963.0,,,,0
+Home,81512,2725963,360,651834,0,4,Graduate,Business Owner,23,Purchase,3047496.0,,,,0
+Home,40850,4816333,60,1367075,1,4,Graduate,Business Owner,22,Refinance,6812060.0,,,,0
+Home,30688,4363589,60,611748,0,4,Graduate,Freelancer,17,Purchase,5316259.0,,,,0
+Home,131926,1134866,60,302626,0,0,Graduate,Salaried,7,Education,2029322.0,,,,0
+Home,163248,1892252,12,395504,0,3,Not Graduate,Freelancer,15,Refinance,3438948.0,,,,0
+Home,36104,4328077,36,578980,0,4,Not Graduate,Business Owner,0,Refinance,4841502.0,,,,0
+Home,98550,1979603,24,300588,0,4,Graduate,Salaried,3,Refinance,3887952.0,,,,0
+Home,131224,3311979,240,305265,1,1,Graduate,Freelancer,12,Refinance,4993299.0,,,,1
+Home,59609,4761751,240,626747,1,0,Graduate,Business Owner,22,Renovation,5805800.0,,,,1
+Home,86818,4899882,24,691499,0,4,Graduate,Business Owner,27,Renovation,5748062.0,,,,0
+Home,77889,2778500,60,292454,1,2,Graduate,Business Owner,20,Refinance,4472701.0,,,,0
+Home,130955,3465315,36,564621,0,3,Graduate,Business Owner,22,Education,5177356.0,,,,0
+Home,36268,2723764,240,158029,1,1,Graduate,Self-Employed,8,Refinance,2939634.0,,,,1
+Home,179743,4122914,120,625425,0,1,Not Graduate,Salaried,9,Education,5285956.0,,,,0
+Home,197655,4244165,36,1146431,1,4,Not Graduate,Self-Employed,6,Business Expansion,6123743.0,,,,1
+Home,67603,832116,24,237447,1,1,Graduate,Freelancer,11,Renovation,1924745.0,,,,1
+Home,118744,4099535,24,373461,1,1,Not Graduate,Freelancer,11,Renovation,5857920.0,,,,0
+Home,36156,402852,180,49957,0,4,Not Graduate,Salaried,23,Purchase,1929632.0,,,,0
+Home,123088,4172299,120,254042,0,3,Graduate,Business Owner,9,Purchase,5822341.0,,,,0
+Home,154533,2160063,180,326592,1,0,Not Graduate,Salaried,8,Education,3921026.0,,,,1
+Home,101174,4507632,36,827755,0,1,Graduate,Self-Employed,19,Education,6368120.0,,,,0
+Home,23139,626115,120,32056,1,3,Not Graduate,Salaried,19,Education,2036074.0,,,,1
+Home,152189,3916204,120,977524,0,0,Graduate,Self-Employed,21,Education,4891315.0,,,,0
+Home,199639,4013111,360,446574,0,2,Not Graduate,Business Owner,8,Business Expansion,5206851.0,,,,0
+Home,148139,183224,36,53746,1,0,Graduate,Salaried,7,Business Expansion,1542958.0,,,,1
+Home,134926,4584035,24,667619,0,1,Not Graduate,Salaried,1,Refinance,6305205.0,,,,0
+Home,148685,3400291,60,252493,0,4,Graduate,Business Owner,4,Purchase,4677386.0,,,,0
+Home,126344,4530699,24,991136,1,1,Not Graduate,Freelancer,17,Refinance,5639538.0,,,,0
+Home,86395,2281439,240,391058,0,2,Graduate,Business Owner,0,Renovation,3773047.0,,,,0
+Home,94525,2683991,24,665183,0,4,Not Graduate,Freelancer,26,Education,3270255.0,,,,0
+Home,90517,1429813,60,252757,1,3,Not Graduate,Business Owner,27,Education,3331796.0,,,,1
+Home,84025,2781683,180,791801,0,2,Not Graduate,Salaried,4,Refinance,3438858.0,,,,0
+Home,29949,2376096,180,446521,1,2,Graduate,Freelancer,10,Renovation,3687167.0,,,,1
+Home,85932,729113,36,111406,0,3,Not Graduate,Business Owner,29,Education,2590455.0,,,,0
+Home,59600,4660482,360,845897,1,2,Not Graduate,Freelancer,17,Purchase,6080943.0,,,,1
+Home,191890,644164,24,56192,0,0,Graduate,Self-Employed,6,Refinance,987651.0,,,,0
+Home,99382,2296268,180,574845,0,4,Graduate,Business Owner,7,Business Expansion,2810735.0,,,,0
+Home,194900,2753173,180,754320,1,2,Not Graduate,Freelancer,6,Education,4665589.0,,,,1
+Home,69377,4676440,24,541335,0,1,Graduate,Business Owner,30,Renovation,6525556.0,,,,0
+Home,142821,3687277,180,270376,0,3,Not Graduate,Self-Employed,3,Renovation,4059406.0,,,,0
+Home,72457,1298956,24,272545,0,1,Graduate,Freelancer,10,Renovation,3004803.0,,,,0
+Home,117309,598788,60,30220,1,0,Not Graduate,Freelancer,8,Business Expansion,1687822.0,,,,1
+Home,132173,470745,60,104423,1,1,Not Graduate,Freelancer,27,Education,2124002.0,,,,1
+Home,170225,1777687,36,228928,1,4,Graduate,Freelancer,25,Renovation,3186205.0,,,,1
+Home,135291,734552,24,48634,0,4,Not Graduate,Self-Employed,23,Renovation,2549978.0,,,,0
+Home,127633,433861,24,108830,0,4,Graduate,Business Owner,18,Refinance,2282625.0,,,,0
+Home,183147,3418170,120,571531,1,0,Graduate,Freelancer,19,Business Expansion,4323728.0,,,,1
+Home,25791,1664075,60,472651,0,1,Graduate,Salaried,21,Purchase,2932847.0,,,,0
+Home,143814,2746035,240,342490,0,3,Graduate,Self-Employed,28,Renovation,3033351.0,,,,0
+Home,87452,467703,24,106448,1,4,Not Graduate,Self-Employed,10,Business Expansion,1930390.0,,,,1
+Home,89231,2195793,240,516203,1,1,Graduate,Self-Employed,14,Business Expansion,3860798.0,,,,1
+Home,159363,4788505,12,431512,1,2,Not Graduate,Self-Employed,23,Refinance,6437740.0,,,,0
+Home,179038,4386635,24,517633,1,0,Not Graduate,Self-Employed,7,Renovation,5953221.0,,,,0
+Home,98561,4560781,360,546374,0,0,Not Graduate,Salaried,5,Refinance,5564884.0,,,,0
+Home,91777,767658,60,220960,0,2,Not Graduate,Self-Employed,23,Renovation,2593070.0,,,,0
+Home,22486,835785,240,73146,1,0,Graduate,Self-Employed,16,Renovation,2722012.0,,,,1
+Home,25568,2961148,12,575202,1,0,Not Graduate,Business Owner,30,Refinance,3407732.0,,,,0
+Home,70656,3225732,12,303303,0,0,Graduate,Self-Employed,26,Renovation,4002971.0,,,,0
+Home,27853,3148550,24,858474,1,0,Not Graduate,Freelancer,1,Business Expansion,3761258.0,,,,0
+Home,136668,2624027,360,463328,1,1,Not Graduate,Salaried,23,Renovation,3804676.0,,,,1
+Home,142364,1270985,180,292669,0,1,Not Graduate,Business Owner,24,Education,2422372.0,,,,0
+Home,175474,2503308,120,510873,0,0,Not Graduate,Self-Employed,20,Purchase,3081961.0,,,,0
+Home,47439,2104133,60,251576,1,1,Not Graduate,Salaried,10,Purchase,3967687.0,,,,0
+Home,43494,4570550,240,1046949,0,1,Graduate,Self-Employed,16,Refinance,6165217.0,,,,0
+Home,41147,948051,12,64642,1,0,Not Graduate,Salaried,4,Purchase,2864084.0,,,,0
+Home,167706,4063897,360,873681,0,1,Graduate,Freelancer,8,Refinance,4676711.0,,,,0
+Home,138964,4808376,120,622611,0,4,Graduate,Salaried,3,Renovation,6474313.0,,,,0
+Home,15653,4164872,360,574960,1,1,Not Graduate,Business Owner,15,Renovation,5745561.0,,,,0
+Home,73413,2281890,60,288944,0,3,Not Graduate,Freelancer,10,Business Expansion,4270281.0,,,,0
+Home,67369,486970,24,116558,1,0,Not Graduate,Self-Employed,0,Education,1408291.0,,,,1
+Home,22042,4437514,12,1114002,0,3,Graduate,Self-Employed,22,Refinance,4934318.0,,,,0
+Home,78256,3917976,180,514226,0,3,Not Graduate,Business Owner,19,Education,5211632.0,,,,0
+Home,162233,2761929,180,283594,0,4,Not Graduate,Self-Employed,2,Refinance,4286229.0,,,,0
+Home,120612,624989,180,90822,0,2,Graduate,Freelancer,9,Purchase,2150855.0,,,,0
+Home,110835,1178606,60,168969,1,2,Not Graduate,Freelancer,22,Purchase,1552269.0,,,,1
+Home,157675,3467271,240,495343,1,1,Graduate,Salaried,11,Education,4675431.0,,,,1
+Home,20538,4914142,60,783797,0,4,Not Graduate,Business Owner,20,Education,6438830.0,,,,0
+Home,113290,2616021,60,381478,1,0,Graduate,Salaried,7,Education,4400304.0,,,,1
+Home,51993,4646244,240,768039,0,2,Graduate,Freelancer,17,Purchase,6237656.0,,,,0
+Home,21881,4337442,360,1297234,1,3,Not Graduate,Self-Employed,18,Refinance,4630286.0,,,,1
+Home,183422,2252926,60,452155,0,1,Not Graduate,Salaried,30,Renovation,3032997.0,,,,0
+Home,47615,4137855,36,1008842,0,2,Not Graduate,Business Owner,28,Business Expansion,4753451.0,,,,0
+Home,113223,3601128,24,491814,1,2,Graduate,Freelancer,4,Renovation,3948528.0,,,,0
+Home,96158,941221,12,173506,1,0,Not Graduate,Self-Employed,23,Education,1902853.0,,,,0
+Home,106638,2586317,24,600257,1,4,Not Graduate,Self-Employed,12,Refinance,3533416.0,,,,0
+Home,197892,968789,240,58135,0,3,Not Graduate,Salaried,10,Business Expansion,1688280.0,,,,0
+Home,46410,2730020,60,465519,1,2,Graduate,Salaried,4,Business Expansion,3498736.0,,,,0
+Home,64437,3429453,240,397423,0,1,Graduate,Salaried,24,Renovation,4518986.0,,,,0
+Home,166445,2855638,36,557278,0,2,Graduate,Freelancer,15,Refinance,3964298.0,,,,0
+Home,164051,4622254,360,1267262,0,3,Not Graduate,Salaried,9,Refinance,5426369.0,,,,0
+Home,49082,2180289,240,630086,1,4,Graduate,Freelancer,19,Business Expansion,4044257.0,,,,1
+Home,113939,1743990,12,264704,1,1,Graduate,Business Owner,30,Business Expansion,2451355.0,,,,0
+Home,104510,1945183,240,323420,0,3,Graduate,Salaried,6,Purchase,2831515.0,,,,0
+Home,142399,1956927,240,152772,1,2,Graduate,Freelancer,8,Refinance,2811535.0,,,,1
+Home,175277,1637660,120,447562,1,3,Graduate,Salaried,12,Purchase,2591966.0,,,,1
+Home,195909,205681,360,32966,0,1,Graduate,Self-Employed,9,Education,1386477.0,,,,0
+Home,52896,1276326,36,374502,1,1,Not Graduate,Business Owner,23,Education,3192706.0,,,,1
+Home,93530,3833641,36,838031,1,3,Graduate,Self-Employed,14,Business Expansion,5376737.0,,,,0
+Home,96753,2313159,360,235508,0,4,Not Graduate,Self-Employed,0,Business Expansion,4071204.0,,,,0
+Home,51238,785860,180,114051,1,0,Graduate,Salaried,5,Refinance,1702868.0,,,,1
+Home,157391,3618086,24,338786,1,0,Graduate,Self-Employed,10,Education,4109540.0,,,,0
+Home,66180,2604763,120,634749,0,4,Not Graduate,Salaried,0,Renovation,4588881.0,,,,0
+Home,132889,4001382,12,808918,1,3,Graduate,Salaried,25,Purchase,5589919.0,,,,0
+Home,152618,4869519,120,673326,0,2,Not Graduate,Freelancer,25,Education,6423904.0,,,,0
+Home,50311,2218965,180,422831,0,2,Graduate,Self-Employed,15,Purchase,3672547.0,,,,0
+Home,21757,561519,60,77104,0,2,Graduate,Self-Employed,26,Purchase,1168326.0,,,,0
+Home,84051,1431559,36,182689,0,4,Graduate,Salaried,21,Business Expansion,2725924.0,,,,0
+Home,101547,363320,60,55234,1,2,Not Graduate,Freelancer,23,Renovation,1993452.0,,,,1
+Home,155294,3185628,240,692525,0,4,Not Graduate,Freelancer,6,Refinance,4909355.0,,,,0
+Home,17374,932859,180,157982,1,0,Graduate,Self-Employed,6,Education,1821544.0,,,,1
+Home,43136,3594264,120,878814,1,2,Not Graduate,Business Owner,14,Business Expansion,5158548.0,,,,0
+Home,188400,2991201,60,865195,1,2,Graduate,Freelancer,20,Renovation,3510590.0,,,,1
+Home,59040,201300,360,38787,1,1,Graduate,Freelancer,29,Refinance,1482494.0,,,,1
+Home,25931,4595240,36,741176,0,4,Graduate,Freelancer,12,Refinance,5460482.0,,,,0
+Home,198712,805732,12,68716,1,3,Not Graduate,Freelancer,30,Education,1565351.0,,,,1
+Home,77247,3639992,36,962021,0,1,Not Graduate,Salaried,6,Refinance,5550635.0,,,,0
+Home,30626,2336716,120,315247,0,1,Not Graduate,Salaried,16,Refinance,3180688.0,,,,0
+Home,187136,3500845,120,295012,0,0,Graduate,Freelancer,11,Education,5007405.0,,,,0
+Home,137409,4458562,36,244235,1,4,Graduate,Salaried,6,Refinance,4691334.0,,,,0
+Home,46703,4103872,360,1078200,1,1,Graduate,Salaried,26,Renovation,4343765.0,,,,1
+Home,160774,868140,12,55909,1,1,Not Graduate,Salaried,20,Purchase,2544337.0,,,,1
+Home,26857,4023155,36,516596,1,4,Graduate,Business Owner,29,Purchase,5129658.0,,,,0
+Home,192462,517414,120,108921,1,3,Not Graduate,Freelancer,15,Education,1022893.0,,,,1
+Home,176045,3068418,120,774731,1,3,Not Graduate,Business Owner,15,Education,3537094.0,,,,1
+Home,157297,4645526,180,1260167,0,0,Not Graduate,Freelancer,7,Renovation,5536573.0,,,,0
+Home,170133,2165825,12,544880,0,0,Not Graduate,Salaried,24,Renovation,4109317.0,,,,0
+Home,132836,3070266,36,665281,0,1,Not Graduate,Self-Employed,24,Business Expansion,4648781.0,,,,0
+Home,23966,2823806,24,489493,1,1,Not Graduate,Self-Employed,23,Education,3831530.0,,,,0
+Home,84786,1682175,120,337987,0,0,Graduate,Self-Employed,30,Renovation,2486116.0,,,,0
+Home,156118,4409175,12,1226072,0,1,Not Graduate,Business Owner,5,Education,4660082.0,,,,0
+Home,31887,2816650,240,778985,1,3,Not Graduate,Salaried,22,Education,4684735.0,,,,1
+Home,145027,3681310,240,758447,1,4,Not Graduate,Business Owner,28,Business Expansion,3940005.0,,,,1
+Home,28109,3099152,60,827767,1,3,Graduate,Salaried,26,Education,4864864.0,,,,0
+Home,26547,3774816,24,678861,0,4,Graduate,Business Owner,30,Business Expansion,4453511.0,,,,0
+Home,33272,3539459,60,755121,1,1,Not Graduate,Business Owner,11,Renovation,4469564.0,,,,0
+Home,98663,1810208,24,299703,0,1,Not Graduate,Freelancer,25,Purchase,3049907.0,,,,0
+Home,85646,3495918,240,201981,1,4,Not Graduate,Freelancer,10,Purchase,4353614.0,,,,1
+Home,29592,724450,24,189840,0,2,Graduate,Self-Employed,24,Education,1645421.0,,,,0
+Home,147710,4219972,12,1017902,1,2,Graduate,Salaried,24,Business Expansion,4755790.0,,,,0
+Home,187056,2179989,24,303028,0,1,Graduate,Self-Employed,23,Renovation,3445755.0,,,,0
+Home,155449,1727126,120,184895,0,2,Not Graduate,Self-Employed,20,Purchase,3038198.0,,,,0
+Home,140434,1212444,360,96156,1,0,Not Graduate,Self-Employed,12,Refinance,2325762.0,,,,1
+Home,183538,4111600,60,871883,0,0,Graduate,Business Owner,29,Education,5349127.0,,,,0
+Home,92759,1696559,24,368961,0,2,Not Graduate,Freelancer,14,Refinance,3141622.0,,,,0
+Home,30506,2208658,180,442018,0,0,Graduate,Business Owner,12,Renovation,2480975.0,,,,0
+Home,76023,3818508,24,677545,1,4,Graduate,Self-Employed,13,Renovation,4029958.0,,,,0
+Home,34292,3596801,180,572339,0,4,Not Graduate,Freelancer,7,Refinance,4361829.0,,,,0
+Home,196053,2182226,120,146799,1,4,Graduate,Self-Employed,20,Education,3978911.0,,,,1
+Home,181010,1753561,60,255293,0,0,Graduate,Self-Employed,10,Renovation,2977831.0,,,,0
+Home,66644,4183079,120,969843,0,0,Graduate,Business Owner,21,Business Expansion,5754927.0,,,,0
+Home,93143,621560,180,144429,1,1,Not Graduate,Self-Employed,22,Education,2413806.0,,,,1
+Home,44342,2091398,120,199956,0,0,Not Graduate,Self-Employed,2,Renovation,3614960.0,,,,0
+Home,198477,3341461,240,577173,0,3,Graduate,Business Owner,19,Refinance,4305830.0,,,,0
+Home,83804,2431507,360,575617,1,1,Graduate,Freelancer,14,Renovation,3171810.0,,,,1
+Home,60415,422065,36,76459,0,2,Not Graduate,Self-Employed,27,Education,1048988.0,,,,0
+Home,117589,3548436,360,181939,1,2,Not Graduate,Self-Employed,30,Business Expansion,4954938.0,,,,1
+Home,105898,3611028,120,946350,1,2,Graduate,Salaried,18,Education,4702813.0,,,,1
+Home,116455,4918847,240,958234,1,0,Not Graduate,Business Owner,16,Business Expansion,6686952.0,,,,1
+Home,158388,3666312,240,662955,1,2,Not Graduate,Business Owner,0,Refinance,4387314.0,,,,1
+Home,120523,1138984,24,271599,0,3,Graduate,Business Owner,1,Refinance,1493735.0,,,,0
+Home,176037,3261107,60,594843,1,2,Graduate,Business Owner,29,Education,3503779.0,,,,1
+Home,102909,644037,180,155506,1,0,Not Graduate,Freelancer,3,Refinance,2468472.0,,,,1
+Home,184520,3381077,24,485451,0,0,Graduate,Self-Employed,30,Refinance,4571305.0,,,,0
+Home,113158,4861351,12,1405165,1,4,Graduate,Freelancer,30,Education,5875919.0,,,,0
+Home,172760,4834859,360,478761,1,4,Graduate,Salaried,24,Education,5109639.0,,,,1
+Home,164238,2605301,120,173214,0,0,Graduate,Self-Employed,11,Refinance,3596910.0,,,,0
+Home,161952,1906594,360,430690,1,4,Not Graduate,Business Owner,14,Purchase,3386207.0,,,,1
+Home,139569,1160420,120,239543,1,4,Graduate,Freelancer,26,Education,2574629.0,,,,1
+Home,29715,3204598,60,470565,1,4,Graduate,Salaried,19,Refinance,4716966.0,,,,0
+Home,172048,2376712,180,556985,0,3,Graduate,Business Owner,10,Purchase,3683695.0,,,,0
+Home,21340,4013522,60,562689,1,2,Not Graduate,Salaried,6,Business Expansion,4361354.0,,,,0
+Home,91128,711163,360,89413,0,1,Graduate,Freelancer,3,Purchase,1290457.0,,,,0
+Home,86224,2197910,36,658135,1,3,Not Graduate,Salaried,0,Purchase,3661913.0,,,,1
+Home,131643,2358882,60,576809,0,0,Graduate,Business Owner,0,Refinance,3730481.0,,,,0
+Home,96423,2591676,36,486262,1,3,Not Graduate,Self-Employed,2,Education,4272641.0,,,,0
+Home,48381,588269,180,76612,1,4,Not Graduate,Self-Employed,2,Refinance,1788751.0,,,,1
+Home,26002,2744693,12,704956,1,0,Graduate,Self-Employed,0,Purchase,4666469.0,,,,0
+Home,91397,1829429,240,532425,0,1,Graduate,Salaried,15,Refinance,2570530.0,,,,0
+Home,115870,4616948,36,566586,0,0,Graduate,Business Owner,23,Education,5820508.0,,,,0
+Home,97548,3738706,24,970942,0,0,Not Graduate,Business Owner,6,Business Expansion,5672930.0,,,,0
+Home,136877,4678371,180,622130,0,4,Graduate,Business Owner,14,Purchase,6590358.0,,,,0
+Home,155156,1658778,240,275515,0,4,Not Graduate,Salaried,19,Purchase,3393242.0,,,,0
+Home,125964,3762417,240,555086,0,2,Not Graduate,Salaried,14,Purchase,4553424.0,,,,0
+Home,117835,2573172,180,459557,1,3,Not Graduate,Freelancer,30,Renovation,3413212.0,,,,1
+Home,195691,3488644,240,683508,0,2,Graduate,Self-Employed,29,Education,5044582.0,,,,0
+Home,70968,1014210,360,118995,0,2,Not Graduate,Business Owner,9,Business Expansion,2458496.0,,,,0
+Home,21004,3409624,12,182176,0,4,Not Graduate,Business Owner,28,Purchase,4334875.0,,,,0
+Home,44620,4636298,36,983514,0,2,Graduate,Business Owner,11,Refinance,6219248.0,,,,0
+Home,52105,2890412,12,658769,1,4,Graduate,Freelancer,3,Business Expansion,3558925.0,,,,0
+Home,79899,2998918,360,813632,1,0,Graduate,Salaried,20,Renovation,4893681.0,,,,1
+Home,135196,1445459,360,236391,1,2,Graduate,Self-Employed,10,Business Expansion,2183326.0,,,,1
+Home,154726,983721,36,86791,0,3,Graduate,Salaried,20,Refinance,2795206.0,,,,0
+Home,42081,4549251,24,700744,0,2,Graduate,Freelancer,7,Education,6014128.0,,,,0
+Home,101964,3307692,360,761964,0,3,Not Graduate,Salaried,25,Refinance,4173699.0,,,,0
+Home,70282,4414953,60,263927,1,2,Not Graduate,Freelancer,26,Business Expansion,5607331.0,,,,0
+Home,45659,4368019,36,873290,0,4,Not Graduate,Self-Employed,6,Renovation,5445785.0,,,,0
+Home,171639,2484704,360,130156,1,3,Graduate,Salaried,11,Education,3624157.0,,,,1
+Home,120856,4479811,24,779933,1,0,Graduate,Freelancer,28,Business Expansion,5121423.0,,,,0
+Home,90027,4540324,360,398413,0,1,Graduate,Salaried,0,Purchase,5328750.0,,,,0
+Home,45463,3754305,120,1069935,1,1,Graduate,Business Owner,25,Refinance,5390431.0,,,,1
+Home,83948,3771972,120,1097201,1,4,Not Graduate,Salaried,17,Business Expansion,5531173.0,,,,1
+Home,17439,107844,240,16151,1,2,Not Graduate,Self-Employed,30,Renovation,1757246.0,,,,1
+Home,31967,1781176,120,355327,0,3,Graduate,Freelancer,26,Renovation,2404468.0,,,,0
+Home,123450,2466858,24,722104,0,1,Graduate,Business Owner,25,Purchase,3601637.0,,,,0
+Home,106344,2337740,12,413142,1,3,Graduate,Salaried,8,Refinance,4168260.0,,,,0
+Home,83903,4187901,12,668894,0,3,Graduate,Freelancer,1,Business Expansion,5841335.0,,,,0
+Home,158486,2674097,24,191454,1,4,Not Graduate,Freelancer,17,Business Expansion,3653508.0,,,,0
+Home,158849,4838578,240,1095311,1,4,Graduate,Self-Employed,21,Refinance,5702828.0,,,,1
+Home,20958,962390,24,235090,0,3,Not Graduate,Salaried,19,Business Expansion,2129082.0,,,,0
+Home,16542,4152414,36,821185,1,3,Not Graduate,Self-Employed,24,Refinance,6069533.0,,,,0
+Home,101482,1421782,120,238432,0,4,Not Graduate,Business Owner,10,Purchase,2615148.0,,,,0
+Home,192101,4951009,36,1226327,1,3,Graduate,Self-Employed,14,Education,5254462.0,,,,0
+Home,66430,3915815,24,1106900,1,1,Not Graduate,Business Owner,7,Business Expansion,5251404.0,,,,0
+Home,67008,4018307,12,521377,1,3,Graduate,Salaried,13,Business Expansion,5360163.0,,,,0
+Home,128544,4700725,24,1321705,1,0,Not Graduate,Business Owner,15,Purchase,6469738.0,,,,0
+Home,56093,951812,120,178446,0,2,Graduate,Freelancer,4,Education,2190650.0,,,,0
+Home,111923,4193093,180,710577,0,1,Graduate,Freelancer,4,Renovation,5458667.0,,,,0
+Home,143331,3869261,36,227399,1,3,Not Graduate,Self-Employed,23,Purchase,4218091.0,,,,0
+Home,192483,2318427,240,681625,0,1,Not Graduate,Freelancer,11,Refinance,2842867.0,,,,0
+Home,128307,3553773,360,261223,0,3,Not Graduate,Business Owner,14,Renovation,5496879.0,,,,0
+Home,89362,3588726,36,472520,0,3,Graduate,Freelancer,20,Refinance,5584394.0,,,,0
+Home,23776,2864228,180,858128,1,0,Not Graduate,Business Owner,22,Purchase,4569064.0,,,,1
+Home,159346,241174,240,47122,0,1,Graduate,Business Owner,2,Purchase,453652.0,,,,0
+Home,78398,447085,24,81033,0,1,Not Graduate,Self-Employed,1,Renovation,2445894.0,,,,0
+Home,66457,2643882,120,447815,1,1,Graduate,Self-Employed,5,Refinance,3870105.0,,,,1
+Home,135289,4350356,360,743519,1,3,Graduate,Self-Employed,30,Education,4558383.0,,,,1
+Home,51608,2883114,360,782068,0,4,Graduate,Freelancer,15,Business Expansion,4230660.0,,,,0
+Home,30123,762066,180,83538,1,2,Graduate,Self-Employed,3,Purchase,2657204.0,,,,1
+Home,21303,4931995,240,1136058,0,0,Not Graduate,Salaried,5,Business Expansion,5533414.0,,,,0
+Home,47311,4129112,36,249199,1,3,Graduate,Self-Employed,2,Education,4362213.0,,,,0
+Home,165974,897188,12,127798,1,2,Graduate,Salaried,22,Education,2718327.0,,,,1
+Home,37487,1441887,240,202112,1,0,Not Graduate,Freelancer,4,Business Expansion,2205460.0,,,,1
+Home,192549,1772361,12,390429,0,1,Not Graduate,Salaried,25,Renovation,2996468.0,,,,0
+Home,143935,2496507,240,703473,0,4,Not Graduate,Salaried,0,Renovation,3484651.0,,,,0
+Home,77484,2167915,24,184073,0,3,Not Graduate,Freelancer,17,Business Expansion,3817276.0,,,,0
+Home,169241,4120857,240,565328,0,1,Not Graduate,Business Owner,4,Business Expansion,5554421.0,,,,0
+Home,70206,797149,36,65196,1,4,Graduate,Freelancer,13,Business Expansion,1046204.0,,,,1
+Home,90162,3776785,60,1112662,1,0,Not Graduate,Business Owner,6,Purchase,5291136.0,,,,1
+Home,119260,3029264,12,781572,1,0,Not Graduate,Freelancer,1,Business Expansion,4762030.0,,,,0
+Home,101713,3637040,180,798171,1,1,Not Graduate,Freelancer,27,Purchase,4153379.0,,,,1
+Home,73050,204336,24,30528,0,2,Not Graduate,Business Owner,29,Business Expansion,427901.0,,,,0
+Home,148636,3067776,24,205257,1,1,Not Graduate,Self-Employed,5,Purchase,4620464.0,,,,0
+Home,19453,2057113,360,144443,1,4,Graduate,Freelancer,10,Renovation,3868321.0,,,,1
+Home,100268,1545814,240,416501,0,3,Not Graduate,Self-Employed,15,Business Expansion,2350353.0,,,,0
+Home,139987,1152334,12,166595,0,4,Graduate,Salaried,18,Purchase,2166776.0,,,,0
+Home,42114,949988,36,70298,1,4,Graduate,Freelancer,0,Renovation,2309939.0,,,,0
+Home,29626,2391448,24,225326,1,0,Not Graduate,Salaried,18,Purchase,3607927.0,,,,0
+Home,88048,2426785,360,597294,1,3,Graduate,Salaried,1,Business Expansion,3224617.0,,,,1
+Home,23472,1740512,180,458614,1,3,Not Graduate,Freelancer,20,Purchase,2619561.0,,,,1
+Home,162476,3094178,240,556763,1,4,Not Graduate,Business Owner,17,Renovation,4825269.0,,,,1
+Home,165802,2667478,180,217163,0,3,Graduate,Salaried,8,Business Expansion,3317325.0,,,,0
+Home,34099,2745968,120,695161,1,2,Not Graduate,Business Owner,15,Renovation,2959287.0,,,,0
+Home,180885,2763407,120,492749,1,3,Not Graduate,Freelancer,2,Purchase,3606324.0,,,,1
+Home,100812,169286,180,12272,0,2,Graduate,Salaried,24,Purchase,788286.0,,,,0
+Home,126471,3963205,60,1139800,0,4,Graduate,Self-Employed,22,Renovation,4408757.0,,,,0
+Home,100378,4130751,120,495391,0,3,Not Graduate,Business Owner,25,Refinance,5828186.0,,,,0
+Home,170659,556726,360,163334,1,3,Not Graduate,Salaried,27,Education,1117392.0,,,,1
+Home,17703,4328387,12,417796,1,4,Graduate,Salaried,18,Business Expansion,4692096.0,,,,0
+Home,89377,1865879,36,117030,0,0,Not Graduate,Salaried,7,Purchase,3452572.0,,,,0
+Home,76809,129806,180,23715,1,2,Not Graduate,Freelancer,0,Refinance,901452.0,,,,1
+Home,193750,3017344,240,614052,1,2,Not Graduate,Salaried,16,Renovation,4639560.0,,,,1
+Home,122939,4686775,360,1013777,0,4,Graduate,Freelancer,12,Purchase,6285474.0,,,,0
+Home,91371,3176917,240,293005,1,4,Graduate,Freelancer,14,Renovation,4710366.0,,,,1
+Home,28517,3856381,24,924140,1,2,Graduate,Self-Employed,1,Renovation,4436391.0,,,,0
+Home,61014,2262756,12,430086,0,3,Not Graduate,Salaried,3,Purchase,4258735.0,,,,0
+Home,107890,3776620,60,1013294,0,0,Not Graduate,Self-Employed,27,Renovation,5338791.0,,,,0
+Home,188478,2786249,360,236774,0,0,Not Graduate,Business Owner,8,Business Expansion,3433680.0,,,,0
+Home,101457,2816906,60,570126,1,3,Not Graduate,Freelancer,25,Education,3386235.0,,,,1
+Home,122060,3371295,36,264792,1,0,Graduate,Freelancer,11,Renovation,5125367.0,,,,0
+Home,23202,1323729,180,243026,1,3,Not Graduate,Freelancer,20,Refinance,2068203.0,,,,1
+Home,76681,1959134,360,289591,1,0,Not Graduate,Freelancer,8,Refinance,2969941.0,,,,1
+Home,195278,3159161,24,358078,0,0,Not Graduate,Self-Employed,24,Refinance,4021924.0,,,,0
+Home,97201,1185872,60,326529,0,3,Graduate,Business Owner,6,Renovation,2271077.0,,,,0
+Home,158642,4364145,360,504499,1,3,Graduate,Self-Employed,7,Purchase,5350829.0,,,,1
+Home,180038,864569,180,255684,0,4,Not Graduate,Salaried,28,Refinance,2088382.0,,,,0
+Home,158490,2271087,360,617010,0,4,Not Graduate,Business Owner,21,Purchase,4133449.0,,,,0
+Home,36532,4987731,360,1028121,1,4,Graduate,Freelancer,9,Business Expansion,6233946.0,,,,1
+Home,60030,2006674,36,422646,0,0,Not Graduate,Freelancer,11,Renovation,3866810.0,,,,0
+Home,142895,753381,36,191654,1,2,Not Graduate,Salaried,26,Education,1859016.0,,,,1
+Home,73289,1331600,60,93515,1,0,Graduate,Freelancer,22,Business Expansion,2859267.0,,,,1
+Home,133236,4806252,60,762759,0,0,Graduate,Business Owner,30,Business Expansion,5916428.0,,,,0
+Home,145408,2661455,360,396388,1,2,Graduate,Freelancer,30,Refinance,3098997.0,,,,1
+Home,148060,2169418,120,500398,0,1,Not Graduate,Business Owner,25,Business Expansion,3855407.0,,,,0
+Home,26989,3308971,24,785035,0,1,Graduate,Salaried,21,Business Expansion,5175293.0,,,,0
+Home,139119,387555,36,30653,1,4,Graduate,Freelancer,0,Business Expansion,596311.0,,,,1
+Home,92989,2289966,120,573218,1,3,Graduate,Business Owner,15,Refinance,3074363.0,,,,1
+Home,174148,3983520,60,849313,0,0,Graduate,Self-Employed,21,Business Expansion,5788323.0,,,,0
+Home,161253,3397200,120,733128,1,1,Not Graduate,Self-Employed,21,Education,5344347.0,,,,1
+Home,161109,2548516,60,211187,1,3,Graduate,Business Owner,1,Renovation,4177041.0,,,,1
+Home,30208,3697235,24,758780,0,4,Graduate,Business Owner,5,Business Expansion,4377426.0,,,,0
+Home,153546,3103962,60,413992,1,2,Graduate,Salaried,16,Business Expansion,4975281.0,,,,1
+Home,198846,1326519,24,189300,0,4,Graduate,Self-Employed,28,Purchase,2314975.0,,,,0
+Home,129262,3295735,240,297878,1,1,Graduate,Business Owner,0,Refinance,4764473.0,,,,1
+Home,85527,1006861,24,157471,0,0,Graduate,Freelancer,0,Renovation,2270358.0,,,,0
+Home,180694,1834801,360,486548,1,0,Not Graduate,Business Owner,13,Business Expansion,2367246.0,,,,1
+Home,85668,1215252,60,151729,0,0,Graduate,Self-Employed,19,Education,3004760.0,,,,0
+Home,162295,3396725,240,350031,1,1,Not Graduate,Salaried,21,Renovation,3847074.0,,,,1
+Home,99606,607419,60,124730,0,0,Graduate,Freelancer,12,Business Expansion,944229.0,,,,0
+Home,53670,4362753,360,702788,1,4,Not Graduate,Business Owner,24,Renovation,5975621.0,,,,1
+Home,146341,2981155,60,888650,1,0,Not Graduate,Salaried,22,Refinance,4021502.0,,,,1
+Home,88754,115148,360,13115,1,0,Graduate,Self-Employed,11,Purchase,2074933.0,,,,1
+Home,179976,1286796,60,286490,0,0,Not Graduate,Salaried,27,Refinance,2829948.0,,,,0
+Home,54132,2328898,36,120430,1,1,Not Graduate,Freelancer,18,Renovation,2753462.0,,,,0
+Home,45287,4319942,36,226940,0,2,Not Graduate,Salaried,22,Purchase,5088087.0,,,,0
+Home,57467,3017748,120,384120,1,2,Graduate,Salaried,14,Renovation,3302969.0,,,,1
+Home,119545,471878,120,126179,0,1,Not Graduate,Salaried,11,Purchase,2298952.0,,,,0
+Home,56844,3620656,180,661182,1,0,Graduate,Business Owner,11,Business Expansion,4119766.0,,,,1
+Home,90508,768181,180,132510,1,4,Graduate,Freelancer,27,Renovation,1226109.0,,,,1
+Home,172858,1679605,12,96838,0,3,Graduate,Freelancer,16,Business Expansion,2019016.0,,,,0
+Home,165177,3535027,180,688787,1,1,Graduate,Salaried,26,Business Expansion,4358421.0,,,,1
+Home,145073,4586000,180,1286733,0,1,Not Graduate,Freelancer,27,Renovation,5120912.0,,,,0
+Home,42478,2804741,24,495148,0,0,Not Graduate,Business Owner,24,Purchase,4419852.0,,,,0
+Home,157528,4890288,60,1117806,0,2,Graduate,Salaried,21,Education,6260483.0,,,,0
+Home,22222,2514039,12,150691,0,1,Not Graduate,Salaried,9,Business Expansion,3516352.0,,,,0
+Home,29562,4940277,240,1185243,0,0,Graduate,Salaried,14,Renovation,6576416.0,,,,0
+Home,70000,757575,180,177665,1,3,Not Graduate,Freelancer,5,Business Expansion,2117758.0,,,,1
+Home,183742,1073347,36,314099,1,1,Not Graduate,Business Owner,6,Business Expansion,1534027.0,,,,1
+Home,34718,3433563,24,299984,1,3,Not Graduate,Salaried,5,Renovation,4736161.0,,,,0
+Home,42748,4585014,24,1046763,1,1,Graduate,Self-Employed,26,Business Expansion,5748634.0,,,,0
+Home,168695,3167026,60,810789,1,2,Not Graduate,Salaried,29,Education,4624801.0,,,,1
+Home,154751,3145129,36,378778,0,4,Graduate,Salaried,20,Purchase,4365694.0,,,,0
+Home,63335,3345846,36,848939,0,3,Not Graduate,Self-Employed,23,Refinance,4707092.0,,,,0
+Home,113064,4980556,24,623683,0,2,Not Graduate,Freelancer,17,Education,5738699.0,,,,0
+Home,158714,323499,360,35504,0,3,Not Graduate,Freelancer,24,Refinance,1647776.0,,,,0
+Home,35631,350284,24,74980,0,3,Not Graduate,Business Owner,30,Purchase,1586650.0,,,,0
+Home,60861,927514,36,271288,1,0,Not Graduate,Salaried,12,Renovation,1768263.0,,,,1
+Home,164433,2255189,36,366306,0,2,Not Graduate,Self-Employed,17,Purchase,3763367.0,,,,0
+Home,31379,2949077,240,511000,1,1,Graduate,Business Owner,28,Purchase,3341838.0,,,,1
+Home,61285,2326816,12,493624,0,1,Graduate,Self-Employed,5,Renovation,3778958.0,,,,0
+Home,19945,2354730,360,299692,0,1,Not Graduate,Freelancer,30,Business Expansion,2669416.0,,,,0
+Home,176985,2512759,240,502984,0,4,Graduate,Self-Employed,24,Refinance,3527796.0,,,,0
+Home,138267,2936036,360,858686,1,3,Graduate,Freelancer,13,Purchase,3222571.0,,,,1
+Home,47070,3182551,180,166385,0,2,Graduate,Business Owner,10,Business Expansion,4643424.0,,,,0
+Home,162680,4444551,36,699367,0,4,Graduate,Self-Employed,7,Renovation,6046764.0,,,,0
+Home,173768,4996052,36,1392550,1,2,Not Graduate,Freelancer,24,Renovation,5828851.0,,,,0
+Home,144316,1456925,360,425416,0,0,Not Graduate,Business Owner,1,Education,1983025.0,,,,0
+Home,51247,973504,60,95832,0,2,Graduate,Self-Employed,6,Purchase,1745045.0,,,,0
+Home,195056,2514113,180,631793,0,3,Not Graduate,Business Owner,17,Business Expansion,3246670.0,,,,0
+Home,185590,3606794,120,572722,1,2,Not Graduate,Business Owner,23,Renovation,3923248.0,,,,1
+Home,105070,2263906,120,324808,0,4,Graduate,Business Owner,0,Education,3670696.0,,,,0
+Home,83935,569425,36,62119,1,1,Graduate,Freelancer,9,Refinance,2105783.0,,,,1
+Home,192961,2901990,360,193456,1,3,Not Graduate,Freelancer,5,Renovation,4585163.0,,,,1
+Home,183155,4559568,120,1313830,0,4,Not Graduate,Business Owner,15,Refinance,6227114.0,,,,0
+Home,55663,3721647,36,916745,0,1,Not Graduate,Salaried,13,Education,5418734.0,,,,0
+Home,177043,2793087,240,653765,1,1,Graduate,Business Owner,28,Renovation,4193377.0,,,,1
+Home,106060,3004655,120,882154,0,1,Graduate,Self-Employed,18,Business Expansion,4317130.0,,,,0
+Home,158605,875062,180,207333,0,4,Not Graduate,Self-Employed,27,Education,2737310.0,,,,0
+Home,25035,3652302,36,517025,0,1,Not Graduate,Salaried,8,Refinance,4421440.0,,,,0
+Home,113763,3190131,24,884213,0,0,Not Graduate,Freelancer,23,Refinance,3725928.0,,,,0
+Home,81498,825789,180,202539,0,4,Not Graduate,Self-Employed,10,Education,1720481.0,,,,0
+Home,72765,2485367,360,515999,0,0,Not Graduate,Freelancer,26,Refinance,2945763.0,,,,0
+Home,172787,4942595,120,533558,0,0,Graduate,Freelancer,9,Business Expansion,6627670.0,,,,0
+Home,129176,2017835,180,414978,1,2,Graduate,Salaried,5,Business Expansion,3297838.0,,,,1
+Home,187038,2914495,360,302075,0,0,Not Graduate,Salaried,12,Business Expansion,3922592.0,,,,0
+Home,37997,1007920,36,173228,1,4,Not Graduate,Salaried,13,Education,2232824.0,,,,0
+Home,59091,729723,12,210990,0,4,Graduate,Self-Employed,30,Renovation,2090350.0,,,,0
+Home,38102,374289,12,82124,0,3,Graduate,Self-Employed,18,Purchase,1424486.0,,,,0
+Home,160148,984519,360,125947,0,3,Not Graduate,Freelancer,11,Refinance,1985622.0,,,,0
+Home,78429,760028,240,120286,0,1,Not Graduate,Business Owner,25,Renovation,2443556.0,,,,0
+Home,90943,4491957,24,982670,0,0,Not Graduate,Business Owner,21,Education,5197773.0,,,,0
+Home,163655,4437893,24,448955,1,1,Not Graduate,Salaried,26,Renovation,5826742.0,,,,0
+Home,158387,4231073,12,221460,0,2,Not Graduate,Business Owner,22,Purchase,5961097.0,,,,0
+Home,117451,3642833,180,832016,1,3,Not Graduate,Salaried,21,Renovation,5589347.0,,,,1
+Home,21604,2892808,24,399753,1,2,Not Graduate,Self-Employed,16,Education,3304611.0,,,,0
+Home,156466,2563918,60,552142,1,0,Not Graduate,Self-Employed,27,Education,3347239.0,,,,1
+Home,153480,1844341,180,137952,0,2,Not Graduate,Freelancer,5,Education,3134680.0,,,,0
+Home,146908,3440135,24,990795,0,2,Not Graduate,Freelancer,29,Education,4060795.0,,,,0
+Home,157262,1196835,120,259573,0,1,Not Graduate,Salaried,11,Purchase,3036211.0,,,,0
+Home,196651,2985579,36,284469,1,1,Not Graduate,Salaried,26,Education,4376454.0,,,,1
+Home,137663,1104398,120,61903,0,0,Graduate,Freelancer,8,Refinance,2701870.0,,,,0
+Home,62944,4183548,60,380041,1,3,Graduate,Self-Employed,30,Purchase,5270499.0,,,,0
+Home,44546,4396175,36,738234,1,0,Graduate,Self-Employed,26,Purchase,5431947.0,,,,0
+Home,165244,427739,24,39300,0,4,Not Graduate,Self-Employed,18,Business Expansion,1814028.0,,,,0
+Home,16066,2835162,60,255525,1,0,Not Graduate,Self-Employed,21,Purchase,3772484.0,,,,0
+Home,145366,3592837,12,846621,0,4,Graduate,Business Owner,10,Business Expansion,5554033.0,,,,0
+Home,164572,4489922,240,261669,1,3,Not Graduate,Self-Employed,17,Education,4987458.0,,,,1
+Home,46461,1208884,60,68278,0,1,Not Graduate,Salaried,13,Education,1445971.0,,,,0
+Home,174441,2555799,180,409420,0,3,Not Graduate,Business Owner,21,Renovation,3698330.0,,,,0
+Home,63400,4603277,180,986616,0,3,Not Graduate,Self-Employed,26,Purchase,6358287.0,,,,0
+Home,69936,4182609,180,528214,0,4,Graduate,Self-Employed,30,Refinance,5878702.0,,,,0
+Home,194923,792811,180,79066,1,4,Graduate,Freelancer,13,Renovation,2090779.0,,,,1
+Home,98491,3328058,360,979005,1,2,Not Graduate,Salaried,12,Purchase,5206262.0,,,,1
+Home,75939,388590,120,21784,1,2,Not Graduate,Business Owner,6,Education,846721.0,,,,1
+Home,157886,2066035,180,246809,1,3,Not Graduate,Salaried,20,Education,3199413.0,,,,1
+Home,85528,3121295,360,579627,1,4,Not Graduate,Business Owner,24,Education,4180760.0,,,,1
+Home,46174,1756046,180,472491,0,4,Not Graduate,Salaried,30,Education,1993362.0,,,,0
+Home,168594,4873795,360,611471,1,2,Graduate,Freelancer,11,Education,5769169.0,,,,1
+Home,76832,3527088,24,925631,1,2,Not Graduate,Salaried,4,Refinance,4305518.0,,,,0
+Home,168557,1196925,12,174525,1,4,Graduate,Freelancer,15,Education,3133250.0,,,,0
+Home,123910,4391536,360,900616,0,0,Not Graduate,Self-Employed,30,Renovation,5178301.0,,,,0
+Home,172503,793877,24,73343,1,4,Graduate,Business Owner,26,Education,2792764.0,,,,1
+Home,23274,827841,24,120210,1,1,Not Graduate,Self-Employed,28,Renovation,1861994.0,,,,0
+Home,35539,2873134,360,196212,0,0,Not Graduate,Self-Employed,3,Purchase,3455723.0,,,,0
+Home,110656,2884278,24,361354,1,0,Not Graduate,Business Owner,16,Education,4835717.0,,,,0
+Home,118453,4621650,36,1091423,0,1,Graduate,Business Owner,10,Refinance,5234814.0,,,,0
+Home,196220,4349427,180,555019,0,4,Graduate,Freelancer,11,Renovation,5837273.0,,,,0
+Home,73821,4228380,240,1125789,1,0,Not Graduate,Business Owner,13,Refinance,5153031.0,,,,1
+Home,171515,1685584,60,219504,0,0,Graduate,Self-Employed,22,Renovation,2810781.0,,,,0
+Home,162581,346780,240,23965,0,1,Not Graduate,Freelancer,21,Purchase,1657535.0,,,,0
+Home,24068,4673161,36,1021823,0,3,Not Graduate,Self-Employed,3,Business Expansion,6128119.0,,,,0
+Home,198503,549966,360,112497,0,4,Graduate,Salaried,23,Renovation,1655293.0,,,,0
+Home,163429,4492275,120,308425,1,4,Not Graduate,Business Owner,5,Refinance,5436054.0,,,,1
+Home,64510,3500591,60,794973,1,4,Not Graduate,Salaried,11,Renovation,3901668.0,,,,0
+Home,36181,3188064,180,297012,0,4,Not Graduate,Business Owner,24,Business Expansion,4493159.0,,,,0
+Home,132097,3408452,24,887306,0,4,Not Graduate,Self-Employed,0,Business Expansion,5196006.0,,,,0
+Home,142964,799910,36,109901,0,4,Graduate,Self-Employed,9,Renovation,2209636.0,,,,0
+Home,43809,2468374,360,472175,1,1,Not Graduate,Business Owner,17,Education,2835993.0,,,,1
+Home,45404,2775008,120,244601,1,2,Not Graduate,Self-Employed,3,Renovation,3273979.0,,,,1
+Home,105924,730387,180,105467,0,3,Not Graduate,Salaried,21,Business Expansion,2329950.0,,,,0
+Home,62882,4846925,24,807250,1,0,Graduate,Business Owner,1,Business Expansion,6413989.0,,,,0
+Home,183405,1965979,180,350474,1,3,Not Graduate,Business Owner,4,Education,2476126.0,,,,1
+Home,111602,193361,60,26379,1,3,Graduate,Self-Employed,5,Purchase,549488.0,,,,1
+Home,102779,2512010,12,590149,1,2,Not Graduate,Freelancer,15,Education,3264120.0,,,,0
+Home,21877,4505953,12,786114,1,4,Not Graduate,Salaried,8,Education,6425493.0,,,,0
+Home,160065,715034,36,152838,1,2,Graduate,Business Owner,9,Renovation,1114900.0,,,,1
+Home,57038,235700,36,60151,1,4,Not Graduate,Freelancer,9,Business Expansion,1039163.0,,,,1
+Home,149908,2970516,36,675812,1,4,Not Graduate,Salaried,10,Refinance,3517860.0,,,,1
+Home,29984,4940557,24,1290139,0,2,Graduate,Self-Employed,28,Business Expansion,5316131.0,,,,0
+Home,57346,3484440,180,646210,0,1,Graduate,Salaried,24,Business Expansion,3970678.0,,,,0
+Home,99502,2535290,180,630320,0,0,Not Graduate,Business Owner,9,Purchase,3439403.0,,,,0
+Home,61545,1107044,120,232421,0,1,Not Graduate,Salaried,24,Renovation,2934292.0,,,,0
+Home,50371,3647382,180,500609,0,2,Graduate,Freelancer,14,Renovation,5586738.0,,,,0
+Home,191045,2334435,36,445544,1,4,Graduate,Self-Employed,8,Education,2652882.0,,,,1
+Home,99327,2101198,120,116836,1,4,Not Graduate,Business Owner,23,Business Expansion,3420426.0,,,,1
+Home,190711,2653049,360,573728,1,0,Not Graduate,Self-Employed,20,Renovation,3373698.0,,,,1
+Home,151296,2855151,60,728817,1,1,Graduate,Freelancer,28,Education,3914742.0,,,,1
+Home,129984,4687528,360,296795,1,2,Not Graduate,Business Owner,9,Education,5734424.0,,,,1
+Home,84850,764293,240,68630,0,0,Not Graduate,Salaried,23,Refinance,1504787.0,,,,0
+Home,23926,4685437,240,576101,1,0,Graduate,Freelancer,18,Business Expansion,5504704.0,,,,0
+Home,87482,4674791,180,773532,0,0,Graduate,Self-Employed,24,Purchase,5978844.0,,,,0
+Home,108818,1670171,24,178373,0,3,Not Graduate,Salaried,26,Renovation,2833350.0,,,,0
+Home,79215,4744642,240,420651,1,0,Graduate,Business Owner,11,Business Expansion,5523867.0,,,,1
+Home,68098,4093400,180,1204627,0,0,Graduate,Freelancer,28,Purchase,4533989.0,,,,0
+Home,108929,139926,240,9233,0,0,Graduate,Freelancer,29,Education,1120888.0,,,,0
+Home,52498,2944263,180,568545,0,1,Not Graduate,Self-Employed,0,Refinance,4201465.0,,,,0
+Home,137235,1605228,360,317068,1,4,Graduate,Freelancer,29,Renovation,2531099.0,,,,1
+Home,135938,3269437,180,392852,0,4,Not Graduate,Self-Employed,7,Refinance,3693965.0,,,,0
+Home,196592,4783150,24,1086665,0,4,Graduate,Self-Employed,16,Renovation,5473408.0,,,,0
+Home,149196,3837651,360,761788,1,1,Graduate,Freelancer,27,Business Expansion,5481264.0,,,,1
+Home,40490,2999531,360,474083,1,4,Not Graduate,Salaried,0,Refinance,4834959.0,,,,1
+Home,95166,4311810,36,722025,1,2,Not Graduate,Freelancer,11,Renovation,4962008.0,,,,0
+Home,90330,4658298,12,492237,1,2,Graduate,Self-Employed,5,Renovation,5704512.0,,,,0
+Home,83171,3120953,60,381797,1,0,Not Graduate,Business Owner,5,Business Expansion,4876977.0,,,,0
+Home,76681,812068,180,83035,1,3,Graduate,Business Owner,27,Renovation,2475932.0,,,,1
+Home,91155,2068501,240,541416,0,0,Not Graduate,Freelancer,12,Renovation,2811439.0,,,,0
+Home,136944,85940,120,20922,1,4,Graduate,Business Owner,4,Renovation,1428666.0,,,,1
+Home,158574,2608001,36,685980,1,1,Not Graduate,Self-Employed,1,Refinance,3467939.0,,,,1
+Home,39170,3367887,36,541314,0,1,Not Graduate,Business Owner,22,Business Expansion,4651684.0,,,,0
+Home,142671,4838820,360,856648,1,4,Not Graduate,Salaried,18,Education,6579523.0,,,,1
+Home,62175,2773350,24,372015,0,0,Not Graduate,Salaried,25,Education,4620267.0,,,,0
+Home,199435,1864901,120,476719,0,3,Not Graduate,Freelancer,28,Refinance,2936419.0,,,,0
+Home,111134,364912,24,34006,1,4,Not Graduate,Self-Employed,6,Purchase,1184409.0,,,,1
+Home,181029,1228153,180,131886,0,4,Graduate,Freelancer,3,Purchase,2346577.0,,,,0
+Home,156354,3195138,180,687610,1,2,Graduate,Freelancer,19,Education,4314050.0,,,,1
+Home,195011,83310,60,21667,1,1,Graduate,Self-Employed,8,Education,1369063.0,,,,1
+Home,32266,2557142,120,475132,1,3,Not Graduate,Freelancer,13,Purchase,2968523.0,,,,0
+Home,198984,2493329,120,504266,1,3,Not Graduate,Self-Employed,10,Refinance,2748817.0,,,,1
+Home,190676,1713869,240,245665,0,2,Graduate,Freelancer,18,Renovation,2169841.0,,,,0
+Home,183633,4535559,360,848884,1,4,Graduate,Freelancer,8,Education,5606441.0,,,,1
+Home,42743,4114131,36,520584,0,0,Graduate,Freelancer,18,Refinance,4680805.0,,,,0
+Home,163006,324851,240,75883,0,1,Not Graduate,Business Owner,15,Education,1120558.0,,,,0
+Home,160824,1927103,180,178723,1,0,Graduate,Self-Employed,23,Renovation,3896886.0,,,,1
+Home,166923,2696143,240,490147,1,3,Graduate,Freelancer,7,Refinance,3273558.0,,,,1
+Home,159097,2393851,180,553065,1,0,Not Graduate,Freelancer,10,Business Expansion,3489663.0,,,,1
+Home,141117,1197317,12,167044,0,4,Graduate,Self-Employed,2,Purchase,1502724.0,,,,0
+Home,112054,4027725,180,504614,1,4,Not Graduate,Salaried,7,Education,5701053.0,,,,1
+Home,180486,4787231,36,992245,1,3,Not Graduate,Salaried,18,Business Expansion,6686355.0,,,,0
+Home,73275,4922129,120,1233431,1,3,Graduate,Self-Employed,9,Education,6822159.0,,,,1
+Home,125458,3765585,240,205447,1,2,Not Graduate,Self-Employed,22,Refinance,4071263.0,,,,1
+Home,55600,352261,120,36972,0,3,Not Graduate,Freelancer,3,Education,843556.0,,,,0
+Home,183790,1400421,60,111488,1,1,Graduate,Business Owner,23,Purchase,3125707.0,,,,1
+Home,139455,1292504,180,289969,0,3,Not Graduate,Business Owner,22,Education,2435085.0,,,,0
+Home,106767,3737258,180,446213,1,3,Graduate,Salaried,24,Renovation,4671488.0,,,,1
+Home,107007,2187008,180,497550,1,2,Graduate,Freelancer,23,Refinance,2681286.0,,,,1
+Home,97139,124075,360,19754,0,2,Not Graduate,Business Owner,5,Purchase,502667.0,,,,0
+Home,115192,4815791,24,658184,1,2,Not Graduate,Business Owner,21,Purchase,5454074.0,,,,0
+Home,22133,3831343,180,880722,1,1,Not Graduate,Business Owner,1,Purchase,4588260.0,,,,0
+Home,92235,4342267,360,750909,1,4,Graduate,Self-Employed,24,Renovation,5330765.0,,,,1
+Home,21342,4453078,360,511762,1,4,Graduate,Freelancer,10,Refinance,5017552.0,,,,0
+Home,100910,1649483,36,398862,0,0,Not Graduate,Self-Employed,3,Renovation,3360569.0,,,,0
+Home,134565,4577780,180,897492,1,2,Graduate,Salaried,7,Refinance,5332051.0,,,,1
+Home,140569,4183500,60,1057333,0,4,Not Graduate,Salaried,6,Refinance,5412540.0,,,,0
+Home,163687,892631,120,264599,1,0,Graduate,Self-Employed,28,Business Expansion,1252363.0,,,,1
+Home,118854,2079324,24,220058,0,4,Graduate,Business Owner,6,Refinance,3793165.0,,,,0
+Home,61146,2114261,180,479704,0,1,Not Graduate,Self-Employed,25,Renovation,4003090.0,,,,0
+Home,170726,1723329,180,137929,0,3,Not Graduate,Freelancer,6,Renovation,3289639.0,,,,0
+Home,181269,1995090,12,589453,1,1,Graduate,Business Owner,25,Education,2884830.0,,,,0
+Home,195759,4727996,36,1280724,0,3,Not Graduate,Self-Employed,28,Business Expansion,5848236.0,,,,0
+Home,112957,4775787,12,502889,0,0,Graduate,Salaried,22,Purchase,5429579.0,,,,0
+Home,44554,3459263,60,365830,1,2,Not Graduate,Salaried,3,Education,5092399.0,,,,0
+Home,20296,3940156,180,739493,0,1,Not Graduate,Self-Employed,26,Refinance,5922705.0,,,,0
+Home,186751,2390272,12,527893,1,1,Not Graduate,Salaried,23,Purchase,3158846.0,,,,0
+Home,178675,3261300,24,797193,0,2,Not Graduate,Business Owner,18,Renovation,3645730.0,,,,0
+Home,136345,1122443,180,109286,0,2,Not Graduate,Salaried,26,Refinance,1868151.0,,,,0
+Home,26668,103257,36,18812,0,2,Graduate,Freelancer,6,Purchase,611942.0,,,,0
+Home,176836,400332,240,56030,0,4,Not Graduate,Salaried,3,Refinance,2270430.0,,,,0
+Home,149092,2330836,240,335092,1,3,Graduate,Self-Employed,13,Purchase,2930329.0,,,,1
+Home,58164,172336,12,44382,0,0,Not Graduate,Freelancer,21,Purchase,467576.0,,,,0
+Home,152046,3707584,60,249512,0,1,Not Graduate,Self-Employed,8,Refinance,4073455.0,,,,0
+Home,100573,4304199,24,480432,1,1,Not Graduate,Freelancer,4,Refinance,5397710.0,,,,0
+Home,98386,845707,360,102890,1,1,Graduate,Business Owner,22,Renovation,1597719.0,,,,1
+Home,118403,2787531,240,801219,0,4,Not Graduate,Self-Employed,25,Business Expansion,4378831.0,,,,0
+Home,156762,1417563,12,118656,1,2,Graduate,Business Owner,30,Education,3019105.0,,,,0
+Home,72202,4108487,36,737438,0,2,Not Graduate,Self-Employed,23,Renovation,5146868.0,,,,0
+Home,61658,3727601,24,552930,1,3,Not Graduate,Business Owner,2,Renovation,4451891.0,,,,0
+Home,173665,3120642,12,168205,0,2,Graduate,Self-Employed,4,Purchase,5089975.0,,,,0
+Home,123409,4162031,12,841442,1,0,Graduate,Business Owner,29,Refinance,4480339.0,,,,0
+Home,149602,3715191,120,403377,0,2,Graduate,Salaried,2,Purchase,5411636.0,,,,0
+Home,120564,2409706,180,360881,1,0,Not Graduate,Freelancer,22,Renovation,4097470.0,,,,1
+Home,141957,727893,240,93979,0,1,Graduate,Self-Employed,17,Renovation,1454633.0,,,,0
+Home,186392,4091605,360,509714,0,3,Graduate,Business Owner,4,Renovation,5481001.0,,,,0
+Home,121302,3403834,360,932466,1,2,Not Graduate,Freelancer,10,Renovation,4127651.0,,,,1
+Home,157068,567036,36,105652,1,1,Not Graduate,Business Owner,28,Education,1824694.0,,,,1
+Home,85916,4169566,24,872281,0,3,Graduate,Freelancer,23,Education,5567390.0,,,,0
+Home,72118,2731357,60,231735,1,4,Graduate,Self-Employed,3,Purchase,4729057.0,,,,0
+Home,144851,797162,180,162168,0,1,Graduate,Salaried,25,Renovation,2736046.0,,,,0
+Home,64645,1826206,12,537982,1,2,Not Graduate,Freelancer,10,Business Expansion,3368085.0,,,,0
+Home,130326,4842734,360,1191231,1,4,Not Graduate,Business Owner,25,Refinance,5943280.0,,,,1
+Home,21077,4164048,360,468741,1,1,Graduate,Business Owner,21,Business Expansion,5655710.0,,,,1
+Home,116610,2352285,36,396083,1,2,Graduate,Freelancer,25,Purchase,2618274.0,,,,1
+Home,95879,2239996,240,245322,1,2,Graduate,Salaried,29,Refinance,3008625.0,,,,1
+Home,27302,3181505,36,766184,0,4,Graduate,Business Owner,0,Purchase,4348020.0,,,,0
+Home,107501,4401885,36,954251,0,4,Graduate,Self-Employed,19,Education,5284945.0,,,,0
+Home,25863,1696737,120,171724,0,2,Graduate,Business Owner,24,Renovation,3077937.0,,,,0
+Home,198829,2281393,360,626638,1,4,Not Graduate,Self-Employed,27,Education,3954391.0,,,,1
+Home,71346,859211,60,157969,1,1,Not Graduate,Salaried,0,Education,1742745.0,,,,1
+Home,85978,3551870,120,474033,0,3,Graduate,Self-Employed,29,Business Expansion,4267022.0,,,,0
+Home,132869,869149,24,257618,0,3,Not Graduate,Freelancer,12,Renovation,2679127.0,,,,0
+Home,97878,3554261,60,459622,1,0,Graduate,Freelancer,6,Purchase,5263400.0,,,,0
+Home,111945,4839506,60,686212,0,0,Not Graduate,Self-Employed,10,Renovation,5404968.0,,,,0
+Home,26088,995207,360,126603,0,2,Graduate,Salaried,3,Renovation,2350041.0,,,,0
+Home,24864,4235535,180,1036481,1,0,Graduate,Business Owner,26,Refinance,5494988.0,,,,0
+Home,128280,1709569,24,154719,0,0,Not Graduate,Freelancer,12,Refinance,2330542.0,,,,0
+Home,85522,4624585,60,858246,1,0,Not Graduate,Salaried,19,Renovation,6359991.0,,,,0
+Home,72454,355446,36,54342,1,2,Not Graduate,Salaried,10,Education,676147.0,,,,1
+Home,134233,1596589,180,290031,0,1,Graduate,Business Owner,10,Business Expansion,3532601.0,,,,0
+Home,21854,1826733,240,168481,0,4,Not Graduate,Salaried,12,Purchase,2220516.0,,,,0
+Home,196205,132168,120,19577,0,2,Not Graduate,Business Owner,30,Purchase,1505940.0,,,,0
+Home,106248,2886307,36,751241,0,0,Graduate,Business Owner,29,Purchase,4730478.0,,,,0
+Home,166076,3275101,240,954370,0,1,Graduate,Freelancer,9,Refinance,4524962.0,,,,0
+Home,103497,1934240,36,247598,0,0,Graduate,Self-Employed,29,Refinance,3025206.0,,,,0
+Home,120753,3212868,240,161884,0,1,Graduate,Business Owner,16,Purchase,4664679.0,,,,0
+Home,115334,3149625,120,755014,1,4,Graduate,Self-Employed,22,Purchase,5124585.0,,,,1
+Home,188019,1640086,120,157419,1,3,Not Graduate,Business Owner,14,Education,3030926.0,,,,1
+Home,193275,2356698,360,635542,0,4,Graduate,Freelancer,28,Renovation,2591286.0,,,,0
+Home,145882,2357887,240,380787,0,4,Not Graduate,Business Owner,13,Education,3074213.0,,,,0
+Home,66520,2815100,120,376530,0,4,Not Graduate,Salaried,24,Renovation,4486540.0,,,,0
+Home,193496,239360,60,16647,0,2,Not Graduate,Business Owner,22,Renovation,495771.0,,,,0
+Home,103674,3559191,240,798660,0,0,Graduate,Salaried,13,Renovation,4757713.0,,,,0
+Home,107181,1398063,24,124496,0,4,Not Graduate,Self-Employed,13,Renovation,2552403.0,,,,0
+Home,109420,1541263,180,89680,1,4,Graduate,Business Owner,1,Refinance,2601645.0,,,,1
+Home,188107,4803070,12,1138419,1,1,Not Graduate,Business Owner,22,Business Expansion,6749388.0,,,,0
+Home,199650,2627337,24,588388,0,3,Not Graduate,Salaried,23,Business Expansion,3916725.0,,,,0
+Home,25834,2122040,36,388926,0,0,Graduate,Business Owner,10,Purchase,3226692.0,,,,0
+Home,44164,614301,180,32813,0,0,Graduate,Freelancer,2,Purchase,1630315.0,,,,0
+Home,35474,3451154,180,188700,1,1,Not Graduate,Freelancer,23,Renovation,5448165.0,,,,0
+Home,91178,4916238,360,588859,1,2,Not Graduate,Freelancer,21,Refinance,6420525.0,,,,1
+Home,33616,4562797,120,1058961,1,1,Graduate,Freelancer,10,Education,5447317.0,,,,0
+Home,134555,2276710,120,217068,1,4,Graduate,Salaried,22,Refinance,2825097.0,,,,1
+Home,91178,990422,60,163470,1,2,Graduate,Salaried,26,Business Expansion,2376423.0,,,,1
+Home,16151,2801435,24,637591,0,0,Graduate,Self-Employed,20,Business Expansion,4091052.0,,,,0
+Home,167380,3533453,60,557110,1,3,Graduate,Self-Employed,21,Education,5351205.0,,,,1
+Home,101146,4728233,60,574794,1,3,Not Graduate,Salaried,26,Purchase,6249726.0,,,,0
+Home,28291,1576630,120,394350,1,1,Not Graduate,Business Owner,13,Renovation,2697122.0,,,,1
+Home,120984,3516801,240,788144,1,1,Not Graduate,Freelancer,7,Education,5013920.0,,,,1
+Home,33654,3486459,360,434388,0,4,Graduate,Freelancer,8,Purchase,5446707.0,,,,0
+Home,169950,1366727,240,74785,1,1,Graduate,Salaried,19,Purchase,2261002.0,,,,1
+Home,165171,4613245,120,676260,1,4,Not Graduate,Business Owner,2,Renovation,5796767.0,,,,1
+Home,52717,214480,360,13097,1,0,Graduate,Self-Employed,18,Renovation,1789273.0,,,,1
+Home,122123,4524023,180,1037286,1,4,Graduate,Freelancer,29,Education,5767772.0,,,,1
+Home,191515,2444896,36,294688,1,1,Graduate,Salaried,28,Education,3850848.0,,,,1
+Home,17397,1919561,12,116374,0,4,Graduate,Salaried,9,Renovation,3267617.0,,,,0
+Home,139461,164510,120,46521,0,4,Not Graduate,Business Owner,2,Business Expansion,1829921.0,,,,0
+Home,46489,573893,240,136077,1,3,Not Graduate,Freelancer,3,Purchase,795996.0,,,,1
+Home,79577,3114544,36,709949,1,3,Not Graduate,Salaried,26,Refinance,4749610.0,,,,0
+Home,30652,3400922,360,786779,0,1,Not Graduate,Salaried,24,Renovation,4515713.0,,,,0
+Home,150216,655078,60,110407,1,0,Not Graduate,Business Owner,29,Purchase,1224610.0,,,,1
+Home,80098,2935576,180,578309,0,4,Graduate,Self-Employed,23,Renovation,4860431.0,,,,0
+Home,66065,999350,240,133665,1,2,Graduate,Self-Employed,28,Business Expansion,2136105.0,,,,1
+Home,167643,4054129,12,1023602,1,3,Not Graduate,Salaried,25,Business Expansion,4612153.0,,,,0
+Home,47992,4652828,12,836144,1,2,Not Graduate,Self-Employed,19,Education,5895873.0,,,,0
+Home,157402,1809054,60,400978,0,4,Graduate,Freelancer,14,Renovation,2757170.0,,,,0
+Home,72450,2802100,120,683693,1,0,Graduate,Salaried,21,Purchase,3480523.0,,,,1
+Home,48896,4999661,24,615711,1,4,Graduate,Salaried,26,Education,6733032.0,,,,0
+Home,67500,890890,240,129962,0,1,Graduate,Self-Employed,1,Education,2572169.0,,,,0
+Home,61016,4241904,120,602942,0,3,Graduate,Salaried,9,Renovation,5442074.0,,,,0
+Home,156247,2431066,36,258142,0,1,Graduate,Salaried,15,Business Expansion,3849700.0,,,,0
+Home,115435,1701372,240,132335,1,3,Not Graduate,Salaried,2,Refinance,2371358.0,,,,1
+Home,32599,1912817,180,557184,0,2,Not Graduate,Salaried,8,Business Expansion,3062324.0,,,,0
+Home,70075,4625797,60,518183,0,2,Not Graduate,Freelancer,21,Purchase,6218748.0,,,,0
+Home,85726,4002399,12,355706,1,3,Graduate,Business Owner,2,Purchase,4728143.0,,,,0
+Home,153747,2253743,36,505614,0,1,Not Graduate,Self-Employed,7,Business Expansion,3177412.0,,,,0
+Home,155830,2954154,12,279875,0,1,Graduate,Freelancer,29,Business Expansion,4280113.0,,,,0
+Home,45386,2727670,120,475933,1,2,Not Graduate,Freelancer,23,Renovation,3303292.0,,,,1
+Home,101400,2866975,12,383784,0,0,Graduate,Business Owner,3,Renovation,4573559.0,,,,0
+Home,160167,2900588,24,271199,1,3,Not Graduate,Salaried,27,Education,4878794.0,,,,0
+Home,112134,4911571,60,245747,1,4,Graduate,Business Owner,8,Purchase,5563990.0,,,,0
+Home,182618,59446,240,17603,1,3,Graduate,Freelancer,20,Education,1095481.0,,,,1
+Home,81056,1136715,36,171153,1,3,Graduate,Self-Employed,30,Purchase,2889012.0,,,,1
+Home,23394,1198233,12,196107,0,1,Not Graduate,Freelancer,20,Refinance,2114277.0,,,,0
+Home,169398,2131003,36,409116,0,1,Not Graduate,Freelancer,6,Purchase,3208711.0,,,,0
+Home,168358,1962001,60,380982,1,1,Not Graduate,Freelancer,3,Renovation,2760951.0,,,,1
+Home,162118,2702713,12,729543,0,4,Not Graduate,Salaried,16,Refinance,2965557.0,,,,0
+Home,34218,3312431,36,310381,0,2,Not Graduate,Business Owner,19,Renovation,4161650.0,,,,0
+Home,67323,4393635,360,925305,1,2,Not Graduate,Freelancer,21,Business Expansion,6311840.0,,,,1
+Home,118171,1716782,60,205206,1,3,Graduate,Salaried,4,Renovation,3086911.0,,,,1
+Home,85108,2906531,360,845782,0,4,Not Graduate,Freelancer,6,Renovation,3615173.0,,,,0
+Home,168810,4652128,180,805709,1,4,Graduate,Self-Employed,14,Education,6204614.0,,,,1
+Home,190016,2489580,60,406374,1,4,Not Graduate,Freelancer,8,Refinance,2703620.0,,,,1
+Home,112688,1736045,240,488774,0,0,Graduate,Business Owner,30,Education,2522041.0,,,,0
+Home,47947,923087,60,126332,1,4,Graduate,Self-Employed,8,Refinance,2786246.0,,,,1
+Home,86432,88324,36,11641,1,2,Not Graduate,Self-Employed,27,Business Expansion,2013183.0,,,,1
+Home,93651,1907562,12,456459,0,3,Not Graduate,Salaried,2,Purchase,2131050.0,,,,0
+Home,116952,3042276,36,581335,1,1,Graduate,Freelancer,8,Business Expansion,4519936.0,,,,0
+Home,197876,2083164,120,444861,0,1,Not Graduate,Business Owner,24,Renovation,4078016.0,,,,0
+Home,95687,628892,12,139811,1,0,Graduate,Business Owner,13,Education,1057848.0,,,,1
+Home,133991,3944070,24,935619,0,0,Not Graduate,Salaried,27,Purchase,5671149.0,,,,0
+Home,196565,1578199,180,423823,0,3,Graduate,Freelancer,19,Business Expansion,1807347.0,,,,0
+Home,41878,2555357,12,602966,0,1,Not Graduate,Business Owner,26,Renovation,2779346.0,,,,0
+Home,59213,1484345,24,328971,0,2,Graduate,Salaried,10,Purchase,1731017.0,,,,0
+Home,34220,4348648,120,652891,0,0,Not Graduate,Self-Employed,16,Business Expansion,6131583.0,,,,0
+Home,133344,2028289,24,506450,0,1,Graduate,Business Owner,16,Purchase,2999131.0,,,,0
+Home,49061,1826262,240,398227,1,1,Graduate,Business Owner,23,Renovation,2417947.0,,,,1
+Home,109329,205912,180,42646,0,1,Not Graduate,Freelancer,19,Refinance,1293277.0,,,,0
+Home,21559,1131725,24,179957,1,4,Not Graduate,Business Owner,15,Refinance,2818519.0,,,,0
+Home,68640,1333382,60,288851,1,1,Not Graduate,Self-Employed,30,Purchase,1746940.0,,,,1
+Home,53332,2520163,120,571105,0,3,Graduate,Salaried,4,Business Expansion,2738459.0,,,,0
+Home,158993,1182928,240,101854,1,3,Graduate,Business Owner,19,Purchase,2118977.0,,,,1
+Home,72154,3807810,60,589407,0,3,Not Graduate,Salaried,9,Business Expansion,5666731.0,,,,0
+Home,94448,2141720,360,258665,1,2,Not Graduate,Freelancer,12,Business Expansion,3773445.0,,,,1
+Home,15782,995515,180,219394,1,1,Graduate,Self-Employed,9,Education,1835232.0,,,,1
+Home,75414,1524671,24,317601,1,4,Not Graduate,Salaried,6,Purchase,2341474.0,,,,0
+Home,113096,1507387,120,100729,1,4,Graduate,Freelancer,8,Business Expansion,2828229.0,,,,1
+Home,191478,1331941,24,112648,1,1,Not Graduate,Self-Employed,7,Business Expansion,2883343.0,,,,1
+Home,35770,969164,240,112406,1,2,Graduate,Self-Employed,9,Purchase,2137533.0,,,,1
+Home,168836,398467,240,30010,0,1,Graduate,Freelancer,19,Renovation,872525.0,,,,0
+Home,196460,4284757,24,235069,0,0,Graduate,Salaried,10,Purchase,4502677.0,,,,0
+Home,195085,766950,60,67062,1,0,Graduate,Self-Employed,25,Business Expansion,1027232.0,,,,1
+Home,111683,399317,240,60297,0,4,Not Graduate,Salaried,12,Education,1815477.0,,,,0
+Home,40825,4072798,36,763427,0,4,Not Graduate,Business Owner,15,Refinance,4379354.0,,,,0
+Home,145588,3684565,36,1059485,1,3,Not Graduate,Salaried,22,Refinance,4934431.0,,,,0
+Home,50043,1557708,360,347216,0,1,Not Graduate,Freelancer,11,Purchase,3125942.0,,,,0
+Home,137966,2461016,12,386290,0,3,Graduate,Self-Employed,30,Education,3223120.0,,,,0
+Home,59593,429630,120,112738,0,2,Graduate,Self-Employed,28,Business Expansion,2374755.0,,,,0
+Home,178235,3703462,180,412652,0,1,Graduate,Self-Employed,17,Purchase,4853105.0,,,,0
+Home,27322,3493114,60,831953,0,4,Not Graduate,Freelancer,13,Business Expansion,3829455.0,,,,0
+Home,82042,2314236,240,287930,0,0,Graduate,Self-Employed,23,Education,4178804.0,,,,0
+Home,110412,687049,24,118719,0,4,Graduate,Freelancer,0,Renovation,2202830.0,,,,0
+Home,119229,3212080,36,379452,0,2,Graduate,Self-Employed,15,Business Expansion,5001833.0,,,,0
+Home,187317,3649599,360,307171,0,2,Graduate,Business Owner,5,Renovation,5518148.0,,,,0
+Home,93468,2411946,120,355147,0,2,Graduate,Freelancer,30,Refinance,3307557.0,,,,0
+Home,77861,3406004,180,887615,1,2,Graduate,Business Owner,30,Renovation,4033867.0,,,,1
+Home,116383,1375054,120,372675,0,0,Graduate,Self-Employed,26,Refinance,2233093.0,,,,0
+Home,192104,3755397,36,209836,0,4,Graduate,Freelancer,28,Refinance,4779185.0,,,,0
+Home,122160,4600353,12,1022107,0,1,Not Graduate,Freelancer,17,Renovation,6421656.0,,,,0
+Home,67209,4441646,360,529801,1,4,Graduate,Business Owner,16,Business Expansion,4655296.0,,,,1
+Home,28680,466651,12,38745,0,1,Not Graduate,Self-Employed,15,Purchase,2115475.0,,,,0
+Home,188624,598447,60,147233,1,2,Not Graduate,Self-Employed,19,Education,2403739.0,,,,1
+Home,82291,648800,120,156091,1,2,Graduate,Business Owner,12,Renovation,963243.0,,,,1
+Home,165617,3613394,60,940604,0,2,Not Graduate,Business Owner,1,Education,4830684.0,,,,0
+Home,48825,2196109,180,457858,0,4,Graduate,Self-Employed,19,Business Expansion,3795758.0,,,,0
+Home,197854,227440,36,11712,0,2,Graduate,Business Owner,12,Renovation,1005467.0,,,,0
+Home,19515,2598312,180,487840,1,1,Graduate,Salaried,23,Purchase,3685285.0,,,,0
+Home,44103,1228986,36,239850,1,3,Not Graduate,Self-Employed,10,Business Expansion,3026196.0,,,,0
+Home,84885,2788130,12,788843,1,1,Not Graduate,Salaried,25,Business Expansion,4454894.0,,,,0
+Home,50822,2090115,120,429253,1,4,Not Graduate,Self-Employed,24,Education,4083161.0,,,,1
+Home,138636,4089305,36,960413,0,4,Graduate,Freelancer,13,Education,4738416.0,,,,0
+Home,164270,2497896,180,223211,1,3,Not Graduate,Salaried,13,Refinance,4080557.0,,,,1
+Home,47955,4615237,24,360454,1,4,Not Graduate,Freelancer,26,Renovation,5450184.0,,,,0
+Home,196759,1992957,240,180084,1,2,Graduate,Business Owner,22,Purchase,3438207.0,,,,1
+Home,184696,4630984,60,371124,0,0,Not Graduate,Salaried,0,Education,5844064.0,,,,0
+Home,37955,2286974,36,249032,0,2,Not Graduate,Freelancer,21,Education,3005937.0,,,,0
+Home,77139,2354251,24,530709,1,3,Not Graduate,Salaried,13,Education,2829201.0,,,,0
+Home,66923,2216451,24,522841,1,3,Graduate,Salaried,29,Business Expansion,4215835.0,,,,0
+Home,98571,3368932,60,700752,1,2,Not Graduate,Freelancer,15,Education,5187364.0,,,,1
+Home,187179,3234668,60,680773,0,0,Graduate,Business Owner,26,Purchase,4273804.0,,,,0
+Home,110430,630800,60,106725,0,4,Not Graduate,Salaried,25,Refinance,1058979.0,,,,0
+Home,193323,2810992,360,594529,0,0,Not Graduate,Freelancer,0,Refinance,4236160.0,,,,0
+Home,175771,4482801,36,1089741,1,3,Not Graduate,Salaried,18,Renovation,5410940.0,,,,0
+Home,189334,3412311,36,342414,1,3,Not Graduate,Salaried,2,Renovation,3927306.0,,,,1
+Home,68908,2030359,120,428327,1,2,Graduate,Salaried,17,Purchase,2557409.0,,,,1
+Home,114317,1314123,240,277328,1,4,Not Graduate,Business Owner,3,Education,3151685.0,,,,1
+Home,16172,3170393,180,496053,0,2,Graduate,Freelancer,10,Renovation,3401997.0,,,,0
+Home,179603,803340,240,71078,0,0,Not Graduate,Self-Employed,10,Refinance,2053603.0,,,,0
+Home,59670,4934450,180,307765,0,4,Graduate,Salaried,20,Purchase,6553064.0,,,,0
+Home,148837,1055458,360,164925,0,0,Graduate,Salaried,25,Purchase,2059379.0,,,,0
+Home,161699,1491460,60,404679,1,0,Not Graduate,Salaried,27,Purchase,3122815.0,,,,1
+Home,103251,3278606,60,684662,0,1,Not Graduate,Salaried,12,Education,4434574.0,,,,0
+Home,35479,691712,36,195182,0,3,Graduate,Self-Employed,20,Education,1384285.0,,,,0
+Home,159180,4153983,24,487306,0,1,Not Graduate,Salaried,28,Business Expansion,5973872.0,,,,0
+Home,190640,1805443,240,339621,1,2,Graduate,Self-Employed,17,Business Expansion,3602216.0,,,,1
+Home,179787,1065365,360,192819,1,2,Not Graduate,Business Owner,23,Refinance,1469101.0,,,,1
+Home,160510,3954397,120,437165,1,1,Not Graduate,Freelancer,20,Refinance,5717707.0,,,,1
+Home,172816,3846417,12,552175,1,4,Not Graduate,Business Owner,20,Purchase,5028481.0,,,,0
+Home,121055,2637809,360,430554,1,1,Graduate,Self-Employed,8,Renovation,4043991.0,,,,1
+Home,117058,1217366,60,313440,0,2,Graduate,Freelancer,22,Purchase,1452738.0,,,,0
+Home,89954,3353135,240,516278,1,0,Not Graduate,Salaried,29,Renovation,3805279.0,,,,1
+Home,113937,2021494,360,134079,0,0,Not Graduate,Self-Employed,2,Education,3848773.0,,,,0
+Home,191969,4426295,60,461790,1,1,Graduate,Business Owner,11,Renovation,5247534.0,,,,1
+Home,172896,3478351,24,421024,1,0,Graduate,Business Owner,6,Education,3881874.0,,,,0
+Home,62755,3914391,360,1016191,1,0,Not Graduate,Salaried,14,Business Expansion,5611467.0,,,,1
+Home,146015,1153029,240,230622,0,0,Graduate,Business Owner,18,Purchase,1955365.0,,,,0
+Home,34955,3942636,36,983344,0,0,Not Graduate,Self-Employed,8,Business Expansion,5471053.0,,,,0
+Home,103507,3198394,240,208337,1,1,Graduate,Self-Employed,24,Renovation,5142626.0,,,,1
+Home,145624,579036,120,120756,0,4,Not Graduate,Self-Employed,6,Education,2403202.0,,,,0
+Home,159379,2949809,360,848407,0,1,Not Graduate,Freelancer,16,Renovation,3629263.0,,,,0
+Home,28854,2043017,36,189682,0,3,Not Graduate,Self-Employed,23,Business Expansion,3388049.0,,,,0
+Home,19501,2652381,360,747154,0,4,Not Graduate,Business Owner,25,Renovation,4276396.0,,,,0
+Home,79452,472514,120,141597,0,0,Graduate,Business Owner,14,Business Expansion,1408545.0,,,,0
+Home,78419,1846829,360,302004,1,3,Graduate,Business Owner,1,Education,2706253.0,,,,1
+Home,115502,4827421,180,1245765,0,3,Not Graduate,Salaried,29,Renovation,5548495.0,,,,0
+Home,101825,2108516,60,158767,1,3,Not Graduate,Salaried,24,Purchase,3340186.0,,,,1
+Home,98141,4901663,60,396968,1,1,Not Graduate,Freelancer,9,Education,5356687.0,,,,0
+Home,194296,2335362,180,242193,0,3,Not Graduate,Self-Employed,23,Business Expansion,3756208.0,,,,0
+Home,54092,1372345,24,192773,0,0,Graduate,Freelancer,5,Purchase,2509281.0,,,,0
+Home,92511,1664637,360,302047,0,1,Not Graduate,Salaried,0,Refinance,2712674.0,,,,0
+Home,83348,1038845,180,198541,1,4,Graduate,Salaried,14,Renovation,2078585.0,,,,1
+Home,168508,4081843,12,309583,0,0,Not Graduate,Salaried,17,Business Expansion,5545674.0,,,,0
+Home,56320,2237709,12,252128,1,4,Graduate,Business Owner,10,Refinance,3906885.0,,,,0
+Home,36133,2179483,180,444772,1,2,Graduate,Business Owner,30,Renovation,2880693.0,,,,1
+Home,109791,3726925,360,622098,0,4,Graduate,Self-Employed,19,Renovation,5280513.0,,,,0
+Home,54750,1188121,60,117812,0,0,Not Graduate,Freelancer,4,Education,2422474.0,,,,0
+Home,144446,1179571,120,217075,1,0,Not Graduate,Business Owner,7,Education,2869447.0,,,,1
+Home,68455,2052803,180,330032,1,4,Not Graduate,Business Owner,0,Renovation,3123404.0,,,,1
+Home,135116,3304045,60,477828,0,1,Not Graduate,Salaried,24,Purchase,3675193.0,,,,0
+Home,199517,2396944,36,524274,1,0,Graduate,Business Owner,5,Business Expansion,3337866.0,,,,1
+Home,138087,4749472,360,1058238,1,4,Graduate,Freelancer,12,Education,5509446.0,,,,1
+Home,159664,667049,12,101427,1,2,Not Graduate,Business Owner,0,Purchase,1241879.0,,,,1
+Home,43435,976546,60,230711,1,0,Graduate,Self-Employed,0,Purchase,2439700.0,,,,1
+Home,191858,3324510,180,886098,1,0,Not Graduate,Self-Employed,10,Renovation,3806949.0,,,,1
+Home,20107,2760610,120,238749,1,2,Not Graduate,Self-Employed,21,Education,4174527.0,,,,0
+Home,57127,3779245,60,853931,1,2,Not Graduate,Business Owner,15,Renovation,5318110.0,,,,0
+Home,176481,1340947,180,348622,0,1,Not Graduate,Salaried,16,Purchase,2566070.0,,,,0
+Home,52329,4103853,60,1092794,1,2,Graduate,Salaried,12,Purchase,4968801.0,,,,0
+Home,83288,321950,24,26539,1,2,Graduate,Business Owner,18,Education,1745374.0,,,,1
+Home,139267,1629320,60,420720,1,3,Graduate,Business Owner,29,Education,3485681.0,,,,1
+Home,50250,4660277,180,728323,0,1,Graduate,Self-Employed,13,Refinance,5552841.0,,,,0
+Home,142038,2075105,240,445316,0,4,Graduate,Business Owner,2,Business Expansion,3336572.0,,,,0
+Home,90443,321964,24,66287,0,0,Graduate,Salaried,19,Renovation,2268025.0,,,,0
+Home,191909,3437470,120,725534,1,1,Not Graduate,Freelancer,30,Business Expansion,3984742.0,,,,1
+Home,114839,1381397,60,193745,0,3,Not Graduate,Business Owner,3,Refinance,2546063.0,,,,0
+Home,123848,4161851,360,648767,0,4,Not Graduate,Salaried,27,Renovation,6056666.0,,,,0
+Home,41930,4652818,120,418997,0,2,Not Graduate,Business Owner,13,Refinance,5018418.0,,,,0
+Home,68803,4066734,120,764365,0,3,Graduate,Self-Employed,14,Education,4767284.0,,,,0
+Home,190677,4644010,24,324471,0,4,Graduate,Freelancer,14,Education,6148810.0,,,,0
+Home,59483,2946027,24,211157,0,2,Not Graduate,Self-Employed,0,Refinance,3414789.0,,,,0
+Home,119588,3181135,360,208287,1,2,Not Graduate,Business Owner,20,Purchase,4455447.0,,,,1
+Home,58769,4289264,120,331329,0,3,Graduate,Freelancer,9,Renovation,4767887.0,,,,0
+Home,60835,1177133,12,346422,0,3,Not Graduate,Salaried,23,Renovation,1919990.0,,,,0
+Home,156074,958006,360,155474,0,1,Not Graduate,Freelancer,2,Education,1920605.0,,,,0
+Home,85984,4359433,240,828793,0,0,Not Graduate,Salaried,24,Business Expansion,5437564.0,,,,0
+Home,191446,4681683,24,1250859,1,3,Graduate,Business Owner,23,Refinance,5010431.0,,,,0
+Home,159800,4965187,240,539826,0,0,Graduate,Salaried,13,Business Expansion,5976978.0,,,,0
+Home,83182,4404816,180,457599,1,1,Graduate,Salaried,10,Renovation,4675234.0,,,,1
+Home,69190,1670403,36,363786,1,1,Graduate,Business Owner,23,Purchase,3586398.0,,,,0
+Home,174803,562514,36,59375,0,2,Graduate,Self-Employed,19,Business Expansion,1470462.0,,,,0
+Home,82165,4110898,12,569960,0,4,Graduate,Salaried,15,Refinance,4695582.0,,,,0
+Home,186776,247428,240,46556,1,2,Not Graduate,Self-Employed,22,Renovation,985313.0,,,,1
+Home,48910,2066113,180,378565,0,3,Not Graduate,Freelancer,29,Renovation,3567225.0,,,,0
+Home,51739,3815648,360,912291,1,3,Not Graduate,Business Owner,21,Business Expansion,4235821.0,,,,1
+Home,41832,3172926,60,652746,0,1,Graduate,Business Owner,24,Purchase,4336374.0,,,,0
+Home,109393,3434127,60,1025014,1,2,Graduate,Freelancer,29,Refinance,4406706.0,,,,1
+Home,183121,3035011,60,155927,1,2,Not Graduate,Salaried,28,Business Expansion,3896076.0,,,,1
+Home,161382,1196877,36,68289,1,0,Not Graduate,Freelancer,24,Education,2283893.0,,,,1
+Home,144015,3390178,12,940821,0,1,Graduate,Salaried,17,Refinance,4170232.0,,,,0
+Home,193356,2514978,120,519222,1,3,Not Graduate,Self-Employed,19,Renovation,3497392.0,,,,1
+Home,96732,4612485,60,1327870,1,1,Graduate,Freelancer,21,Education,6176692.0,,,,0
+Home,171907,1877701,60,436863,0,3,Not Graduate,Business Owner,27,Purchase,2961782.0,,,,0
+Home,45561,2709882,60,234521,0,3,Not Graduate,Business Owner,24,Business Expansion,4242893.0,,,,0
+Home,131978,4606260,180,485084,1,3,Graduate,Salaried,21,Purchase,5380748.0,,,,1
+Home,100289,819048,180,154326,0,1,Graduate,Freelancer,20,Education,1339552.0,,,,0
+Home,150634,4898266,12,1031256,1,0,Not Graduate,Salaried,14,Renovation,5454855.0,,,,0
+Home,144836,2417487,36,155860,0,4,Not Graduate,Freelancer,23,Renovation,3896601.0,,,,0
+Home,76129,4251191,12,1156756,1,1,Not Graduate,Business Owner,13,Purchase,5862046.0,,,,0
+Home,63580,3620871,36,1032847,1,0,Graduate,Self-Employed,17,Refinance,4126918.0,,,,0
+Home,169326,1195675,120,194194,0,0,Graduate,Self-Employed,2,Purchase,1746640.0,,,,0
+Home,122189,1842447,24,393033,1,0,Graduate,Salaried,21,Refinance,2395763.0,,,,1
+Home,184818,3195921,60,622811,1,3,Not Graduate,Salaried,18,Purchase,3848027.0,,,,1
+Home,29917,1344943,24,384860,1,3,Not Graduate,Self-Employed,3,Purchase,2423888.0,,,,0
+Home,156331,3147199,120,396363,0,2,Graduate,Salaried,1,Refinance,3373843.0,,,,0
+Home,144531,4231369,360,870609,0,1,Graduate,Self-Employed,3,Renovation,5325964.0,,,,0
+Home,43268,1939655,36,238973,0,3,Graduate,Salaried,3,Business Expansion,3178550.0,,,,0
+Home,78497,1391219,36,300287,0,4,Not Graduate,Self-Employed,1,Renovation,2048782.0,,,,0
+Home,176988,2587285,60,248981,1,0,Not Graduate,Freelancer,23,Education,3528798.0,,,,1
+Home,16727,510963,24,134887,0,3,Graduate,Salaried,16,Education,2040602.0,,,,0
+Home,90498,3286903,180,886056,0,4,Not Graduate,Salaried,17,Business Expansion,3761961.0,,,,0
+Home,30529,1202747,180,301351,1,1,Graduate,Freelancer,16,Business Expansion,2966532.0,,,,1
+Home,83436,176054,180,17231,0,1,Graduate,Self-Employed,23,Renovation,1791336.0,,,,0
+Home,32798,2336613,240,654864,0,2,Graduate,Freelancer,3,Refinance,2865919.0,,,,0
+Home,128505,3209938,60,642450,1,2,Graduate,Freelancer,16,Renovation,5134386.0,,,,1
+Home,195607,2010686,240,171827,1,1,Not Graduate,Freelancer,15,Renovation,3605448.0,,,,1
+Home,79450,4961602,24,981434,0,0,Not Graduate,Salaried,9,Business Expansion,5228786.0,,,,0
+Home,165188,1463669,36,76678,0,0,Graduate,Freelancer,2,Education,2371563.0,,,,0
+Home,100502,2151528,180,621173,1,2,Graduate,Freelancer,15,Renovation,3720845.0,,,,1

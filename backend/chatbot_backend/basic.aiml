@@ -1,0 +1,203 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    
+    <category>
+        <pattern>ENGLISH</pattern>
+        <template>Hello! Happy to help you. How can I assist you? | Home Loan | Education Loan | Personal Loan | Car Loan | Business Loan | Gold Loan</template>
+    </category>
+
+    <category>
+        <pattern>हिन्दी</pattern>
+        <template>नमस्ते! आपकी सहायता करने में खुशी होगी। मैं आपकी कैसे मदद कर सकता हूँ? | गृह ऋण | शिक्षा ऋण | व्यक्तिगत ऋण | कार ऋण | व्यावसायिक ऋण | स्वर्ण ऋण</template>
+    </category>
+    
+  <!-- Home Loan -->
+    <category>
+        <pattern>HOME LOAN</pattern>
+        <template>A Home Loan helps you buy a house. What do you want to know? |Loan Eligibility | Home Loan Interest Rate | Apply Now </template>
+    </category>
+
+    <category>
+        <pattern>HOME LOAN INTEREST RATE</pattern>
+        <template>Current home loan interest rates are 7.5% - 9%. | Loan Eligibility | Apply Now | Leave </template>
+    </category>
+
+    <!-- Education Loan -->
+    <category>
+        <pattern>EDUCATION LOAN</pattern>
+        <template>An Education Loan helps finance higher studies. What do you want to know? | Loan Eligibility | Education Loan Interest Rate | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern>EDUCATION LOAN INTEREST RATE</pattern>
+        <template>Current education loan interest rates are 8% - 10%.| Loan Eligibility | Apply Now | Leave </template>
+    </category>
+
+     <!-- Personal Loan -->
+    <category>
+        <pattern>PERSONAL LOAN</pattern>
+        <template>A Personal Loan provides financial support for personal expenses. What do you want to know? | Loan Eligibility | Interest Rate | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern>PERSONAL LOAN INTEREST RATE</pattern>
+        <template>Current personal loan interest rates are 10% - 14%. | Loan Eligibility | Apply Now | Leave </template>
+    </category>
+
+
+ <!-- Car Loan -->
+    <category>
+        <pattern>CAR LOAN</pattern>
+        <template>A Car Loan helps you buy a new or used car. What do you want to know? | Loan Eligibility | Car Loan Interest Rate | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern> CAR LOAN INTEREST RATE</pattern>
+        <template>Current car loan interest rates are 7% - 10%. | Loan Eligibility | Apply Now | Leave </template>
+    </category>
+
+
+    <!-- Gold Loan -->
+    <category>
+        <pattern>GOLD LOAN</pattern>
+        <template>A Gold Loan allows you to borrow money against gold assets. What do you want to know? | Loan Eligibility | Gold Loan Interest Rate | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern>GOLD LOAN INTEREST RATE</pattern>
+        <template>Current gold loan interest rates are 9% - 12%. | Loan Eligibility | Apply Now | Leave </template>
+    </category>
+
+    <!-- Business Loan -->
+    <category>
+        <pattern>BUSINESS LOAN</pattern>
+        <template>A Business Loan helps entrepreneurs expand or start a business. What do you want to know? | Loan Eligibility | Business Loan Interest Rate | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern>BUSINESS LOAN INTEREST RATE</pattern>
+        <template>Current business loan interest rates are 10% - 15%. | Loan Eligibility | Apply Now |  Leave </template>
+    </category>
+
+    <!--COMMON-->
+     <category>
+        <pattern>LOAN ELIGIBILITY</pattern>
+        <template>Eligibility depends on income, credit score &amp; employment status. Refer terms and conditions given on our website. | Apply Now</template>
+    </category>
+
+    <category>
+        <pattern>LEAVE</pattern>
+        <template>Thankyou for visiting.</template>
+    </category>
+
+    <category>
+        <pattern>APPLY NOW</pattern>
+        <template>You can visit the WeApprove website to check your loan approval prediction and apply online, or visit your nearest bank branch. | Thankyou | Next Category</template>
+    </category>
+
+     <category>
+        <pattern>THANKYOU</pattern>
+        <template>Thankyou for visiting!</template>
+    </category>
+
+     <category>
+        <pattern>NEXT CATEGORY</pattern>
+        <template>Tell me about which category you want information.| Home Loan | Education Loan | Personal Loan | Car Loan | Business Loan | Gold Loan</template>
+    </category>
+
+    <!--HINDI-->
+    <!-- गृह ऋण -->
+    <category>
+        <pattern>गृह ऋण</pattern>
+        <template>गृह ऋण आपको घर खरीदने में मदद करता है। आप क्या जानना चाहते हैं? | ऋण पात्रता |गृह ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern> गृह ऋण ब्याज दर</pattern>
+        <template>वर्तमान गृह ऋण ब्याज दरें 7.5% - 9% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+     <!-- शिक्षा ऋण -->
+    <category>
+        <pattern>शिक्षा ऋण</pattern>
+        <template>शिक्षा ऋण उच्च शिक्षा प्राप्त करने में आपकी मदद करता है। आप क्या जानना चाहते हैं? | ऋण पात्रता | शिक्षा ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>शिक्षा ऋण ब्याज दर</pattern>
+        <template>वर्तमान शिक्षा ऋण ब्याज दरें 8% - 10% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+    <!-- व्यक्तिगत ऋण -->
+    <category>
+        <pattern>व्यक्तिगत ऋण</pattern>
+        <template>व्यक्तिगत ऋण आपकी विभिन्न वित्तीय आवश्यकताओं को पूरा करने के लिए दिया जाता है। आप क्या जानना चाहते हैं? | ऋण पात्रता | व्यक्तिगत ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>व्यक्तिगत ऋण ब्याज दर</pattern>
+        <template>वर्तमान व्यक्तिगत ऋण ब्याज दरें 10% - 15% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+    <!-- कार ऋण -->
+    <category>
+        <pattern>कार ऋण</pattern>
+        <template>कार ऋण आपको नई या पुरानी कार खरीदने में मदद करता है। आप क्या जानना चाहते हैं? | ऋण पात्रता | कार ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>कार ऋण ब्याज दर</pattern>
+        <template>वर्तमान कार ऋण ब्याज दरें 7% - 10% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+    <!-- व्यावसायिक ऋण -->
+    <category>
+        <pattern>व्यावसायिक ऋण</pattern>
+        <template>व्यावसायिक ऋण आपके व्यवसाय की वृद्धि और विस्तार में मदद करता है। आप क्या जानना चाहते हैं? | ऋण पात्रता | व्यावसायिक ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>व्यावसायिक ऋण ब्याज दर</pattern>
+        <template>वर्तमान व्यावसायिक ऋण ब्याज दरें 9% - 12% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+    <!-- स्वर्ण ऋण -->
+    <category>
+        <pattern>स्वर्ण ऋण</pattern>
+        <template>स्वर्ण ऋण आपको आपके सोने के बदले त्वरित धन प्रदान करता है। आप क्या जानना चाहते हैं? | ऋण पात्रता | स्वर्ण ऋण ब्याज दर | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>स्वर्ण ऋण ब्याज दर</pattern>
+        <template>वर्तमान स्वर्ण ऋण ब्याज दरें 7% - 11% हैं। | ऋण पात्रता | अभी आवेदन करें | बाहर निकलें</template>
+    </category>
+
+
+     <!--COMMON-->
+
+    <category>
+        <pattern>ऋण पात्रता</pattern>
+        <template>पात्रता आपकी आय, क्रेडिट स्कोर और रोजगार की स्थिति पर निर्भर करती है। हमारी वेबसाइट पर दी गई शर्तों और नियमों को देखें। | अभी आवेदन करें</template>
+    </category>
+
+    <category>
+        <pattern>बाहर निकलें</pattern>
+        <template>हमसे जुड़ने के लिए धन्यवाद।</template>
+    </category>
+
+    <category>
+         <pattern>अभी आवेदन करें</pattern>
+         <template>आप अपनी ऋण स्वीकृति भविष्यवाणी की जांच करने और ऑनलाइन आवेदन करने के लिए WeApprove वेबसाइट पर जा सकते हैं, या अपने नजदीकी बैंक शाखा में जा सकते हैं। | धन्यवाद | अगली श्रेणी</template>
+    </category>
+
+    <category>
+         <pattern>धन्यवाद</pattern>
+         <template>हमसे जुड़ने के लिए धन्यवाद!</template>
+    </category>
+
+    <category>
+        <pattern>अगली श्रेणी</pattern>
+        <template>आप किस श्रेणी के बारे में जानकारी चाहते हैं? | गृह ऋण | शिक्षा ऋण | व्यक्तिगत ऋण | कार ऋण | व्यावसायिक ऋण | स्वर्ण ऋण</template>
+    </category>
+
+
+    </aiml>

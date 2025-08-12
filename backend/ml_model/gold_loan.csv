@@ -1,0 +1,1001 @@
+Loan_Type,Income,LoanAmount,Tenure,DownPayment,Credit_History,Dependents,Education,EmploymentType,Experience,LoanPurpose,PropertyValue,GoldValue,SecurityValue,CoApplicantIncome,Loan_Approved
+Gold,101444,2594666,240,180438,0,2,Not Graduate,Freelancer,14,Renovation,,2644211.0,,,0
+Gold,107648,1280238,180,245852,1,4,Graduate,Business Owner,20,Refinance,,1307648.0,,,1
+Gold,77936,559600,180,158148,0,3,Graduate,Salaried,30,Refinance,,591123.0,,,0
+Gold,23470,1133725,120,74895,0,4,Not Graduate,Salaried,30,Refinance,,1165660.0,,,0
+Gold,156014,273068,120,62094,1,3,Not Graduate,Business Owner,17,Business Expansion,,295085.0,,,1
+Gold,186417,177974,240,19999,0,3,Graduate,Freelancer,7,Refinance,,207651.0,,,0
+Gold,125987,1001659,60,245094,1,3,Not Graduate,Salaried,5,Renovation,,1024599.0,,,1
+Gold,28696,964416,360,195797,0,0,Graduate,Self-Employed,24,Refinance,,999596.0,,,0
+Gold,99491,2642305,12,488500,1,3,Not Graduate,Self-Employed,27,Purchase,,2647573.0,,,0
+Gold,151882,783358,240,195803,1,4,Graduate,Freelancer,17,Education,,804343.0,,,1
+Gold,33972,3733053,180,434733,0,1,Not Graduate,Business Owner,30,Renovation,,3751659.0,,,0
+Gold,154438,4294097,12,634048,0,4,Graduate,Self-Employed,8,Education,,4330855.0,,,0
+Gold,48702,1540572,36,346943,1,0,Graduate,Salaried,11,Refinance,,1555507.0,,,0
+Gold,73606,1948878,12,546844,1,1,Not Graduate,Business Owner,21,Purchase,,1974716.0,,,0
+Gold,115503,2657779,60,612571,0,2,Graduate,Business Owner,2,Refinance,,2688550.0,,,0
+Gold,192312,1312140,180,318410,1,0,Graduate,Self-Employed,25,Education,,1355376.0,,,1
+Gold,101499,2984832,240,833803,0,0,Not Graduate,Salaried,28,Renovation,,3033925.0,,,0
+Gold,95737,250648,360,50617,1,3,Not Graduate,Business Owner,14,Refinance,,290897.0,,,1
+Gold,15128,938448,120,224811,0,4,Graduate,Business Owner,13,Business Expansion,,963057.0,,,0
+Gold,104173,4905714,180,566333,1,1,Not Graduate,Salaried,30,Renovation,,4936210.0,,,1
+Gold,162646,1154128,12,267367,0,2,Not Graduate,Salaried,22,Education,,1166399.0,,,0
+Gold,62967,1224715,36,329237,0,2,Graduate,Business Owner,4,Purchase,,1252292.0,,,0
+Gold,166308,1069172,240,317384,0,1,Not Graduate,Business Owner,30,Purchase,,1094504.0,,,0
+Gold,98958,3431896,60,430928,1,0,Graduate,Business Owner,24,Refinance,,3464441.0,,,0
+Gold,85742,2263791,36,611655,0,0,Not Graduate,Freelancer,3,Education,,2299893.0,,,0
+Gold,159453,2434559,360,450723,1,3,Not Graduate,Salaried,26,Purchase,,2452764.0,,,1
+Gold,103845,1028414,24,54092,1,0,Graduate,Self-Employed,21,Purchase,,1052395.0,,,1
+Gold,64366,1330842,120,186995,1,0,Graduate,Self-Employed,30,Business Expansion,,1364593.0,,,1
+Gold,172059,778695,240,196011,0,0,Graduate,Salaried,2,Renovation,,812351.0,,,0
+Gold,151556,3708581,24,901472,0,4,Not Graduate,Business Owner,27,Business Expansion,,3754634.0,,,0
+Gold,95927,2639819,180,528986,1,1,Not Graduate,Business Owner,25,Purchase,,2652240.0,,,1
+Gold,176457,3400881,24,347160,0,1,Not Graduate,Self-Employed,10,Business Expansion,,3414849.0,,,0
+Gold,181686,1412079,12,164422,1,1,Graduate,Business Owner,2,Renovation,,1432655.0,,,0
+Gold,145832,3667777,180,207808,0,1,Graduate,Self-Employed,4,Renovation,,3698225.0,,,0
+Gold,140580,3922546,240,778013,0,0,Graduate,Business Owner,23,Renovation,,3954443.0,,,0
+Gold,143865,4938391,36,1447101,0,2,Not Graduate,Business Owner,14,Renovation,,4984540.0,,,0
+Gold,149235,4325105,360,1268191,0,2,Not Graduate,Self-Employed,19,Business Expansion,,4347340.0,,,0
+Gold,71804,4796464,240,866521,1,4,Graduate,Salaried,5,Education,,4832916.0,,,1
+Gold,77339,3073373,12,196259,1,2,Graduate,Self-Employed,16,Refinance,,3088345.0,,,0
+Gold,193754,1777773,12,396523,1,1,Graduate,Self-Employed,7,Business Expansion,,1819286.0,,,0
+Gold,16031,2104062,120,551508,0,2,Not Graduate,Self-Employed,8,Purchase,,2152116.0,,,0
+Gold,126746,1286635,120,115463,0,3,Graduate,Salaried,14,Renovation,,1299926.0,,,0
+Gold,188932,3456888,60,558279,0,2,Graduate,Freelancer,18,Business Expansion,,3471396.0,,,0
+Gold,162180,154961,12,26418,1,3,Graduate,Freelancer,20,Refinance,,203942.0,,,1
+Gold,170081,2721353,36,485771,0,1,Graduate,Salaried,18,Education,,2766524.0,,,0
+Gold,172030,4301919,24,1174424,0,3,Graduate,Freelancer,18,Refinance,,4329396.0,,,0
+Gold,59636,297579,180,68463,1,4,Graduate,Self-Employed,8,Purchase,,324505.0,,,1
+Gold,105639,2975071,240,548244,0,3,Not Graduate,Business Owner,1,Business Expansion,,2996902.0,,,0
+Gold,20112,1670494,24,108944,1,4,Graduate,Business Owner,10,Refinance,,1700119.0,,,0
+Gold,154688,3282760,240,945431,0,4,Graduate,Freelancer,7,Education,,3330891.0,,,0
+Gold,116137,700235,36,130462,0,1,Not Graduate,Freelancer,14,Renovation,,735637.0,,,0
+Gold,135112,4700947,36,1137947,0,4,Graduate,Salaried,0,Purchase,,4725041.0,,,0
+Gold,64157,4383565,36,390681,1,4,Graduate,Freelancer,4,Refinance,,4400855.0,,,0
+Gold,174412,883891,12,191134,0,0,Not Graduate,Business Owner,0,Purchase,,914383.0,,,0
+Gold,150019,4653232,24,802868,1,4,Graduate,Freelancer,26,Business Expansion,,4671534.0,,,0
+Gold,116091,3789748,60,490196,1,1,Not Graduate,Self-Employed,5,Renovation,,3823569.0,,,1
+Gold,199210,1321346,240,92429,0,1,Not Graduate,Freelancer,22,Renovation,,1364506.0,,,0
+Gold,172644,4631066,36,396268,0,1,Graduate,Salaried,27,Renovation,,4647133.0,,,0
+Gold,186005,1745695,240,384713,1,2,Graduate,Salaried,7,Business Expansion,,1751205.0,,,1
+Gold,72402,1526061,180,319490,0,0,Graduate,Salaried,29,Business Expansion,,1564910.0,,,0
+Gold,38082,2969937,240,495393,0,2,Graduate,Business Owner,15,Purchase,,3016298.0,,,0
+Gold,83228,3245840,120,344224,0,0,Not Graduate,Self-Employed,1,Renovation,,3252289.0,,,0
+Gold,72276,4080274,60,217103,1,0,Not Graduate,Self-Employed,3,Education,,4093330.0,,,0
+Gold,134018,1707004,12,272256,1,4,Graduate,Freelancer,11,Purchase,,1752124.0,,,0
+Gold,81476,1002578,120,59543,1,2,Graduate,Salaried,30,Renovation,,1022166.0,,,1
+Gold,107483,1569917,60,317309,0,4,Not Graduate,Salaried,9,Education,,1616275.0,,,0
+Gold,52347,2096629,60,435398,0,3,Graduate,Business Owner,9,Renovation,,2115336.0,,,0
+Gold,122238,1879925,360,352063,1,4,Not Graduate,Freelancer,30,Business Expansion,,1897395.0,,,1
+Gold,120151,4681182,36,1031975,1,0,Not Graduate,Business Owner,12,Business Expansion,,4711028.0,,,0
+Gold,18163,160808,60,45028,1,2,Graduate,Salaried,15,Business Expansion,,202647.0,,,1
+Gold,47186,4287651,240,876198,0,2,Graduate,Freelancer,8,Renovation,,4322136.0,,,0
+Gold,133180,1512811,180,293149,0,0,Graduate,Self-Employed,11,Purchase,,1556022.0,,,0
+Gold,78617,3394692,24,587529,1,4,Not Graduate,Self-Employed,8,Business Expansion,,3436592.0,,,0
+Gold,178097,1720851,24,368647,0,4,Not Graduate,Self-Employed,16,Business Expansion,,1731105.0,,,0
+Gold,126064,150698,120,18756,1,4,Not Graduate,Salaried,2,Renovation,,198318.0,,,1
+Gold,110226,619378,12,69869,1,4,Graduate,Business Owner,29,Refinance,,638697.0,,,1
+Gold,108146,799833,60,99227,0,0,Not Graduate,Freelancer,14,Business Expansion,,838014.0,,,0
+Gold,195118,1567116,12,297556,0,4,Graduate,Business Owner,25,Renovation,,1576090.0,,,0
+Gold,187030,3826061,24,280839,0,4,Not Graduate,Self-Employed,12,Purchase,,3836630.0,,,0
+Gold,124174,379206,60,90496,0,4,Not Graduate,Self-Employed,4,Refinance,,419120.0,,,0
+Gold,171046,3123400,360,935486,1,0,Not Graduate,Self-Employed,24,Education,,3145364.0,,,1
+Gold,86563,352152,240,85351,1,3,Graduate,Salaried,12,Refinance,,380605.0,,,1
+Gold,178575,4787773,36,772390,1,0,Graduate,Self-Employed,28,Renovation,,4830644.0,,,0
+Gold,126039,4837886,60,663361,0,1,Graduate,Self-Employed,30,Purchase,,4864181.0,,,0
+Gold,105387,3725094,12,1037989,1,4,Graduate,Self-Employed,27,Purchase,,3750775.0,,,0
+Gold,166691,3978606,24,756691,0,0,Not Graduate,Salaried,2,Purchase,,4008506.0,,,0
+Gold,142843,3220241,36,241555,0,0,Not Graduate,Business Owner,7,Renovation,,3250521.0,,,0
+Gold,24651,4603036,240,1323130,0,0,Not Graduate,Salaried,20,Renovation,,4642500.0,,,0
+Gold,161705,4974399,60,722055,0,4,Not Graduate,Freelancer,26,Business Expansion,,5014777.0,,,0
+Gold,152997,3794605,12,491454,0,0,Graduate,Self-Employed,28,Refinance,,3814952.0,,,0
+Gold,141948,208261,36,28956,0,0,Graduate,Business Owner,30,Business Expansion,,249896.0,,,0
+Gold,144282,4441546,60,448555,0,1,Graduate,Freelancer,24,Business Expansion,,4484769.0,,,0
+Gold,68551,2140780,360,245243,1,0,Not Graduate,Business Owner,17,Refinance,,2148144.0,,,1
+Gold,134101,4085395,180,323387,0,4,Graduate,Self-Employed,0,Education,,4093031.0,,,0
+Gold,195265,3328996,360,177573,1,2,Graduate,Self-Employed,2,Business Expansion,,3347420.0,,,1
+Gold,132717,2849001,180,800589,1,1,Graduate,Business Owner,22,Business Expansion,,2888657.0,,,1
+Gold,196418,1345198,180,377131,0,0,Not Graduate,Salaried,16,Education,,1369365.0,,,0
+Gold,177459,328081,12,48330,1,0,Graduate,Self-Employed,26,Business Expansion,,353991.0,,,1
+Gold,165802,2603574,360,723757,0,3,Not Graduate,Freelancer,19,Refinance,,2631127.0,,,0
+Gold,22888,2766235,240,727702,0,4,Graduate,Business Owner,7,Renovation,,2784976.0,,,0
+Gold,81043,1885089,12,165045,1,1,Not Graduate,Self-Employed,26,Education,,1928914.0,,,0
+Gold,38107,3909953,36,500167,1,4,Not Graduate,Freelancer,14,Renovation,,3919553.0,,,0
+Gold,82209,4692661,36,1250736,1,4,Graduate,Self-Employed,15,Renovation,,4723493.0,,,0
+Gold,197200,1853598,180,206037,0,2,Graduate,Business Owner,7,Purchase,,1890188.0,,,0
+Gold,172331,1839796,180,275923,1,2,Not Graduate,Freelancer,13,Business Expansion,,1859158.0,,,1
+Gold,68186,4474120,360,550085,1,3,Not Graduate,Salaried,8,Business Expansion,,4515182.0,,,1
+Gold,145046,1333057,24,93760,0,0,Graduate,Salaried,1,Purchase,,1373367.0,,,0
+Gold,130705,1382683,12,136506,0,3,Graduate,Salaried,24,Renovation,,1402507.0,,,0
+Gold,24469,1441712,36,216034,1,3,Graduate,Freelancer,2,Refinance,,1461559.0,,,0
+Gold,125103,2397854,24,430245,1,1,Graduate,Salaried,19,Refinance,,2441381.0,,,0
+Gold,43684,172839,36,46883,0,3,Graduate,Business Owner,26,Renovation,,219284.0,,,0
+Gold,185829,146905,36,17471,0,0,Not Graduate,Self-Employed,4,Refinance,,191305.0,,,0
+Gold,57360,791688,360,87010,1,3,Graduate,Business Owner,7,Business Expansion,,831918.0,,,1
+Gold,33136,1799564,240,343552,1,1,Not Graduate,Freelancer,5,Refinance,,1821752.0,,,1
+Gold,63476,4167089,240,391994,1,4,Graduate,Salaried,1,Education,,4184862.0,,,1
+Gold,60723,3946036,360,285173,1,2,Graduate,Business Owner,27,Renovation,,3994594.0,,,1
+Gold,99040,4739617,60,1087379,1,1,Not Graduate,Business Owner,15,Education,,4763869.0,,,0
+Gold,111994,3560361,120,299977,1,1,Not Graduate,Salaried,30,Business Expansion,,3600732.0,,,1
+Gold,83913,4703872,12,1218044,1,1,Graduate,Salaried,19,Business Expansion,,4731837.0,,,0
+Gold,157138,857642,24,121403,0,1,Graduate,Freelancer,0,Business Expansion,,890418.0,,,0
+Gold,107220,903204,120,98107,1,1,Graduate,Salaried,26,Education,,932587.0,,,1
+Gold,52431,2569736,180,312698,1,3,Graduate,Business Owner,11,Purchase,,2597471.0,,,1
+Gold,33920,3683103,120,552311,1,1,Graduate,Business Owner,7,Refinance,,3720186.0,,,0
+Gold,177404,2695735,240,487219,0,3,Not Graduate,Business Owner,2,Renovation,,2729738.0,,,0
+Gold,142129,4049122,36,894127,0,2,Graduate,Business Owner,8,Renovation,,4094998.0,,,0
+Gold,148260,1970198,36,161400,1,2,Graduate,Freelancer,26,Education,,1986523.0,,,1
+Gold,21526,2383750,360,362126,0,2,Not Graduate,Business Owner,6,Renovation,,2427167.0,,,0
+Gold,78233,3296375,240,219070,0,0,Graduate,Freelancer,6,Purchase,,3316104.0,,,0
+Gold,36213,4885390,36,271323,0,0,Graduate,Freelancer,12,Purchase,,4893257.0,,,0
+Gold,40730,3883893,240,459582,1,3,Not Graduate,Business Owner,21,Purchase,,3920869.0,,,1
+Gold,135561,3024840,120,666745,1,1,Graduate,Salaried,13,Education,,3065365.0,,,1
+Gold,94501,1065194,180,110237,0,1,Not Graduate,Freelancer,6,Business Expansion,,1104754.0,,,0
+Gold,85725,846892,360,138105,0,2,Not Graduate,Salaried,12,Business Expansion,,867956.0,,,0
+Gold,125506,3249574,240,969008,0,2,Graduate,Salaried,11,Education,,3269851.0,,,0
+Gold,54856,3655198,60,964864,1,0,Not Graduate,Business Owner,9,Refinance,,3677527.0,,,0
+Gold,94541,855560,36,46518,0,3,Graduate,Freelancer,8,Renovation,,864084.0,,,0
+Gold,18015,51437,36,7838,1,1,Not Graduate,Business Owner,23,Education,,77347.0,,,1
+Gold,178273,3366138,36,189081,0,3,Not Graduate,Salaried,9,Education,,3411649.0,,,0
+Gold,154311,3813899,120,473984,1,2,Graduate,Self-Employed,7,Business Expansion,,3828917.0,,,1
+Gold,121698,3325828,60,263036,1,0,Graduate,Self-Employed,1,Refinance,,3352989.0,,,1
+Gold,90785,302980,24,85974,0,1,Graduate,Freelancer,30,Renovation,,319995.0,,,0
+Gold,49761,314015,60,84417,0,0,Graduate,Freelancer,21,Refinance,,355299.0,,,0
+Gold,82767,4713204,12,1012919,0,4,Graduate,Self-Employed,20,Education,,4735892.0,,,0
+Gold,54551,3179905,60,910552,1,0,Not Graduate,Business Owner,6,Renovation,,3190473.0,,,0
+Gold,181228,2973378,180,475625,0,3,Graduate,Salaried,7,Renovation,,3009877.0,,,0
+Gold,102360,4361479,12,819629,0,3,Not Graduate,Freelancer,26,Purchase,,4403760.0,,,0
+Gold,92240,3363483,240,606576,1,4,Graduate,Freelancer,24,Refinance,,3385113.0,,,1
+Gold,62134,1024807,36,274215,0,3,Not Graduate,Self-Employed,12,Renovation,,1067864.0,,,0
+Gold,91412,4070197,120,551066,1,0,Not Graduate,Freelancer,8,Purchase,,4097575.0,,,1
+Gold,165782,3291494,120,214748,0,2,Graduate,Business Owner,21,Purchase,,3299244.0,,,0
+Gold,30752,4625386,120,1146157,0,2,Graduate,Salaried,14,Business Expansion,,4639728.0,,,0
+Gold,61501,4597150,12,611356,0,0,Graduate,Business Owner,16,Refinance,,4644474.0,,,0
+Gold,144629,3226093,360,169341,0,1,Not Graduate,Salaried,9,Business Expansion,,3257420.0,,,0
+Gold,106605,1824740,24,209144,0,3,Not Graduate,Freelancer,9,Renovation,,1837425.0,,,0
+Gold,137941,4150269,36,1022622,0,0,Graduate,Salaried,3,Renovation,,4199412.0,,,0
+Gold,112181,4609505,24,806956,0,3,Not Graduate,Salaried,13,Purchase,,4626161.0,,,0
+Gold,144633,3638840,240,351499,0,0,Graduate,Self-Employed,13,Purchase,,3674025.0,,,0
+Gold,186181,1595047,60,100605,1,4,Graduate,Self-Employed,7,Education,,1606990.0,,,1
+Gold,133891,522269,240,71691,1,1,Not Graduate,Self-Employed,1,Refinance,,541115.0,,,1
+Gold,120237,3219529,120,344323,0,1,Graduate,Freelancer,12,Purchase,,3245918.0,,,0
+Gold,182908,2549996,240,430365,1,2,Graduate,Business Owner,6,Purchase,,2579784.0,,,1
+Gold,147069,1899816,24,324499,0,2,Graduate,Freelancer,22,Renovation,,1916248.0,,,0
+Gold,197280,1359062,60,227472,0,4,Not Graduate,Freelancer,30,Education,,1405266.0,,,0
+Gold,39765,882070,360,129597,1,1,Graduate,Self-Employed,20,Refinance,,894543.0,,,1
+Gold,34289,747502,60,60293,0,2,Not Graduate,Salaried,24,Renovation,,753709.0,,,0
+Gold,157970,2052671,120,222615,0,4,Not Graduate,Salaried,0,Business Expansion,,2092232.0,,,0
+Gold,60937,2182114,360,440818,0,2,Graduate,Salaried,4,Renovation,,2203048.0,,,0
+Gold,90175,3092285,60,628256,0,3,Graduate,Self-Employed,11,Purchase,,3108452.0,,,0
+Gold,81484,4876009,120,431942,1,2,Graduate,Business Owner,24,Education,,4910100.0,,,1
+Gold,148461,2229314,24,320272,0,4,Graduate,Business Owner,0,Education,,2243478.0,,,0
+Gold,77239,4923048,120,818794,1,1,Not Graduate,Self-Employed,16,Education,,4942595.0,,,1
+Gold,164835,2603413,120,304087,0,2,Not Graduate,Business Owner,14,Renovation,,2610512.0,,,0
+Gold,67815,1146676,120,292761,0,4,Graduate,Business Owner,30,Education,,1194846.0,,,0
+Gold,56032,433617,60,88843,0,4,Not Graduate,Freelancer,18,Refinance,,451329.0,,,0
+Gold,24843,4729073,120,497841,1,4,Graduate,Freelancer,6,Education,,4745440.0,,,0
+Gold,194955,2111261,120,515590,1,3,Graduate,Salaried,15,Renovation,,2126472.0,,,1
+Gold,160980,2597131,120,427936,0,2,Not Graduate,Salaried,11,Education,,2632650.0,,,0
+Gold,145910,4926389,36,581421,1,0,Graduate,Freelancer,26,Purchase,,4952517.0,,,0
+Gold,197197,520282,60,140984,0,1,Graduate,Freelancer,5,Purchase,,566413.0,,,0
+Gold,104625,843175,240,52876,1,0,Graduate,Salaried,29,Education,,875215.0,,,1
+Gold,101182,2990309,12,418111,0,4,Graduate,Business Owner,4,Business Expansion,,3000442.0,,,0
+Gold,172701,925072,24,225644,0,0,Not Graduate,Salaried,25,Business Expansion,,956768.0,,,0
+Gold,134041,1126100,240,224017,1,4,Graduate,Self-Employed,5,Renovation,,1134864.0,,,1
+Gold,59082,1802886,240,504549,0,0,Not Graduate,Business Owner,28,Business Expansion,,1808545.0,,,0
+Gold,101296,2588598,60,378145,1,0,Not Graduate,Salaried,21,Purchase,,2628474.0,,,1
+Gold,85002,3321875,60,503367,0,2,Not Graduate,Salaried,1,Refinance,,3345775.0,,,0
+Gold,198654,2662080,24,144951,1,4,Not Graduate,Business Owner,2,Education,,2685816.0,,,0
+Gold,191160,3815466,24,500758,0,2,Graduate,Self-Employed,19,Purchase,,3858005.0,,,0
+Gold,73423,2237224,12,446042,1,1,Graduate,Self-Employed,8,Renovation,,2278567.0,,,0
+Gold,44408,3033736,360,491190,0,4,Not Graduate,Salaried,27,Renovation,,3075296.0,,,0
+Gold,18234,2621089,60,762846,1,3,Graduate,Salaried,23,Purchase,,2652967.0,,,0
+Gold,65285,1007309,120,182341,1,0,Graduate,Salaried,21,Refinance,,1031908.0,,,1
+Gold,115885,217600,240,12253,0,4,Not Graduate,Business Owner,26,Purchase,,263395.0,,,0
+Gold,41059,1800586,12,314952,1,1,Graduate,Business Owner,8,Business Expansion,,1849110.0,,,0
+Gold,95363,4981563,36,841284,0,0,Graduate,Freelancer,26,Education,,5001882.0,,,0
+Gold,197971,1690099,12,389136,1,2,Not Graduate,Salaried,29,Renovation,,1734823.0,,,0
+Gold,47262,2269342,120,616577,1,2,Graduate,Business Owner,30,Education,,2294734.0,,,1
+Gold,180014,4670327,12,329200,1,0,Not Graduate,Freelancer,26,Renovation,,4687928.0,,,0
+Gold,45314,3137660,360,632858,1,4,Graduate,Self-Employed,12,Business Expansion,,3149930.0,,,1
+Gold,185119,4196575,180,390197,0,1,Not Graduate,Business Owner,20,Refinance,,4244403.0,,,0
+Gold,32927,848081,12,71681,0,4,Not Graduate,Salaried,14,Renovation,,867322.0,,,0
+Gold,143240,2512112,60,539921,1,1,Graduate,Salaried,23,Refinance,,2548551.0,,,1
+Gold,148380,4654944,180,349576,0,0,Not Graduate,Self-Employed,7,Business Expansion,,4665501.0,,,0
+Gold,96909,4283505,36,461039,1,2,Not Graduate,Freelancer,11,Business Expansion,,4301426.0,,,0
+Gold,64816,3174575,60,542901,1,4,Not Graduate,Self-Employed,22,Business Expansion,,3212853.0,,,0
+Gold,110830,4756876,24,376048,0,3,Not Graduate,Freelancer,29,Refinance,,4800661.0,,,0
+Gold,141560,4098902,24,679929,0,2,Graduate,Freelancer,8,Refinance,,4131674.0,,,0
+Gold,70349,2949822,36,230519,0,0,Graduate,Self-Employed,24,Renovation,,2955965.0,,,0
+Gold,21185,2676894,180,771012,1,3,Not Graduate,Business Owner,9,Business Expansion,,2703266.0,,,1
+Gold,53960,2884981,120,181281,0,0,Graduate,Salaried,29,Purchase,,2897982.0,,,0
+Gold,147636,2489245,240,203609,0,1,Not Graduate,Salaried,22,Education,,2506084.0,,,0
+Gold,83389,2882714,240,452795,0,4,Not Graduate,Self-Employed,22,Renovation,,2917001.0,,,0
+Gold,150023,1759827,60,419245,0,4,Not Graduate,Freelancer,25,Refinance,,1807710.0,,,0
+Gold,111110,4350426,24,591202,1,3,Graduate,Business Owner,25,Business Expansion,,4398907.0,,,0
+Gold,115278,4025740,240,732062,1,3,Graduate,Business Owner,22,Purchase,,4067876.0,,,1
+Gold,58674,1394814,360,392351,1,0,Graduate,Freelancer,5,Refinance,,1407670.0,,,1
+Gold,181490,4236645,360,653626,1,2,Not Graduate,Salaried,26,Education,,4254609.0,,,1
+Gold,185958,3976102,12,977807,1,1,Not Graduate,Freelancer,24,Renovation,,4002211.0,,,0
+Gold,130192,655219,360,33179,0,1,Graduate,Freelancer,20,Education,,673282.0,,,0
+Gold,76227,2453220,120,668890,0,2,Graduate,Salaried,24,Purchase,,2482674.0,,,0
+Gold,34364,209615,180,25069,0,0,Not Graduate,Freelancer,24,Business Expansion,,236692.0,,,0
+Gold,41269,4712061,240,488725,1,1,Graduate,Self-Employed,28,Education,,4724861.0,,,1
+Gold,187106,4555770,60,535420,1,4,Graduate,Business Owner,3,Renovation,,4568174.0,,,1
+Gold,156000,537513,24,124051,1,3,Graduate,Self-Employed,2,Refinance,,573272.0,,,1
+Gold,105697,3405270,60,965335,1,4,Not Graduate,Freelancer,15,Refinance,,3447524.0,,,1
+Gold,101541,559070,240,36501,0,3,Not Graduate,Salaried,25,Business Expansion,,586581.0,,,0
+Gold,28153,263540,60,36836,1,3,Not Graduate,Self-Employed,17,Refinance,,301884.0,,,1
+Gold,141280,3197548,60,388872,0,4,Not Graduate,Freelancer,19,Business Expansion,,3219551.0,,,0
+Gold,185529,2472505,180,169840,1,1,Graduate,Salaried,26,Renovation,,2501872.0,,,1
+Gold,109657,267904,180,31893,0,0,Graduate,Business Owner,25,Education,,273181.0,,,0
+Gold,26618,3373227,24,354899,1,4,Not Graduate,Salaried,24,Renovation,,3416366.0,,,0
+Gold,52349,4028037,36,484923,1,2,Graduate,Self-Employed,30,Refinance,,4062330.0,,,0
+Gold,111413,4020786,12,523492,0,2,Not Graduate,Salaried,4,Purchase,,4045123.0,,,0
+Gold,144506,1213476,120,194352,1,0,Graduate,Freelancer,8,Renovation,,1238315.0,,,1
+Gold,143262,2553891,180,439201,0,4,Graduate,Self-Employed,1,Refinance,,2568228.0,,,0
+Gold,148651,3459469,120,893115,0,3,Not Graduate,Freelancer,6,Education,,3497873.0,,,0
+Gold,91521,2985389,360,179823,0,3,Graduate,Salaried,9,Renovation,,3008035.0,,,0
+Gold,35733,91623,360,5662,0,1,Graduate,Salaried,0,Business Expansion,,138261.0,,,0
+Gold,164055,4230529,240,1100613,1,4,Not Graduate,Self-Employed,26,Business Expansion,,4248373.0,,,1
+Gold,90618,2964573,12,158678,0,3,Graduate,Freelancer,18,Purchase,,2978622.0,,,0
+Gold,152484,882700,360,54262,1,3,Graduate,Freelancer,14,Renovation,,912694.0,,,1
+Gold,17906,972124,60,290203,1,4,Graduate,Self-Employed,28,Education,,1007961.0,,,0
+Gold,97651,3843855,180,1019814,0,1,Graduate,Self-Employed,0,Renovation,,3858162.0,,,0
+Gold,47483,1843217,36,231670,1,1,Not Graduate,Business Owner,23,Education,,1861495.0,,,0
+Gold,139037,955894,12,195842,0,3,Graduate,Business Owner,25,Refinance,,1005448.0,,,0
+Gold,158185,4212531,12,502267,0,2,Not Graduate,Business Owner,29,Education,,4252646.0,,,0
+Gold,115420,1046136,120,262875,0,2,Graduate,Salaried,18,Purchase,,1075229.0,,,0
+Gold,147428,2808415,60,146584,0,3,Not Graduate,Self-Employed,7,Purchase,,2817136.0,,,0
+Gold,62947,1372056,36,202118,1,1,Not Graduate,Self-Employed,2,Renovation,,1397171.0,,,0
+Gold,37671,297740,36,53278,0,4,Not Graduate,Salaried,9,Education,,336743.0,,,0
+Gold,15571,3954947,360,918246,1,3,Graduate,Self-Employed,23,Business Expansion,,3976349.0,,,0
+Gold,65986,2699312,360,478088,0,4,Graduate,Salaried,17,Education,,2727469.0,,,0
+Gold,110990,2631941,180,435644,0,1,Graduate,Business Owner,8,Renovation,,2663346.0,,,0
+Gold,80007,2958944,24,806812,0,0,Not Graduate,Business Owner,6,Renovation,,2987962.0,,,0
+Gold,138524,2322740,240,416402,1,4,Not Graduate,Business Owner,13,Education,,2361398.0,,,1
+Gold,125189,367222,12,68703,1,1,Graduate,Business Owner,11,Refinance,,374253.0,,,1
+Gold,30955,4869868,180,1295544,0,0,Graduate,Freelancer,24,Purchase,,4876086.0,,,0
+Gold,22321,2775358,12,357763,1,0,Graduate,Salaried,29,Purchase,,2820934.0,,,0
+Gold,121628,561008,120,29263,0,3,Not Graduate,Self-Employed,23,Education,,580088.0,,,0
+Gold,49700,3686960,12,928590,0,1,Not Graduate,Freelancer,19,Refinance,,3718902.0,,,0
+Gold,185597,1249046,60,276003,0,3,Graduate,Self-Employed,29,Education,,1257969.0,,,0
+Gold,26994,367379,240,95872,1,1,Not Graduate,Salaried,17,Purchase,,391189.0,,,1
+Gold,62809,2158553,36,310621,0,2,Not Graduate,Self-Employed,27,Education,,2185209.0,,,0
+Gold,112847,432623,120,117775,1,0,Graduate,Self-Employed,28,Business Expansion,,476932.0,,,1
+Gold,113412,1911069,60,179942,1,1,Not Graduate,Business Owner,12,Purchase,,1936149.0,,,1
+Gold,139113,2439304,12,138126,1,3,Not Graduate,Freelancer,10,Business Expansion,,2475171.0,,,0
+Gold,79351,2550976,360,503951,1,0,Graduate,Business Owner,12,Education,,2558666.0,,,1
+Gold,156641,3453949,360,472656,0,1,Graduate,Freelancer,4,Purchase,,3462912.0,,,0
+Gold,121009,1985976,36,354427,1,2,Not Graduate,Salaried,22,Education,,2000578.0,,,1
+Gold,177487,4819675,12,1019183,1,4,Graduate,Business Owner,14,Business Expansion,,4840278.0,,,0
+Gold,71290,3140045,120,607919,1,0,Graduate,Self-Employed,0,Business Expansion,,3152720.0,,,1
+Gold,150819,4373320,180,462570,1,4,Graduate,Salaried,9,Education,,4408776.0,,,1
+Gold,164761,2527909,12,200052,1,4,Graduate,Salaried,28,Purchase,,2542513.0,,,0
+Gold,123393,3466602,24,870851,0,4,Graduate,Business Owner,7,Renovation,,3494457.0,,,0
+Gold,95121,3656378,120,874839,1,4,Not Graduate,Salaried,25,Purchase,,3693291.0,,,1
+Gold,99500,153981,180,20066,0,1,Not Graduate,Freelancer,6,Business Expansion,,160339.0,,,0
+Gold,153286,3189105,60,254179,1,0,Not Graduate,Self-Employed,6,Business Expansion,,3225733.0,,,1
+Gold,160784,1896096,180,335220,1,0,Not Graduate,Self-Employed,13,Education,,1929458.0,,,1
+Gold,65453,122566,24,9510,1,3,Not Graduate,Salaried,7,Education,,132097.0,,,1
+Gold,136372,4215753,120,440724,1,0,Not Graduate,Self-Employed,4,Renovation,,4249246.0,,,1
+Gold,169750,3126316,360,758115,1,4,Not Graduate,Business Owner,4,Business Expansion,,3154498.0,,,1
+Gold,98834,4227482,360,584323,1,4,Not Graduate,Self-Employed,26,Business Expansion,,4260646.0,,,1
+Gold,165016,3715191,36,340837,0,3,Not Graduate,Salaried,11,Purchase,,3755398.0,,,0
+Gold,120816,2334493,24,139725,0,1,Graduate,Business Owner,13,Renovation,,2345801.0,,,0
+Gold,133490,627143,60,38348,1,4,Graduate,Self-Employed,3,Purchase,,656690.0,,,1
+Gold,101068,160926,60,11314,0,2,Graduate,Salaried,3,Refinance,,187520.0,,,0
+Gold,92924,3493568,360,425362,1,4,Not Graduate,Salaried,2,Education,,3512514.0,,,1
+Gold,49069,296404,12,81941,0,3,Not Graduate,Salaried,16,Business Expansion,,313578.0,,,0
+Gold,137476,1513881,36,226042,0,3,Not Graduate,Business Owner,11,Purchase,,1560440.0,,,0
+Gold,73431,2444471,60,274135,0,2,Not Graduate,Freelancer,30,Refinance,,2467344.0,,,0
+Gold,154355,1699566,360,408344,0,3,Not Graduate,Salaried,7,Business Expansion,,1722027.0,,,0
+Gold,58497,971446,24,283546,1,1,Graduate,Salaried,24,Business Expansion,,1010998.0,,,1
+Gold,78841,2198117,360,291653,0,4,Graduate,Freelancer,1,Purchase,,2210099.0,,,0
+Gold,105607,1277998,180,187464,1,3,Not Graduate,Self-Employed,21,Business Expansion,,1298350.0,,,1
+Gold,33778,803745,60,78080,0,4,Graduate,Salaried,15,Renovation,,845000.0,,,0
+Gold,67531,1491892,180,410501,0,1,Graduate,Self-Employed,17,Business Expansion,,1505299.0,,,0
+Gold,139985,4698505,24,1365834,0,0,Not Graduate,Business Owner,10,Business Expansion,,4731604.0,,,0
+Gold,139211,4900307,120,797548,0,4,Not Graduate,Self-Employed,25,Renovation,,4919235.0,,,0
+Gold,174592,4025117,12,877051,1,4,Graduate,Business Owner,21,Purchase,,4051753.0,,,0
+Gold,43864,3723093,36,985765,0,3,Not Graduate,Freelancer,13,Purchase,,3773022.0,,,0
+Gold,51524,3806662,180,992554,0,0,Graduate,Freelancer,26,Business Expansion,,3819573.0,,,0
+Gold,86449,3215998,36,655007,0,4,Graduate,Self-Employed,24,Refinance,,3241818.0,,,0
+Gold,172276,2332256,120,510094,1,3,Graduate,Self-Employed,7,Refinance,,2337300.0,,,1
+Gold,106669,786236,360,138941,0,2,Not Graduate,Business Owner,29,Purchase,,797231.0,,,0
+Gold,135952,1450233,240,207688,0,4,Graduate,Freelancer,19,Purchase,,1457727.0,,,0
+Gold,28275,2312089,12,426785,1,4,Not Graduate,Freelancer,30,Refinance,,2339524.0,,,0
+Gold,73004,3609902,120,540957,1,1,Not Graduate,Freelancer,7,Renovation,,3629616.0,,,1
+Gold,175023,1415025,60,244888,1,2,Graduate,Freelancer,13,Education,,1432099.0,,,1
+Gold,101642,2793294,360,425659,1,3,Graduate,Freelancer,17,Renovation,,2838929.0,,,1
+Gold,36613,4334857,12,732634,0,3,Graduate,Business Owner,11,Renovation,,4381441.0,,,0
+Gold,19507,4010673,120,214741,1,4,Not Graduate,Freelancer,8,Renovation,,4023346.0,,,0
+Gold,136200,3672706,240,1075739,0,0,Graduate,Salaried,22,Business Expansion,,3690274.0,,,0
+Gold,61032,737576,240,90622,0,3,Graduate,Self-Employed,14,Purchase,,782419.0,,,0
+Gold,147551,4919717,60,588556,0,2,Graduate,Freelancer,5,Education,,4958540.0,,,0
+Gold,190261,1077786,120,266421,0,0,Not Graduate,Freelancer,8,Purchase,,1123484.0,,,0
+Gold,110566,4626795,180,1264213,1,0,Not Graduate,Business Owner,27,Purchase,,4668501.0,,,1
+Gold,169516,4255940,240,352466,1,2,Not Graduate,Business Owner,28,Education,,4265357.0,,,1
+Gold,132640,2844054,120,627696,0,3,Not Graduate,Freelancer,19,Purchase,,2884615.0,,,0
+Gold,117185,3092290,60,687164,0,4,Not Graduate,Business Owner,29,Education,,3101115.0,,,0
+Gold,137589,2283797,240,490288,1,1,Not Graduate,Business Owner,15,Renovation,,2319549.0,,,1
+Gold,22990,2523460,24,594564,1,0,Graduate,Freelancer,15,Purchase,,2547426.0,,,0
+Gold,54885,1476531,180,155110,0,2,Not Graduate,Business Owner,27,Renovation,,1522231.0,,,0
+Gold,156337,3913679,60,432466,0,4,Graduate,Salaried,6,Refinance,,3940931.0,,,0
+Gold,178781,4227295,24,281320,0,3,Not Graduate,Salaried,17,Education,,4252326.0,,,0
+Gold,95417,2953494,24,366218,1,0,Not Graduate,Self-Employed,1,Education,,2996994.0,,,0
+Gold,114490,3979794,120,347098,1,1,Graduate,Business Owner,21,Business Expansion,,4026051.0,,,1
+Gold,111107,4142710,24,1124732,0,3,Not Graduate,Salaried,14,Purchase,,4192047.0,,,0
+Gold,178833,3414490,12,457611,1,3,Graduate,Business Owner,5,Purchase,,3452536.0,,,0
+Gold,165791,2124318,36,591337,1,2,Not Graduate,Freelancer,4,Renovation,,2155660.0,,,1
+Gold,97667,3412914,360,182231,1,3,Not Graduate,Self-Employed,20,Business Expansion,,3425759.0,,,1
+Gold,125792,730472,24,161222,0,3,Not Graduate,Salaried,25,Purchase,,736235.0,,,0
+Gold,89441,2709743,24,508952,0,1,Graduate,Business Owner,7,Refinance,,2744392.0,,,0
+Gold,85236,1707290,120,128215,0,0,Not Graduate,Business Owner,14,Purchase,,1748927.0,,,0
+Gold,176946,434548,180,79082,1,0,Graduate,Freelancer,29,Education,,465907.0,,,1
+Gold,88905,2587725,12,503449,0,3,Graduate,Salaried,20,Renovation,,2596907.0,,,0
+Gold,148722,803841,60,186375,0,1,Graduate,Self-Employed,3,Education,,840051.0,,,0
+Gold,76632,4952578,180,565720,0,4,Graduate,Self-Employed,0,Purchase,,4980501.0,,,0
+Gold,100558,4035866,36,924065,1,0,Graduate,Salaried,27,Refinance,,4082042.0,,,0
+Gold,40583,4178602,60,563078,1,3,Not Graduate,Self-Employed,8,Education,,4217377.0,,,0
+Gold,143270,2485923,24,611101,0,3,Not Graduate,Business Owner,10,Purchase,,2518830.0,,,0
+Gold,116282,3401983,60,806213,1,4,Not Graduate,Freelancer,1,Business Expansion,,3438681.0,,,1
+Gold,182145,4301025,60,1063627,0,1,Not Graduate,Salaried,17,Education,,4323711.0,,,0
+Gold,158984,3038469,12,304999,0,1,Not Graduate,Business Owner,25,Education,,3087704.0,,,0
+Gold,56596,722207,120,180637,0,2,Not Graduate,Salaried,28,Business Expansion,,750395.0,,,0
+Gold,74475,2768052,360,827940,1,4,Graduate,Salaried,22,Education,,2780102.0,,,1
+Gold,26368,3702641,120,400761,1,1,Graduate,Business Owner,18,Education,,3712525.0,,,0
+Gold,23317,4678003,60,1366534,0,3,Not Graduate,Business Owner,12,Purchase,,4720134.0,,,0
+Gold,161438,3255799,240,722722,1,0,Not Graduate,Business Owner,16,Business Expansion,,3275810.0,,,1
+Gold,65105,2138132,120,615367,1,4,Not Graduate,Salaried,14,Refinance,,2182325.0,,,1
+Gold,73271,3357926,240,641361,0,3,Graduate,Business Owner,29,Purchase,,3404853.0,,,0
+Gold,15621,1890206,12,518478,1,3,Not Graduate,Freelancer,15,Purchase,,1914835.0,,,0
+Gold,49841,1376565,360,99751,1,4,Not Graduate,Self-Employed,25,Refinance,,1425382.0,,,1
+Gold,37655,1484708,120,333904,0,1,Not Graduate,Self-Employed,22,Business Expansion,,1496163.0,,,0
+Gold,130995,3249739,12,608333,0,3,Not Graduate,Freelancer,12,Education,,3256074.0,,,0
+Gold,183079,3409325,24,576963,0,3,Not Graduate,Freelancer,9,Education,,3426408.0,,,0
+Gold,157446,1028088,36,200697,1,3,Not Graduate,Self-Employed,14,Business Expansion,,1052248.0,,,1
+Gold,56432,3494509,36,352959,1,3,Graduate,Salaried,6,Business Expansion,,3512935.0,,,0
+Gold,36180,4213239,240,243752,0,4,Not Graduate,Salaried,8,Refinance,,4239043.0,,,0
+Gold,53052,4885580,120,638212,1,2,Graduate,Self-Employed,3,Purchase,,4933005.0,,,0
+Gold,83962,278970,60,23747,0,0,Not Graduate,Freelancer,6,Refinance,,286200.0,,,0
+Gold,199714,2743445,180,747073,1,1,Not Graduate,Salaried,7,Business Expansion,,2759686.0,,,1
+Gold,92424,2915846,36,846850,0,1,Graduate,Freelancer,26,Refinance,,2921137.0,,,0
+Gold,150328,248030,360,24137,0,1,Graduate,Business Owner,26,Renovation,,268592.0,,,0
+Gold,29621,3066150,36,721218,1,2,Not Graduate,Business Owner,10,Education,,3080832.0,,,0
+Gold,167632,2976291,120,877893,1,3,Not Graduate,Freelancer,13,Business Expansion,,3019407.0,,,1
+Gold,144657,1447885,360,222719,0,4,Graduate,Business Owner,4,Refinance,,1470626.0,,,0
+Gold,58288,602504,240,153410,1,2,Not Graduate,Salaried,13,Renovation,,641044.0,,,1
+Gold,117373,307114,360,31617,0,2,Not Graduate,Freelancer,8,Education,,325105.0,,,0
+Gold,34639,4232180,360,761445,1,4,Graduate,Freelancer,3,Business Expansion,,4261558.0,,,1
+Gold,187788,3619641,12,636920,0,1,Graduate,Salaried,0,Business Expansion,,3669224.0,,,0
+Gold,196258,4409699,12,664035,0,1,Not Graduate,Self-Employed,24,Renovation,,4430460.0,,,0
+Gold,122690,3646328,120,1085953,1,3,Graduate,Salaried,23,Renovation,,3663728.0,,,1
+Gold,188357,3909740,36,298801,1,3,Graduate,Salaried,30,Purchase,,3949295.0,,,0
+Gold,180444,4204217,360,967517,0,3,Graduate,Self-Employed,9,Renovation,,4248513.0,,,0
+Gold,16651,3876375,36,453521,0,0,Not Graduate,Business Owner,22,Purchase,,3925227.0,,,0
+Gold,55838,2687256,24,596792,1,1,Graduate,Salaried,18,Refinance,,2733593.0,,,0
+Gold,151678,2049557,60,158058,1,2,Not Graduate,Freelancer,10,Business Expansion,,2065331.0,,,1
+Gold,188000,4460879,180,842199,1,2,Graduate,Business Owner,25,Refinance,,4482083.0,,,1
+Gold,130611,2229576,180,277692,1,4,Not Graduate,Self-Employed,10,Renovation,,2240224.0,,,1
+Gold,36183,3643019,180,532060,1,0,Not Graduate,Business Owner,26,Renovation,,3650922.0,,,1
+Gold,177747,1358719,24,361469,0,0,Not Graduate,Business Owner,29,Business Expansion,,1364603.0,,,0
+Gold,153935,1591246,240,365081,0,3,Not Graduate,Business Owner,1,Refinance,,1600821.0,,,0
+Gold,164060,3199033,180,787212,0,1,Not Graduate,Salaried,22,Purchase,,3236936.0,,,0
+Gold,194940,2883569,12,844286,0,1,Graduate,Freelancer,2,Business Expansion,,2924504.0,,,0
+Gold,162397,1269194,24,347478,1,0,Not Graduate,Freelancer,5,Refinance,,1282470.0,,,1
+Gold,145372,2801899,24,454650,1,0,Not Graduate,Business Owner,14,Education,,2807497.0,,,0
+Gold,179093,569803,60,76558,1,2,Not Graduate,Business Owner,11,Renovation,,594064.0,,,1
+Gold,96934,1526874,24,118035,1,4,Graduate,Freelancer,8,Education,,1563944.0,,,0
+Gold,58367,2208938,240,323635,1,2,Graduate,Self-Employed,4,Business Expansion,,2248818.0,,,1
+Gold,79574,3976093,120,552367,1,1,Not Graduate,Business Owner,25,Business Expansion,,3985083.0,,,1
+Gold,187087,4960879,24,864417,1,0,Graduate,Business Owner,18,Refinance,,4981865.0,,,0
+Gold,131415,1900917,180,396124,0,1,Graduate,Business Owner,17,Renovation,,1927977.0,,,0
+Gold,151953,1323268,240,106564,1,0,Not Graduate,Business Owner,8,Renovation,,1362384.0,,,1
+Gold,190282,2755617,360,402803,1,2,Graduate,Salaried,20,Purchase,,2768704.0,,,1
+Gold,17230,1480517,360,141407,1,4,Not Graduate,Self-Employed,30,Purchase,,1525333.0,,,1
+Gold,183851,458803,240,126008,0,3,Graduate,Business Owner,18,Education,,470695.0,,,0
+Gold,147778,4482033,120,944758,1,0,Not Graduate,Freelancer,29,Purchase,,4497513.0,,,1
+Gold,177042,2931741,120,823629,0,0,Not Graduate,Freelancer,25,Purchase,,2946504.0,,,0
+Gold,190520,3591730,12,887523,0,2,Graduate,Freelancer,19,Purchase,,3625420.0,,,0
+Gold,175740,2813192,36,589521,1,4,Not Graduate,Freelancer,10,Renovation,,2833317.0,,,1
+Gold,32518,2214836,36,398673,0,3,Not Graduate,Self-Employed,22,Renovation,,2248740.0,,,0
+Gold,155954,2457390,120,644309,0,0,Not Graduate,Self-Employed,25,Business Expansion,,2504311.0,,,0
+Gold,103396,1008375,120,153735,0,0,Graduate,Self-Employed,0,Purchase,,1023396.0,,,0
+Gold,32693,3496158,240,481577,1,1,Graduate,Self-Employed,27,Renovation,,3503527.0,,,1
+Gold,71976,610836,12,39117,1,2,Not Graduate,Self-Employed,16,Education,,627361.0,,,0
+Gold,26533,473654,240,124944,0,3,Not Graduate,Self-Employed,0,Business Expansion,,479968.0,,,0
+Gold,77827,917153,24,127060,0,2,Graduate,Business Owner,18,Business Expansion,,965033.0,,,0
+Gold,127344,4428912,60,960941,1,4,Not Graduate,Salaried,23,Refinance,,4471781.0,,,1
+Gold,36962,4641172,240,1162321,0,2,Graduate,Self-Employed,25,Business Expansion,,4671930.0,,,0
+Gold,147509,3783736,240,1031768,1,1,Graduate,Business Owner,27,Renovation,,3802098.0,,,1
+Gold,132894,2346349,60,274167,1,3,Not Graduate,Business Owner,14,Purchase,,2388203.0,,,1
+Gold,115731,4917174,180,1430045,1,1,Graduate,Self-Employed,14,Renovation,,4961221.0,,,1
+Gold,178080,4280292,120,784374,1,3,Graduate,Business Owner,11,Purchase,,4288335.0,,,1
+Gold,121990,3244624,60,949083,0,3,Not Graduate,Salaried,9,Purchase,,3293547.0,,,0
+Gold,94178,974929,36,205361,0,4,Graduate,Salaried,8,Business Expansion,,984604.0,,,0
+Gold,124794,2660435,24,498275,0,0,Not Graduate,Freelancer,14,Refinance,,2678120.0,,,0
+Gold,127966,3164348,240,644341,1,4,Not Graduate,Salaried,18,Renovation,,3211371.0,,,1
+Gold,194203,3205840,60,833844,0,2,Not Graduate,Self-Employed,25,Renovation,,3218636.0,,,0
+Gold,111682,2848047,120,499074,0,3,Not Graduate,Freelancer,1,Refinance,,2871601.0,,,0
+Gold,171003,3855806,120,355022,1,3,Not Graduate,Business Owner,26,Business Expansion,,3876403.0,,,1
+Gold,168503,964385,360,131558,1,2,Not Graduate,Business Owner,15,Renovation,,977265.0,,,1
+Gold,38320,2338628,120,296342,1,4,Graduate,Salaried,20,Business Expansion,,2376958.0,,,1
+Gold,143699,1433498,240,427009,1,0,Graduate,Business Owner,20,Education,,1472792.0,,,1
+Gold,191615,1102022,240,73588,1,2,Not Graduate,Business Owner,22,Education,,1141227.0,,,1
+Gold,137418,4274386,240,964076,0,0,Graduate,Freelancer,13,Education,,4321988.0,,,0
+Gold,63833,1399780,12,327974,1,3,Graduate,Business Owner,20,Business Expansion,,1419273.0,,,0
+Gold,34331,2489151,60,298365,0,2,Graduate,Freelancer,11,Business Expansion,,2495411.0,,,0
+Gold,64479,2305078,180,369226,1,1,Not Graduate,Business Owner,21,Education,,2324834.0,,,1
+Gold,144947,2724192,36,266267,0,4,Graduate,Business Owner,3,Education,,2731386.0,,,0
+Gold,42222,538863,60,44246,0,1,Not Graduate,Self-Employed,9,Renovation,,560427.0,,,0
+Gold,121610,1020656,36,282465,1,4,Graduate,Self-Employed,17,Refinance,,1045725.0,,,1
+Gold,27108,4266770,60,1117617,0,0,Graduate,Business Owner,8,Purchase,,4292975.0,,,0
+Gold,47481,989239,360,138724,1,3,Not Graduate,Business Owner,15,Business Expansion,,1004118.0,,,1
+Gold,151931,3195818,12,318423,0,2,Not Graduate,Salaried,24,Education,,3206405.0,,,0
+Gold,190628,4762418,240,1080573,0,4,Graduate,Freelancer,14,Refinance,,4773180.0,,,0
+Gold,164452,3774810,120,401301,1,2,Not Graduate,Self-Employed,29,Renovation,,3810640.0,,,1
+Gold,88929,3651333,120,450939,1,2,Graduate,Self-Employed,15,Purchase,,3667001.0,,,1
+Gold,46872,4914287,60,1077754,0,2,Not Graduate,Salaried,21,Refinance,,4922853.0,,,0
+Gold,153969,4342400,36,321546,0,3,Graduate,Salaried,27,Business Expansion,,4383430.0,,,0
+Gold,36630,2316366,12,671378,0,1,Not Graduate,Freelancer,15,Business Expansion,,2344695.0,,,0
+Gold,73590,2116631,180,168989,1,2,Graduate,Business Owner,4,Renovation,,2146633.0,,,1
+Gold,180572,241108,240,59006,0,3,Graduate,Freelancer,1,Education,,263841.0,,,0
+Gold,139359,4577495,360,812459,1,3,Not Graduate,Salaried,26,Renovation,,4588739.0,,,1
+Gold,99113,1738356,240,334186,1,0,Not Graduate,Business Owner,30,Refinance,,1788251.0,,,1
+Gold,165134,1300750,180,379108,1,2,Not Graduate,Freelancer,7,Purchase,,1343273.0,,,1
+Gold,50027,3483300,120,345403,1,4,Not Graduate,Salaried,14,Refinance,,3507770.0,,,0
+Gold,148439,2978026,60,440217,0,3,Not Graduate,Freelancer,1,Purchase,,3017912.0,,,0
+Gold,60328,833541,360,41960,0,1,Graduate,Salaried,15,Purchase,,846178.0,,,0
+Gold,174666,3075033,60,639199,1,4,Graduate,Freelancer,26,Purchase,,3112579.0,,,1
+Gold,81470,2503460,36,449659,1,3,Not Graduate,Freelancer,9,Renovation,,2508583.0,,,0
+Gold,175205,2042984,240,278897,1,0,Not Graduate,Salaried,19,Renovation,,2085639.0,,,1
+Gold,161914,2264010,240,244152,1,3,Not Graduate,Business Owner,2,Business Expansion,,2313632.0,,,1
+Gold,122841,3593459,120,528664,0,4,Graduate,Self-Employed,21,Refinance,,3630959.0,,,0
+Gold,80153,1518140,24,264609,1,2,Graduate,Business Owner,29,Education,,1553901.0,,,0
+Gold,62341,4526691,36,549294,0,3,Not Graduate,Salaried,10,Education,,4539915.0,,,0
+Gold,184984,770558,360,167477,1,1,Not Graduate,Business Owner,24,Refinance,,807131.0,,,1
+Gold,24559,1241501,120,303640,1,0,Not Graduate,Salaried,24,Education,,1279267.0,,,1
+Gold,198137,3429719,180,671220,0,3,Graduate,Self-Employed,28,Business Expansion,,3469839.0,,,0
+Gold,96424,4955463,360,498764,1,0,Not Graduate,Self-Employed,2,Purchase,,4974086.0,,,1
+Gold,116483,3177293,120,890230,1,4,Not Graduate,Salaried,5,Renovation,,3188717.0,,,1
+Gold,38401,3558897,360,732407,1,2,Not Graduate,Self-Employed,20,Renovation,,3595899.0,,,1
+Gold,124346,3392649,60,818701,1,0,Not Graduate,Freelancer,11,Renovation,,3427777.0,,,1
+Gold,123401,4395707,24,394067,0,3,Graduate,Business Owner,0,Business Expansion,,4400783.0,,,0
+Gold,19222,2502620,36,483157,0,1,Not Graduate,Business Owner,24,Business Expansion,,2537956.0,,,0
+Gold,186011,2192177,60,413933,1,1,Graduate,Self-Employed,18,Purchase,,2209024.0,,,1
+Gold,52553,2030430,60,480295,1,2,Graduate,Self-Employed,9,Refinance,,2038426.0,,,1
+Gold,142133,2384496,24,668468,0,3,Graduate,Business Owner,26,Business Expansion,,2433958.0,,,0
+Gold,105743,3208102,180,915033,1,3,Not Graduate,Self-Employed,23,Renovation,,3214980.0,,,1
+Gold,132829,1530443,120,200129,1,1,Not Graduate,Freelancer,3,Renovation,,1558450.0,,,1
+Gold,77983,1274756,120,337221,1,0,Not Graduate,Business Owner,2,Business Expansion,,1323329.0,,,1
+Gold,170691,2891756,240,562489,0,3,Graduate,Freelancer,27,Business Expansion,,2911349.0,,,0
+Gold,91999,1086971,60,179618,0,4,Not Graduate,Self-Employed,8,Business Expansion,,1116098.0,,,0
+Gold,131672,3558195,240,1004190,1,3,Not Graduate,Salaried,0,Renovation,,3581716.0,,,1
+Gold,156132,2551320,120,682672,0,2,Graduate,Self-Employed,24,Refinance,,2583750.0,,,0
+Gold,198191,3548202,36,804473,1,1,Not Graduate,Self-Employed,18,Education,,3574942.0,,,1
+Gold,183135,311219,60,60588,0,3,Not Graduate,Self-Employed,21,Education,,351257.0,,,0
+Gold,35877,3445506,120,564092,1,3,Graduate,Freelancer,9,Renovation,,3458350.0,,,0
+Gold,113218,2921480,60,456021,0,2,Not Graduate,Business Owner,15,Renovation,,2956723.0,,,0
+Gold,135461,2807031,12,310441,1,2,Graduate,Salaried,10,Business Expansion,,2819295.0,,,0
+Gold,189193,3855057,360,1133422,1,0,Not Graduate,Freelancer,2,Renovation,,3886790.0,,,1
+Gold,23731,4241094,12,1045044,1,4,Not Graduate,Freelancer,9,Business Expansion,,4263794.0,,,0
+Gold,196822,4447241,360,1309278,1,4,Graduate,Salaried,28,Business Expansion,,4494325.0,,,1
+Gold,134075,4710610,36,1375866,1,1,Not Graduate,Freelancer,20,Education,,4752639.0,,,0
+Gold,161402,4111861,180,1033040,1,4,Not Graduate,Self-Employed,7,Purchase,,4120579.0,,,1
+Gold,103216,2282679,24,450510,0,2,Not Graduate,Self-Employed,20,Business Expansion,,2308084.0,,,0
+Gold,179175,1711039,12,152145,0,1,Not Graduate,Self-Employed,3,Business Expansion,,1720459.0,,,0
+Gold,63571,3707366,24,456020,0,2,Not Graduate,Freelancer,26,Education,,3717438.0,,,0
+Gold,119148,2610412,60,300063,0,1,Graduate,Business Owner,2,Business Expansion,,2619580.0,,,0
+Gold,18609,1939437,12,559573,1,1,Graduate,Salaried,26,Business Expansion,,1964230.0,,,0
+Gold,75607,4091412,180,565129,1,1,Graduate,Business Owner,24,Business Expansion,,4108740.0,,,1
+Gold,183533,1333115,120,346942,0,3,Not Graduate,Business Owner,2,Renovation,,1344070.0,,,0
+Gold,97049,542197,36,36048,0,0,Graduate,Freelancer,19,Education,,591750.0,,,0
+Gold,57860,4552116,240,1231310,0,4,Graduate,Business Owner,1,Refinance,,4583798.0,,,0
+Gold,139416,4347973,24,1154712,1,2,Graduate,Freelancer,10,Education,,4388424.0,,,0
+Gold,89588,4806112,24,245321,1,4,Graduate,Freelancer,24,Education,,4844083.0,,,0
+Gold,74969,3134217,36,517947,1,3,Graduate,Self-Employed,21,Business Expansion,,3159834.0,,,0
+Gold,138119,1363809,180,366456,1,0,Graduate,Freelancer,25,Education,,1371722.0,,,1
+Gold,123348,2805919,180,197868,0,2,Graduate,Self-Employed,27,Business Expansion,,2826981.0,,,0
+Gold,98368,1578136,240,118920,1,3,Graduate,Freelancer,17,Education,,1623279.0,,,1
+Gold,96650,1170129,360,294021,1,2,Not Graduate,Business Owner,24,Business Expansion,,1183143.0,,,1
+Gold,164112,2890078,360,588327,0,2,Not Graduate,Self-Employed,21,Business Expansion,,2932720.0,,,0
+Gold,151452,3405079,360,782583,0,2,Graduate,Salaried,16,Renovation,,3439931.0,,,0
+Gold,160738,2297519,24,395410,1,0,Graduate,Salaried,18,Business Expansion,,2338582.0,,,1
+Gold,85434,955263,180,245665,0,4,Not Graduate,Self-Employed,15,Renovation,,979093.0,,,0
+Gold,146001,2739722,36,771743,0,3,Graduate,Salaried,19,Business Expansion,,2774585.0,,,0
+Gold,177093,3539380,120,655940,1,1,Graduate,Freelancer,28,Renovation,,3552589.0,,,1
+Gold,121296,631717,12,63065,1,4,Not Graduate,Self-Employed,21,Refinance,,648051.0,,,1
+Gold,85058,2840528,24,572594,0,2,Not Graduate,Self-Employed,7,Renovation,,2874319.0,,,0
+Gold,34666,273681,240,20069,0,1,Graduate,Salaried,12,Renovation,,315262.0,,,0
+Gold,128627,4080411,240,1034442,0,4,Graduate,Business Owner,29,Purchase,,4127183.0,,,0
+Gold,75772,3497702,24,723755,1,4,Graduate,Salaried,27,Education,,3531144.0,,,0
+Gold,131642,1835844,12,509191,0,1,Not Graduate,Freelancer,9,Refinance,,1850231.0,,,0
+Gold,47675,906741,60,80939,1,2,Not Graduate,Business Owner,7,Purchase,,925995.0,,,1
+Gold,40081,385899,360,96427,1,4,Graduate,Self-Employed,26,Renovation,,419332.0,,,1
+Gold,21727,453732,60,30902,0,4,Graduate,Freelancer,7,Education,,476089.0,,,0
+Gold,80930,2357330,120,465402,1,3,Graduate,Salaried,16,Business Expansion,,2374279.0,,,1
+Gold,182702,4669516,36,704189,1,4,Not Graduate,Salaried,22,Education,,4701348.0,,,0
+Gold,72978,222738,180,42350,1,1,Graduate,Salaried,11,Refinance,,229461.0,,,1
+Gold,59214,2507776,12,134538,1,2,Not Graduate,Self-Employed,16,Education,,2516090.0,,,0
+Gold,122665,4843499,36,1062922,0,2,Not Graduate,Self-Employed,14,Renovation,,4889330.0,,,0
+Gold,151007,323033,24,50079,0,3,Not Graduate,Self-Employed,29,Education,,345659.0,,,0
+Gold,108743,4947651,24,1080769,0,4,Graduate,Business Owner,19,Refinance,,4952938.0,,,0
+Gold,19782,4081854,360,1207051,0,3,Not Graduate,Business Owner,12,Business Expansion,,4113592.0,,,0
+Gold,165285,4019062,12,698004,0,0,Not Graduate,Salaried,19,Purchase,,4034255.0,,,0
+Gold,114095,2477143,360,379470,1,2,Not Graduate,Business Owner,0,Business Expansion,,2492632.0,,,1
+Gold,199412,4082925,120,647784,1,3,Not Graduate,Freelancer,2,Renovation,,4090305.0,,,1
+Gold,187185,3583490,12,566566,1,1,Not Graduate,Business Owner,6,Business Expansion,,3628676.0,,,0
+Gold,141074,1962423,12,411547,0,4,Graduate,Self-Employed,1,Education,,2001438.0,,,0
+Gold,35909,2651294,12,531157,1,2,Not Graduate,Salaried,2,Refinance,,2697207.0,,,0
+Gold,18229,3848942,120,747264,0,1,Not Graduate,Self-Employed,5,Business Expansion,,3875622.0,,,0
+Gold,79829,1635197,24,215042,1,4,Not Graduate,Salaried,27,Renovation,,1671180.0,,,0
+Gold,72319,3896883,36,1104395,1,3,Graduate,Business Owner,13,Business Expansion,,3906444.0,,,0
+Gold,84201,3238803,24,835086,1,2,Graduate,Freelancer,6,Education,,3269839.0,,,0
+Gold,143900,4411948,240,1176432,0,3,Graduate,Business Owner,28,Renovation,,4445067.0,,,0
+Gold,117521,806895,36,42837,1,3,Not Graduate,Self-Employed,22,Business Expansion,,838220.0,,,1
+Gold,109640,401468,12,116196,0,0,Graduate,Salaried,28,Renovation,,422005.0,,,0
+Gold,127758,4838421,12,1051438,0,3,Graduate,Freelancer,21,Renovation,,4876103.0,,,0
+Gold,56895,4586241,240,778385,0,4,Not Graduate,Salaried,15,Refinance,,4621031.0,,,0
+Gold,31250,3732819,120,355669,1,4,Graduate,Freelancer,10,Education,,3759516.0,,,0
+Gold,127547,3584523,180,1025296,0,1,Not Graduate,Business Owner,3,Business Expansion,,3607250.0,,,0
+Gold,145220,4661774,360,1135657,0,4,Graduate,Salaried,27,Renovation,,4700046.0,,,0
+Gold,47309,3412881,360,943810,0,1,Graduate,Self-Employed,25,Education,,3437048.0,,,0
+Gold,62861,2539881,240,346027,0,1,Not Graduate,Salaried,4,Education,,2587559.0,,,0
+Gold,120593,746282,120,217348,0,4,Graduate,Business Owner,0,Business Expansion,,756052.0,,,0
+Gold,197564,1993375,60,259157,1,2,Not Graduate,Business Owner,13,Education,,2017809.0,,,1
+Gold,103264,607440,240,146744,1,3,Not Graduate,Self-Employed,14,Purchase,,625376.0,,,1
+Gold,38793,1355634,60,154157,1,4,Not Graduate,Freelancer,10,Refinance,,1395027.0,,,0
+Gold,183477,1258577,120,74641,1,0,Not Graduate,Business Owner,8,Refinance,,1288890.0,,,1
+Gold,61502,3925581,180,1048046,0,1,Not Graduate,Freelancer,25,Business Expansion,,3956705.0,,,0
+Gold,139144,4286400,36,785697,1,2,Not Graduate,Business Owner,3,Education,,4302865.0,,,0
+Gold,154030,580961,24,107713,0,0,Not Graduate,Freelancer,17,Renovation,,620597.0,,,0
+Gold,92674,2708507,60,531477,0,1,Not Graduate,Freelancer,5,Business Expansion,,2757944.0,,,0
+Gold,191991,4331720,360,327572,1,3,Graduate,Self-Employed,19,Renovation,,4349377.0,,,1
+Gold,111693,4334815,360,990987,1,2,Graduate,Business Owner,23,Refinance,,4345846.0,,,1
+Gold,71455,973952,180,165849,1,3,Graduate,Business Owner,27,Purchase,,985964.0,,,1
+Gold,96644,64686,36,4270,0,3,Graduate,Freelancer,20,Business Expansion,,72589.0,,,0
+Gold,185934,387163,180,36058,0,4,Not Graduate,Business Owner,24,Renovation,,406008.0,,,0
+Gold,45971,2602725,120,276365,0,2,Not Graduate,Salaried,21,Renovation,,2650032.0,,,0
+Gold,131539,2567083,120,468400,0,1,Not Graduate,Business Owner,24,Education,,2592513.0,,,0
+Gold,130676,3802821,360,343406,1,1,Not Graduate,Salaried,1,Refinance,,3818819.0,,,1
+Gold,24039,4476216,180,1257076,0,4,Graduate,Business Owner,28,Education,,4482619.0,,,0
+Gold,162356,685222,360,162370,1,0,Not Graduate,Business Owner,29,Purchase,,722871.0,,,1
+Gold,31248,80360,60,18312,1,1,Graduate,Self-Employed,11,Education,,90321.0,,,1
+Gold,25279,279199,120,64682,1,4,Not Graduate,Self-Employed,8,Education,,292615.0,,,1
+Gold,24225,152912,36,33477,0,2,Graduate,Self-Employed,16,Business Expansion,,161593.0,,,0
+Gold,24218,3619651,240,526408,1,0,Graduate,Business Owner,30,Education,,3645840.0,,,0
+Gold,136141,3518534,360,226927,1,3,Graduate,Business Owner,9,Education,,3529573.0,,,1
+Gold,85747,3053433,36,647587,1,0,Graduate,Freelancer,25,Purchase,,3068376.0,,,0
+Gold,110625,744031,24,99387,0,3,Graduate,Salaried,25,Business Expansion,,759275.0,,,0
+Gold,59215,3843431,12,1015173,0,2,Graduate,Salaried,23,Education,,3868303.0,,,0
+Gold,154865,2573814,24,196626,0,2,Not Graduate,Self-Employed,20,Business Expansion,,2583037.0,,,0
+Gold,152907,1177811,180,312706,1,0,Graduate,Freelancer,22,Refinance,,1199830.0,,,1
+Gold,66837,1746714,240,143018,0,3,Graduate,Business Owner,12,Business Expansion,,1783988.0,,,0
+Gold,191247,4469193,12,1088775,1,1,Graduate,Self-Employed,1,Business Expansion,,4514494.0,,,0
+Gold,31715,3699329,60,227821,0,3,Graduate,Self-Employed,30,Refinance,,3720154.0,,,0
+Gold,117209,3730595,240,996661,1,4,Graduate,Self-Employed,7,Business Expansion,,3754885.0,,,1
+Gold,144035,1641802,180,95138,1,4,Not Graduate,Salaried,4,Purchase,,1655788.0,,,1
+Gold,187974,1354043,36,90977,0,3,Graduate,Self-Employed,25,Renovation,,1376197.0,,,0
+Gold,170245,2339326,120,649933,0,2,Graduate,Self-Employed,28,Renovation,,2385710.0,,,0
+Gold,175251,816594,120,100127,0,4,Not Graduate,Freelancer,27,Purchase,,846410.0,,,0
+Gold,100360,2451936,60,703012,0,4,Graduate,Business Owner,16,Business Expansion,,2482788.0,,,0
+Gold,181440,4500616,36,755668,1,1,Not Graduate,Salaried,28,Business Expansion,,4545110.0,,,0
+Gold,193016,4415100,360,1028088,0,0,Graduate,Salaried,2,Refinance,,4428947.0,,,0
+Gold,112231,173248,240,26155,0,1,Not Graduate,Business Owner,0,Purchase,,195363.0,,,0
+Gold,66752,1519713,12,440286,1,2,Graduate,Business Owner,11,Purchase,,1541648.0,,,0
+Gold,80251,2207098,60,616346,1,4,Graduate,Freelancer,8,Business Expansion,,2250648.0,,,1
+Gold,171281,2455004,36,445428,0,2,Not Graduate,Salaried,25,Refinance,,2488642.0,,,0
+Gold,135533,2524981,24,555407,0,0,Not Graduate,Salaried,23,Renovation,,2549061.0,,,0
+Gold,114790,2615285,24,326667,0,4,Graduate,Salaried,28,Education,,2665258.0,,,0
+Gold,127370,4964992,360,768999,0,1,Graduate,Freelancer,12,Renovation,,4997398.0,,,0
+Gold,114673,4391148,12,819035,1,0,Not Graduate,Freelancer,12,Education,,4421783.0,,,0
+Gold,85199,3162384,36,553420,1,0,Graduate,Freelancer,28,Education,,3173894.0,,,0
+Gold,162664,2347692,12,271662,1,4,Not Graduate,Salaried,2,Business Expansion,,2364812.0,,,0
+Gold,164225,3400127,36,900408,1,0,Not Graduate,Self-Employed,26,Education,,3432511.0,,,1
+Gold,44393,4993459,36,1170650,1,0,Graduate,Business Owner,15,Refinance,,5011677.0,,,0
+Gold,23548,1038463,120,129201,1,0,Not Graduate,Freelancer,8,Education,,1074063.0,,,1
+Gold,159651,3620390,24,770069,1,2,Not Graduate,Business Owner,9,Renovation,,3631347.0,,,0
+Gold,116110,2977677,60,453689,0,2,Not Graduate,Salaried,9,Refinance,,2994223.0,,,0
+Gold,153395,2488535,240,373429,0,2,Not Graduate,Freelancer,24,Refinance,,2509464.0,,,0
+Gold,19232,876565,240,233094,0,0,Not Graduate,Self-Employed,20,Refinance,,893075.0,,,0
+Gold,42173,3633855,12,218581,1,2,Graduate,Self-Employed,24,Refinance,,3682601.0,,,0
+Gold,142663,4073378,12,224742,0,3,Not Graduate,Freelancer,8,Purchase,,4113716.0,,,0
+Gold,165093,4412970,360,1211893,1,3,Graduate,Business Owner,0,Renovation,,4462343.0,,,1
+Gold,39176,3562354,180,614325,0,3,Not Graduate,Salaried,8,Business Expansion,,3575500.0,,,0
+Gold,162448,2916661,180,625983,0,0,Graduate,Freelancer,18,Purchase,,2946977.0,,,0
+Gold,171862,1353632,360,289358,0,2,Graduate,Business Owner,29,Business Expansion,,1369136.0,,,0
+Gold,141134,86537,12,10595,0,3,Graduate,Self-Employed,28,Renovation,,109320.0,,,0
+Gold,34921,3734799,120,746650,1,4,Graduate,Self-Employed,26,Business Expansion,,3767327.0,,,0
+Gold,113758,2082934,180,307859,1,3,Not Graduate,Business Owner,10,Business Expansion,,2094355.0,,,1
+Gold,137243,2047639,360,463187,1,0,Not Graduate,Business Owner,0,Refinance,,2092431.0,,,1
+Gold,174755,2925823,12,697030,0,0,Graduate,Business Owner,14,Purchase,,2955849.0,,,0
+Gold,80709,2986005,120,483767,1,4,Graduate,Self-Employed,28,Education,,2992405.0,,,1
+Gold,157785,1075215,12,134921,1,0,Graduate,Salaried,6,Purchase,,1117549.0,,,1
+Gold,31676,3442072,12,481738,1,1,Graduate,Salaried,11,Renovation,,3473479.0,,,0
+Gold,77945,2101115,36,373670,0,0,Graduate,Freelancer,22,Business Expansion,,2121091.0,,,0
+Gold,123649,707168,36,134823,1,3,Graduate,Salaried,29,Renovation,,729745.0,,,1
+Gold,152545,3675216,36,991451,1,4,Not Graduate,Freelancer,24,Purchase,,3686321.0,,,1
+Gold,123744,3829926,180,845926,1,1,Graduate,Business Owner,15,Education,,3846557.0,,,1
+Gold,42747,4959841,60,1457315,1,2,Graduate,Salaried,28,Refinance,,5008267.0,,,0
+Gold,73287,3249779,60,182582,1,3,Graduate,Self-Employed,2,Education,,3298044.0,,,0
+Gold,59780,3395395,60,801013,1,1,Graduate,Self-Employed,16,Purchase,,3444709.0,,,0
+Gold,143775,2081476,240,405239,0,2,Graduate,Self-Employed,25,Education,,2103502.0,,,0
+Gold,138472,4940149,360,954577,0,1,Graduate,Freelancer,10,Renovation,,4978560.0,,,0
+Gold,35465,1453849,12,355158,0,0,Not Graduate,Self-Employed,13,Purchase,,1468583.0,,,0
+Gold,93622,3430337,24,927883,0,3,Not Graduate,Business Owner,2,Refinance,,3435709.0,,,0
+Gold,105251,1672639,360,160471,0,1,Not Graduate,Business Owner,26,Purchase,,1698214.0,,,0
+Gold,83542,2448734,240,657714,1,1,Graduate,Business Owner,27,Refinance,,2492040.0,,,1
+Gold,115201,2403961,12,178415,0,1,Graduate,Self-Employed,16,Education,,2427646.0,,,0
+Gold,42824,2221225,360,284135,1,1,Graduate,Salaried,5,Refinance,,2267127.0,,,1
+Gold,97782,2948329,12,677918,0,0,Not Graduate,Self-Employed,5,Refinance,,2957639.0,,,0
+Gold,185822,1193763,12,140058,0,4,Not Graduate,Freelancer,21,Renovation,,1222526.0,,,0
+Gold,78139,1232287,60,129752,1,1,Not Graduate,Self-Employed,3,Renovation,,1245874.0,,,1
+Gold,139866,2669605,60,519944,1,0,Not Graduate,Freelancer,18,Renovation,,2698809.0,,,1
+Gold,44063,3360002,60,380184,0,1,Not Graduate,Business Owner,30,Refinance,,3401976.0,,,0
+Gold,146240,857173,180,141893,0,3,Not Graduate,Freelancer,9,Education,,886773.0,,,0
+Gold,42658,4840490,240,1172522,0,3,Not Graduate,Business Owner,4,Refinance,,4866936.0,,,0
+Gold,49475,4031381,180,676783,1,1,Not Graduate,Business Owner,0,Refinance,,4045742.0,,,1
+Gold,164223,3127714,180,215446,1,2,Graduate,Salaried,3,Purchase,,3151827.0,,,1
+Gold,76432,3370359,36,374686,1,4,Not Graduate,Self-Employed,23,Refinance,,3404023.0,,,0
+Gold,114881,2458030,180,425685,1,2,Graduate,Business Owner,25,Renovation,,2507582.0,,,1
+Gold,167414,2278019,180,552851,1,4,Not Graduate,Salaried,16,Purchase,,2295931.0,,,1
+Gold,121504,2887157,120,741997,0,0,Graduate,Business Owner,9,Renovation,,2909098.0,,,0
+Gold,15444,2336054,360,205595,1,0,Not Graduate,Self-Employed,24,Refinance,,2374708.0,,,1
+Gold,84190,2599352,360,353680,0,0,Not Graduate,Self-Employed,5,Purchase,,2646038.0,,,0
+Gold,107934,2114081,24,492287,0,0,Not Graduate,Self-Employed,13,Refinance,,2123579.0,,,0
+Gold,77127,3310300,24,518665,1,2,Graduate,Salaried,12,Purchase,,3342553.0,,,0
+Gold,48176,964567,36,140563,0,4,Not Graduate,Business Owner,8,Renovation,,1003470.0,,,0
+Gold,55578,3599385,120,490214,1,3,Not Graduate,Salaried,14,Renovation,,3641912.0,,,1
+Gold,165482,3568503,36,612649,0,3,Graduate,Business Owner,25,Purchase,,3577452.0,,,0
+Gold,146690,3369339,120,790589,0,0,Graduate,Freelancer,30,Renovation,,3380980.0,,,0
+Gold,120084,4333276,180,521649,0,0,Not Graduate,Business Owner,13,Purchase,,4340989.0,,,0
+Gold,135707,4430409,60,1092576,1,3,Not Graduate,Freelancer,16,Refinance,,4448898.0,,,1
+Gold,93904,2728776,360,549812,0,3,Graduate,Freelancer,10,Refinance,,2778554.0,,,0
+Gold,142633,1096864,12,165998,0,1,Not Graduate,Freelancer,9,Education,,1130091.0,,,0
+Gold,183880,4190560,60,1090183,0,2,Not Graduate,Freelancer,8,Purchase,,4198549.0,,,0
+Gold,114941,3751354,120,938313,0,1,Not Graduate,Freelancer,24,Renovation,,3798412.0,,,0
+Gold,157078,4427200,12,469538,1,1,Graduate,Business Owner,14,Renovation,,4444643.0,,,0
+Gold,91481,3059268,24,770834,1,4,Graduate,Salaried,11,Renovation,,3073320.0,,,0
+Gold,191813,4623266,60,739782,1,2,Graduate,Salaried,15,Education,,4638863.0,,,1
+Gold,39755,4107847,180,949876,1,2,Graduate,Business Owner,17,Education,,4128291.0,,,1
+Gold,117477,499465,24,144286,0,2,Graduate,Self-Employed,19,Refinance,,531377.0,,,0
+Gold,35246,3687037,120,243188,0,0,Graduate,Freelancer,14,Refinance,,3725260.0,,,0
+Gold,129971,699296,60,153484,0,0,Not Graduate,Freelancer,13,Education,,705041.0,,,0
+Gold,89425,93357,360,5683,1,2,Not Graduate,Self-Employed,9,Purchase,,122792.0,,,1
+Gold,155755,3965685,180,455276,1,1,Not Graduate,Salaried,12,Education,,4013014.0,,,1
+Gold,132831,2256874,60,203392,1,1,Not Graduate,Self-Employed,26,Refinance,,2304708.0,,,1
+Gold,193396,4150373,360,1190998,1,3,Not Graduate,Freelancer,18,Education,,4190287.0,,,1
+Gold,132692,4266728,240,355580,0,2,Not Graduate,Business Owner,30,Renovation,,4281940.0,,,0
+Gold,136031,3588555,180,1019570,0,1,Graduate,Self-Employed,15,Renovation,,3609188.0,,,0
+Gold,147432,4660681,24,363880,1,4,Graduate,Salaried,0,Purchase,,4668892.0,,,0
+Gold,155211,764130,36,100454,1,2,Graduate,Freelancer,0,Renovation,,808015.0,,,1
+Gold,187109,4125784,180,799254,1,0,Not Graduate,Freelancer,1,Refinance,,4165405.0,,,1
+Gold,187998,3892604,240,921303,0,0,Graduate,Salaried,1,Business Expansion,,3940081.0,,,0
+Gold,48733,4973269,24,686440,1,0,Not Graduate,Salaried,21,Education,,5002706.0,,,0
+Gold,31019,87756,180,12367,0,0,Not Graduate,Self-Employed,9,Refinance,,111322.0,,,0
+Gold,53899,2772506,24,747972,0,0,Graduate,Salaried,13,Education,,2811090.0,,,0
+Gold,160423,1577086,24,258126,0,1,Graduate,Self-Employed,15,Purchase,,1618181.0,,,0
+Gold,24914,133223,360,29407,1,4,Not Graduate,Business Owner,21,Renovation,,143994.0,,,1
+Gold,199449,4368741,240,661472,0,3,Not Graduate,Self-Employed,23,Purchase,,4410694.0,,,0
+Gold,125555,2385742,36,391323,1,3,Not Graduate,Salaried,10,Refinance,,2402247.0,,,1
+Gold,184127,2360461,120,484253,1,4,Graduate,Freelancer,29,Business Expansion,,2367568.0,,,1
+Gold,63926,764655,36,120120,0,2,Not Graduate,Business Owner,6,Refinance,,786145.0,,,0
+Gold,45207,3475655,180,564832,1,0,Not Graduate,Freelancer,26,Education,,3510152.0,,,1
+Gold,194170,1784277,12,511431,1,0,Not Graduate,Freelancer,27,Education,,1803046.0,,,0
+Gold,178802,2356771,120,254654,0,2,Not Graduate,Freelancer,21,Business Expansion,,2402686.0,,,0
+Gold,85328,85955,360,9236,1,4,Not Graduate,Freelancer,24,Purchase,,101058.0,,,1
+Gold,23427,2610751,60,645507,1,0,Graduate,Freelancer,3,Renovation,,2623401.0,,,0
+Gold,65645,1705007,60,477035,1,3,Not Graduate,Freelancer,10,Renovation,,1711755.0,,,1
+Gold,28063,662900,36,80809,1,3,Graduate,Self-Employed,22,Refinance,,687975.0,,,0
+Gold,132280,2717089,360,634165,1,0,Not Graduate,Salaried,16,Renovation,,2731558.0,,,1
+Gold,160445,4123725,240,633183,0,0,Not Graduate,Self-Employed,25,Refinance,,4169029.0,,,0
+Gold,147820,920626,12,209115,1,1,Not Graduate,Business Owner,0,Renovation,,951167.0,,,1
+Gold,80242,3432280,120,258399,1,0,Not Graduate,Self-Employed,8,Renovation,,3463797.0,,,1
+Gold,32832,1359856,240,118252,1,1,Graduate,Salaried,6,Education,,1409672.0,,,1
+Gold,196441,4990158,36,711197,0,1,Not Graduate,Salaried,1,Refinance,,5036052.0,,,0
+Gold,70299,2301740,36,665399,0,4,Graduate,Business Owner,2,Education,,2332276.0,,,0
+Gold,110130,3088281,120,762965,1,3,Not Graduate,Business Owner,7,Renovation,,3121608.0,,,1
+Gold,69325,1555022,240,283108,0,4,Graduate,Salaried,17,Renovation,,1578126.0,,,0
+Gold,152388,1670814,24,315835,1,0,Not Graduate,Business Owner,23,Business Expansion,,1676374.0,,,1
+Gold,71279,1596533,60,360217,1,4,Not Graduate,Freelancer,25,Renovation,,1616505.0,,,1
+Gold,37388,953964,180,203271,1,4,Graduate,Self-Employed,29,Refinance,,969107.0,,,1
+Gold,65286,2777493,120,690717,1,4,Not Graduate,Business Owner,23,Education,,2822273.0,,,1
+Gold,117124,1522309,240,415835,1,4,Graduate,Salaried,10,Education,,1563849.0,,,1
+Gold,187959,2424170,60,189221,0,3,Not Graduate,Business Owner,16,Renovation,,2454574.0,,,0
+Gold,130462,3223345,120,290646,0,4,Graduate,Business Owner,29,Renovation,,3234911.0,,,0
+Gold,72981,3426175,240,171506,0,4,Graduate,Freelancer,29,Education,,3458114.0,,,0
+Gold,190276,4465724,60,927321,1,0,Graduate,Freelancer,28,Renovation,,4493899.0,,,1
+Gold,167349,76506,60,22425,0,4,Not Graduate,Self-Employed,28,Purchase,,101825.0,,,0
+Gold,159639,1451849,120,232161,0,0,Graduate,Self-Employed,19,Education,,1491883.0,,,0
+Gold,42481,4319153,12,757423,0,0,Graduate,Salaried,8,Business Expansion,,4356229.0,,,0
+Gold,32418,3804235,240,833002,0,3,Graduate,Business Owner,30,Business Expansion,,3814528.0,,,0
+Gold,132221,2621984,120,286958,1,2,Not Graduate,Freelancer,14,Education,,2630118.0,,,1
+Gold,190356,2904959,12,531712,0,0,Graduate,Business Owner,25,Refinance,,2926022.0,,,0
+Gold,16559,3768665,240,283700,1,4,Graduate,Business Owner,11,Education,,3807062.0,,,0
+Gold,41443,2767150,360,409618,1,3,Not Graduate,Business Owner,4,Education,,2789828.0,,,1
+Gold,61231,2923445,60,450085,1,0,Not Graduate,Salaried,7,Business Expansion,,2934715.0,,,0
+Gold,166459,2630272,24,435615,1,1,Graduate,Salaried,0,Education,,2640332.0,,,0
+Gold,149300,1861951,36,515312,1,0,Graduate,Self-Employed,21,Business Expansion,,1901896.0,,,1
+Gold,70356,1119966,120,87475,1,2,Graduate,Salaried,18,Education,,1142720.0,,,1
+Gold,193064,4185893,360,611873,1,3,Graduate,Freelancer,11,Purchase,,4195117.0,,,1
+Gold,35252,4676880,36,1224465,0,2,Not Graduate,Freelancer,22,Refinance,,4706659.0,,,0
+Gold,180497,369889,240,19925,1,0,Not Graduate,Self-Employed,4,Education,,409839.0,,,1
+Gold,177646,837145,120,78396,1,2,Not Graduate,Business Owner,10,Purchase,,864274.0,,,1
+Gold,15819,1756799,180,497500,1,2,Not Graduate,Business Owner,13,Education,,1800856.0,,,1
+Gold,18896,1989693,24,524073,1,4,Graduate,Self-Employed,23,Education,,2015838.0,,,0
+Gold,51030,2533440,12,331316,1,1,Not Graduate,Business Owner,17,Renovation,,2570958.0,,,0
+Gold,159625,441185,36,61478,1,2,Graduate,Self-Employed,9,Renovation,,446415.0,,,1
+Gold,140238,3031469,360,365392,1,4,Graduate,Self-Employed,26,Business Expansion,,3067407.0,,,1
+Gold,199584,4079540,180,489632,1,4,Graduate,Self-Employed,25,Refinance,,4087093.0,,,1
+Gold,154415,780186,120,187620,0,0,Graduate,Self-Employed,1,Refinance,,807528.0,,,0
+Gold,163435,1746116,120,159425,1,4,Not Graduate,Business Owner,19,Purchase,,1784701.0,,,1
+Gold,61934,2344742,60,532064,1,3,Not Graduate,Freelancer,9,Refinance,,2353841.0,,,1
+Gold,152838,1810542,24,353786,0,4,Not Graduate,Salaried,3,Business Expansion,,1818330.0,,,0
+Gold,118451,1277151,60,222277,1,4,Not Graduate,Salaried,6,Renovation,,1301512.0,,,1
+Gold,133808,1258304,240,364724,1,4,Graduate,Salaried,9,Refinance,,1263946.0,,,1
+Gold,125462,4360578,120,481914,1,0,Not Graduate,Salaried,29,Education,,4368848.0,,,1
+Gold,32249,4129158,240,1127219,0,4,Graduate,Business Owner,1,Refinance,,4143851.0,,,0
+Gold,143567,4296958,120,1280766,0,1,Not Graduate,Freelancer,0,Education,,4327522.0,,,0
+Gold,110549,3181047,24,708427,0,0,Graduate,Business Owner,6,Business Expansion,,3199976.0,,,0
+Gold,15900,3862458,36,715303,1,1,Not Graduate,Freelancer,7,Education,,3901654.0,,,0
+Gold,108526,1913933,180,236020,1,3,Graduate,Business Owner,18,Business Expansion,,1942474.0,,,1
+Gold,39879,4054099,240,208764,0,3,Not Graduate,Salaried,13,Business Expansion,,4094670.0,,,0
+Gold,163962,4470951,120,1178599,1,4,Graduate,Business Owner,19,Business Expansion,,4481025.0,,,1
+Gold,21224,2169408,240,313760,0,3,Graduate,Business Owner,9,Refinance,,2186967.0,,,0
+Gold,36083,3643058,24,786618,0,2,Not Graduate,Freelancer,22,Purchase,,3656887.0,,,0
+Gold,127377,4486305,120,756128,1,4,Graduate,Business Owner,13,Refinance,,4511646.0,,,1
+Gold,15724,481613,36,132040,1,4,Not Graduate,Freelancer,4,Purchase,,531266.0,,,0
+Gold,75069,532628,12,101446,1,3,Graduate,Salaried,2,Education,,564069.0,,,1
+Gold,77610,4635147,360,330034,0,3,Not Graduate,Freelancer,29,Business Expansion,,4679815.0,,,0
+Gold,45469,3263955,120,684580,1,0,Graduate,Self-Employed,23,Business Expansion,,3297931.0,,,1
+Gold,128279,2514075,12,173811,1,0,Graduate,Self-Employed,20,Renovation,,2549888.0,,,0
+Gold,72664,2622641,36,285830,0,3,Not Graduate,Salaried,19,Purchase,,2630730.0,,,0
+Gold,37688,1620210,240,204340,0,0,Graduate,Business Owner,25,Purchase,,1654614.0,,,0
+Gold,98292,1697404,180,457368,0,4,Not Graduate,Self-Employed,29,Renovation,,1705712.0,,,0
+Gold,61945,1812760,180,152863,1,1,Graduate,Freelancer,12,Renovation,,1853086.0,,,1
+Gold,141060,4311910,60,1291722,0,1,Not Graduate,Freelancer,7,Purchase,,4326217.0,,,0
+Gold,27238,2618824,240,711376,0,3,Not Graduate,Freelancer,24,Refinance,,2643170.0,,,0
+Gold,113722,4984698,180,551144,1,4,Graduate,Business Owner,26,Renovation,,5021843.0,,,1
+Gold,34733,900248,60,198821,0,0,Graduate,Freelancer,12,Renovation,,912485.0,,,0
+Gold,87790,3388846,36,330816,0,2,Graduate,Freelancer,19,Education,,3394929.0,,,0
+Gold,92198,4179618,12,544800,1,4,Graduate,Business Owner,1,Refinance,,4208937.0,,,0
+Gold,117717,2969023,240,591707,0,1,Graduate,Self-Employed,20,Business Expansion,,2978469.0,,,0
+Gold,69846,4100980,36,917252,0,3,Not Graduate,Self-Employed,12,Purchase,,4141098.0,,,0
+Gold,20748,4234496,180,812028,0,1,Graduate,Salaried,25,Refinance,,4240854.0,,,0
+Gold,117245,1828722,60,375798,1,1,Not Graduate,Business Owner,12,Refinance,,1875762.0,,,1
+Gold,54816,1041057,180,66889,1,3,Not Graduate,Freelancer,23,Refinance,,1059602.0,,,1
+Gold,42500,944444,120,109090,1,0,Graduate,Freelancer,12,Education,,960691.0,,,1
+Gold,92510,3762689,24,713413,1,4,Graduate,Salaried,28,Business Expansion,,3794615.0,,,0
+Gold,58096,2150547,60,579395,0,3,Graduate,Business Owner,2,Purchase,,2162888.0,,,0
+Gold,62598,4497080,12,1103149,0,2,Graduate,Self-Employed,2,Refinance,,4526498.0,,,0
+Gold,61245,2063722,36,596488,1,4,Not Graduate,Self-Employed,2,Refinance,,2103783.0,,,0
+Gold,132490,4912202,24,331255,1,0,Not Graduate,Salaried,10,Renovation,,4921225.0,,,0
+Gold,113634,655266,60,156949,0,4,Not Graduate,Salaried,10,Purchase,,688887.0,,,0
+Gold,112843,2775882,24,689162,0,1,Graduate,Salaried,26,Refinance,,2795119.0,,,0
+Gold,106306,155054,360,23667,0,0,Graduate,Self-Employed,4,Business Expansion,,169789.0,,,0
+Gold,194552,3785979,120,1020259,1,2,Not Graduate,Freelancer,21,Purchase,,3824594.0,,,1
+Gold,122416,2412303,60,680292,0,1,Not Graduate,Self-Employed,26,Purchase,,2447844.0,,,0
+Gold,56948,3520577,24,953916,1,1,Not Graduate,Self-Employed,14,Education,,3533645.0,,,0
+Gold,66826,2680587,36,431244,0,2,Not Graduate,Business Owner,5,Purchase,,2726515.0,,,0
+Gold,109682,3334870,240,834958,0,2,Not Graduate,Freelancer,29,Education,,3358834.0,,,0
+Gold,79673,1129944,180,83178,0,2,Graduate,Freelancer,5,Purchase,,1171446.0,,,0
+Gold,146807,2267587,12,602999,0,2,Not Graduate,Business Owner,16,Education,,2285002.0,,,0
+Gold,189724,3578199,180,687934,1,3,Not Graduate,Business Owner,27,Education,,3625293.0,,,1
+Gold,144529,4534160,180,747385,0,4,Graduate,Freelancer,28,Purchase,,4557813.0,,,0
+Gold,172634,4944985,12,331246,1,1,Not Graduate,Self-Employed,11,Purchase,,4981397.0,,,0
+Gold,169744,1563504,36,375262,1,4,Not Graduate,Self-Employed,26,Renovation,,1596593.0,,,1
+Gold,38268,4526045,360,442789,0,3,Not Graduate,Self-Employed,1,Education,,4551408.0,,,0
+Gold,53366,472944,36,106133,0,2,Not Graduate,Salaried,10,Refinance,,480568.0,,,0
+Gold,184790,977836,24,168679,1,0,Graduate,Business Owner,24,Refinance,,995117.0,,,1
+Gold,101143,4483474,240,228165,1,3,Not Graduate,Business Owner,25,Education,,4520263.0,,,1
+Gold,123886,3326570,12,596342,0,0,Graduate,Salaried,25,Business Expansion,,3364946.0,,,0
+Gold,46563,118404,180,32456,0,3,Graduate,Freelancer,20,Education,,128077.0,,,0
+Gold,20746,730786,60,127096,1,3,Not Graduate,Salaried,27,Business Expansion,,736331.0,,,1
+Gold,83709,4881402,180,247702,0,1,Not Graduate,Salaried,10,Education,,4911070.0,,,0
+Gold,193696,81724,24,23335,0,0,Not Graduate,Business Owner,25,Purchase,,125733.0,,,0
+Gold,144035,2717809,36,457836,1,2,Graduate,Salaried,11,Purchase,,2750893.0,,,1
+Gold,80418,2423157,360,427571,0,1,Graduate,Self-Employed,17,Business Expansion,,2455051.0,,,0
+Gold,38116,1917969,12,573268,1,2,Graduate,Freelancer,28,Education,,1965826.0,,,0
+Gold,125113,4685169,24,668785,1,3,Not Graduate,Self-Employed,0,Purchase,,4707356.0,,,0
+Gold,82017,3802542,240,1012819,0,4,Graduate,Freelancer,20,Refinance,,3818962.0,,,0
+Gold,144555,1490859,24,214129,0,4,Not Graduate,Freelancer,30,Renovation,,1515563.0,,,0
+Gold,81574,817167,12,233160,1,3,Graduate,Salaried,27,Business Expansion,,855331.0,,,0
+Gold,84842,1973025,240,463489,0,2,Not Graduate,Freelancer,2,Renovation,,1990717.0,,,0
+Gold,115951,3121538,240,396567,1,0,Not Graduate,Business Owner,29,Business Expansion,,3166879.0,,,1
+Gold,63378,2290089,180,520464,0,0,Graduate,Freelancer,17,Renovation,,2302193.0,,,0
+Gold,88577,2874765,240,599426,1,0,Graduate,Business Owner,11,Business Expansion,,2883141.0,,,1
+Gold,124019,909967,240,84190,1,1,Graduate,Business Owner,5,Purchase,,941064.0,,,1
+Gold,131057,696447,60,100770,1,4,Not Graduate,Freelancer,14,Education,,703875.0,,,1
+Gold,32108,3543270,60,569549,1,0,Not Graduate,Freelancer,15,Business Expansion,,3581078.0,,,0
+Gold,142281,4582928,12,596397,1,0,Graduate,Self-Employed,28,Renovation,,4607757.0,,,0
+Gold,36656,4756643,24,283517,1,0,Graduate,Self-Employed,18,Business Expansion,,4764200.0,,,0
+Gold,96283,3807638,12,465395,0,2,Not Graduate,Business Owner,30,Education,,3836752.0,,,0
+Gold,91324,4160981,180,939334,1,4,Not Graduate,Self-Employed,12,Purchase,,4183665.0,,,1
+Gold,88986,794306,36,198861,1,4,Not Graduate,Self-Employed,9,Business Expansion,,803370.0,,,1
+Gold,23782,641205,180,144053,1,3,Graduate,Self-Employed,8,Education,,688995.0,,,1
+Gold,96557,1439296,360,153931,1,0,Not Graduate,Self-Employed,14,Education,,1450010.0,,,1
+Gold,136202,1445223,60,381525,0,0,Graduate,Salaried,15,Business Expansion,,1481741.0,,,0
+Gold,38469,881530,120,261978,0,4,Not Graduate,Salaried,12,Refinance,,888113.0,,,0
+Gold,181786,1764269,24,451452,1,0,Graduate,Freelancer,15,Renovation,,1803134.0,,,1
+Gold,17293,3321090,12,457491,1,3,Graduate,Self-Employed,11,Renovation,,3360127.0,,,0
+Gold,152926,3230225,120,420936,1,3,Graduate,Business Owner,4,Education,,3265957.0,,,1
+Gold,184499,4312577,120,353452,0,4,Not Graduate,Freelancer,12,Renovation,,4346613.0,,,0
+Gold,114848,1348628,240,128729,1,2,Graduate,Salaried,5,Education,,1390224.0,,,1
+Gold,65003,285618,180,20233,1,0,Not Graduate,Self-Employed,27,Purchase,,306368.0,,,1
+Gold,172553,3803001,36,796266,1,3,Graduate,Self-Employed,8,Purchase,,3841057.0,,,1
+Gold,165499,3892766,180,887797,0,3,Not Graduate,Freelancer,23,Renovation,,3940758.0,,,0
+Gold,94817,1144540,240,81381,1,2,Graduate,Business Owner,2,Renovation,,1173341.0,,,1
+Gold,135305,1987319,120,333339,1,1,Not Graduate,Freelancer,24,Purchase,,2005255.0,,,1
+Gold,191597,190848,36,21388,0,1,Not Graduate,Salaried,7,Refinance,,218304.0,,,0
+Gold,21582,2544932,24,525328,0,1,Not Graduate,Salaried,13,Purchase,,2594581.0,,,0
+Gold,112986,2693220,60,274180,0,1,Graduate,Self-Employed,8,Business Expansion,,2720389.0,,,0
+Gold,29588,4583257,240,454725,1,4,Not Graduate,Freelancer,21,Education,,4592731.0,,,0
+Gold,155827,1378321,240,149071,0,4,Not Graduate,Freelancer,13,Renovation,,1394913.0,,,0
+Gold,24858,4635280,240,255407,1,2,Not Graduate,Self-Employed,18,Renovation,,4640492.0,,,0
+Gold,129371,488028,120,46305,0,3,Graduate,Self-Employed,7,Renovation,,497583.0,,,0
+Gold,126923,4063757,360,269624,0,4,Not Graduate,Self-Employed,26,Renovation,,4104827.0,,,0
+Gold,156044,4241864,180,259233,0,3,Graduate,Self-Employed,25,Renovation,,4287577.0,,,0
+Gold,39504,4379051,240,1298598,0,4,Graduate,Business Owner,12,Refinance,,4398157.0,,,0
+Gold,170966,3674124,24,958465,1,2,Not Graduate,Freelancer,22,Refinance,,3692158.0,,,0
+Gold,130927,180300,240,27370,1,1,Graduate,Self-Employed,29,Business Expansion,,187324.0,,,1
+Gold,23054,927221,180,239737,0,3,Graduate,Salaried,13,Purchase,,933785.0,,,0
+Gold,177000,2972721,12,158326,0,0,Not Graduate,Salaried,14,Renovation,,3001731.0,,,0
+Gold,23619,3757701,12,438145,0,2,Not Graduate,Self-Employed,7,Business Expansion,,3775389.0,,,0
+Gold,177110,3419610,360,966505,0,2,Not Graduate,Salaried,15,Business Expansion,,3441365.0,,,0
+Gold,48952,1948515,120,307264,0,0,Not Graduate,Self-Employed,28,Education,,1988207.0,,,0
+Gold,157091,3362719,240,313807,0,4,Not Graduate,Freelancer,16,Purchase,,3407910.0,,,0
+Gold,83942,2517250,120,718605,1,4,Graduate,Freelancer,10,Refinance,,2556823.0,,,1
+Gold,18092,3621332,240,514858,0,0,Not Graduate,Self-Employed,1,Renovation,,3637279.0,,,0
+Gold,82642,2779037,180,339506,0,3,Graduate,Self-Employed,9,Refinance,,2786014.0,,,0
+Gold,134801,991646,36,99269,1,1,Graduate,Self-Employed,28,Business Expansion,,1040708.0,,,1
+Gold,84649,3319806,120,939565,1,4,Not Graduate,Salaried,19,Refinance,,3363237.0,,,1
+Gold,183324,3478492,60,287895,1,4,Not Graduate,Business Owner,20,Education,,3515265.0,,,1
+Gold,168795,2296956,12,276600,1,0,Graduate,Business Owner,12,Purchase,,2331079.0,,,0
+Gold,81399,3395062,60,182030,1,4,Not Graduate,Self-Employed,26,Purchase,,3400695.0,,,0
+Gold,126277,1940916,120,266778,1,0,Graduate,Salaried,8,Education,,1972956.0,,,1
+Gold,16854,1032845,24,191145,1,3,Not Graduate,Salaried,3,Renovation,,1080777.0,,,0
+Gold,88214,4643022,120,958376,1,2,Graduate,Salaried,7,Purchase,,4682466.0,,,1
+Gold,84205,3320080,120,201739,0,0,Not Graduate,Business Owner,20,Purchase,,3354663.0,,,0
+Gold,55741,2450555,36,240687,1,0,Not Graduate,Freelancer,24,Renovation,,2461010.0,,,0
+Gold,41033,1869111,12,140755,0,4,Graduate,Business Owner,29,Refinance,,1901102.0,,,0
+Gold,18548,3957042,120,633247,0,0,Not Graduate,Freelancer,18,Purchase,,3991009.0,,,0
+Gold,144991,2710834,60,454557,1,3,Not Graduate,Self-Employed,16,Refinance,,2719681.0,,,1
+Gold,192331,660503,360,116616,0,2,Graduate,Business Owner,9,Purchase,,685322.0,,,0
+Gold,58132,1589047,12,315028,0,1,Graduate,Business Owner,27,Renovation,,1598617.0,,,0
+Gold,176658,4766123,240,345972,1,2,Not Graduate,Salaried,24,Education,,4784790.0,,,1
+Gold,161768,2125714,60,558289,1,0,Not Graduate,Freelancer,16,Renovation,,2135483.0,,,1
+Gold,178217,1948925,120,428461,0,0,Not Graduate,Self-Employed,18,Business Expansion,,1969274.0,,,0
+Gold,151353,2021026,240,501876,0,4,Not Graduate,Self-Employed,2,Purchase,,2069642.0,,,0
+Gold,112553,4825063,240,1035513,1,3,Graduate,Business Owner,9,Education,,4841021.0,,,1
+Gold,176698,3036742,60,209053,1,2,Not Graduate,Salaried,11,Business Expansion,,3084655.0,,,1
+Gold,74582,3944325,60,1095766,1,1,Not Graduate,Salaried,24,Education,,3955315.0,,,0
+Gold,167821,2778915,60,249994,1,0,Not Graduate,Business Owner,0,Education,,2803634.0,,,1
+Gold,27820,1415882,180,133106,0,1,Not Graduate,Salaried,22,Purchase,,1452864.0,,,0
+Gold,106925,3927142,12,324318,0,2,Graduate,Salaried,19,Renovation,,3935087.0,,,0
+Gold,45865,4791188,360,1249139,1,1,Graduate,Freelancer,26,Purchase,,4826622.0,,,1
+Gold,51556,3048444,12,471561,0,2,Not Graduate,Freelancer,3,Refinance,,3070960.0,,,0
+Gold,194969,1913763,60,195400,1,1,Not Graduate,Freelancer,24,Education,,1963400.0,,,1
+Gold,159280,71111,240,19767,1,1,Graduate,Self-Employed,2,Education,,97513.0,,,1
+Gold,66069,3953349,12,411354,1,2,Not Graduate,Freelancer,9,Refinance,,3969769.0,,,0
+Gold,21421,2281486,24,402423,0,2,Not Graduate,Business Owner,19,Refinance,,2299375.0,,,0
+Gold,33507,4032564,180,635054,1,2,Not Graduate,Salaried,19,Refinance,,4054064.0,,,0
+Gold,99722,4228561,36,441819,1,0,Graduate,Freelancer,12,Purchase,,4271008.0,,,0
+Gold,176364,1445756,360,368590,0,1,Not Graduate,Salaried,23,Business Expansion,,1461237.0,,,0
+Gold,187050,4922608,240,355893,0,1,Not Graduate,Self-Employed,6,Purchase,,4958903.0,,,0
+Gold,88797,3758495,36,617358,1,2,Not Graduate,Business Owner,22,Education,,3808079.0,,,0
+Gold,39669,874492,60,146665,1,2,Not Graduate,Self-Employed,7,Refinance,,888446.0,,,1
+Gold,150498,3460525,36,982296,0,1,Graduate,Salaried,24,Business Expansion,,3479454.0,,,0
+Gold,153380,814297,120,228751,0,4,Graduate,Self-Employed,14,Purchase,,833925.0,,,0
+Gold,76194,2159530,36,158955,0,1,Not Graduate,Self-Employed,25,Renovation,,2200524.0,,,0
+Gold,190777,2301541,24,336391,0,1,Not Graduate,Salaried,28,Education,,2348252.0,,,0
+Gold,160312,2128199,12,131421,0,4,Graduate,Self-Employed,5,Purchase,,2161916.0,,,0
+Gold,135001,4844362,240,1114473,1,3,Graduate,Business Owner,10,Education,,4871771.0,,,1
+Gold,129284,1564498,120,88297,1,4,Graduate,Self-Employed,4,Purchase,,1595651.0,,,1
+Gold,173998,873614,24,61451,0,2,Graduate,Salaried,14,Purchase,,904416.0,,,0
+Gold,87374,4988519,12,1190366,0,4,Graduate,Freelancer,26,Business Expansion,,5023670.0,,,0
+Gold,28217,3589330,12,1016425,0,1,Graduate,Freelancer,3,Renovation,,3601787.0,,,0
+Gold,83063,709715,120,70146,1,3,Not Graduate,Salaried,6,Refinance,,721487.0,,,1
+Gold,160636,3042863,24,252463,1,4,Graduate,Business Owner,26,Renovation,,3083352.0,,,0
+Gold,149194,4155453,36,745317,1,1,Not Graduate,Salaried,1,Refinance,,4197301.0,,,0
+Gold,100849,1784774,180,372016,1,4,Not Graduate,Self-Employed,10,Education,,1817146.0,,,1
+Gold,70682,2691542,180,772033,0,1,Graduate,Self-Employed,9,Purchase,,2727870.0,,,0
+Gold,196235,3519160,36,296198,1,3,Graduate,Freelancer,30,Purchase,,3524684.0,,,1
+Gold,79325,1195648,12,62323,1,0,Not Graduate,Self-Employed,23,Education,,1223756.0,,,0
+Gold,106891,4014160,120,1090684,1,3,Not Graduate,Business Owner,27,Renovation,,4031780.0,,,1
+Gold,196929,4914967,120,1294146,0,2,Not Graduate,Self-Employed,6,Renovation,,4962380.0,,,0
+Gold,143486,3579743,36,571774,0,0,Graduate,Freelancer,3,Education,,3611847.0,,,0
+Gold,113673,1906958,180,178742,0,3,Graduate,Self-Employed,30,Refinance,,1941151.0,,,0
+Gold,51070,277883,120,70386,1,1,Not Graduate,Self-Employed,5,Renovation,,296095.0,,,1
+Gold,59377,1073621,180,153716,1,3,Not Graduate,Freelancer,19,Business Expansion,,1107349.0,,,1
+Gold,127101,804645,180,177346,0,2,Not Graduate,Business Owner,2,Refinance,,842335.0,,,0
+Gold,81935,1796094,36,247764,1,0,Graduate,Freelancer,14,Business Expansion,,1812168.0,,,0
+Gold,106380,2679035,12,177309,0,2,Not Graduate,Self-Employed,0,Business Expansion,,2711203.0,,,0
+Gold,174918,649225,240,109361,1,0,Graduate,Salaried,13,Business Expansion,,657853.0,,,1
+Gold,96488,409706,240,55744,1,4,Graduate,Salaried,4,Purchase,,425909.0,,,1
+Gold,78007,567201,120,120683,0,1,Graduate,Freelancer,27,Business Expansion,,609491.0,,,0
+Gold,52579,3943824,36,1040117,1,4,Graduate,Self-Employed,0,Education,,3973709.0,,,0
+Gold,72846,2502367,180,129026,1,2,Graduate,Self-Employed,26,Renovation,,2533578.0,,,1
+Gold,95723,3800830,360,844137,0,0,Graduate,Self-Employed,14,Renovation,,3828314.0,,,0
+Gold,183853,88798,36,23263,0,4,Not Graduate,Freelancer,17,Purchase,,95336.0,,,0
+Gold,122437,2137131,360,199952,0,0,Not Graduate,Salaried,13,Business Expansion,,2186757.0,,,0
+Gold,98524,2860743,24,369415,0,3,Graduate,Self-Employed,2,Education,,2900165.0,,,0
+Gold,156307,2382221,12,277568,1,0,Not Graduate,Salaried,1,Education,,2431568.0,,,0
+Gold,24724,3951794,240,746634,1,0,Not Graduate,Salaried,9,Refinance,,3982539.0,,,0
+Gold,47382,303956,360,64162,1,4,Graduate,Business Owner,29,Business Expansion,,349662.0,,,1
+Gold,155664,528864,60,144301,1,0,Graduate,Business Owner,15,Purchase,,545147.0,,,1
+Gold,188035,3952433,36,906741,1,0,Graduate,Business Owner,0,Renovation,,3961433.0,,,1
+Gold,153817,768432,180,223319,0,2,Not Graduate,Business Owner,5,Purchase,,808707.0,,,0
+Gold,157632,4269476,240,728158,0,3,Graduate,Business Owner,9,Education,,4307171.0,,,0
+Gold,90078,3179864,24,397347,1,2,Graduate,Self-Employed,11,Business Expansion,,3210887.0,,,0
+Gold,80514,134471,36,26103,1,4,Not Graduate,Freelancer,18,Renovation,,166525.0,,,1
+Gold,195760,284673,60,72728,0,0,Not Graduate,Business Owner,3,Education,,333818.0,,,0
+Gold,73344,3632953,360,561462,1,2,Graduate,Business Owner,30,Renovation,,3652534.0,,,1
+Gold,151340,2400671,60,575692,0,2,Graduate,Business Owner,15,Refinance,,2414213.0,,,0
+Gold,78284,259137,60,59352,1,2,Graduate,Business Owner,26,Purchase,,289092.0,,,1
+Gold,110967,4555049,60,432913,1,0,Graduate,Self-Employed,2,Purchase,,4601370.0,,,0
+Gold,160753,585788,12,137247,0,0,Graduate,Self-Employed,25,Refinance,,635580.0,,,0
+Gold,198680,2499185,60,358415,0,2,Graduate,Self-Employed,1,Refinance,,2537338.0,,,0
+Gold,57247,4539398,360,529130,0,3,Graduate,Self-Employed,9,Renovation,,4565329.0,,,0
+Gold,169940,325942,240,27092,1,4,Not Graduate,Business Owner,28,Business Expansion,,340552.0,,,1
+Gold,64633,2071403,360,372591,0,3,Graduate,Self-Employed,4,Refinance,,2104038.0,,,0
+Gold,62129,1614518,36,162052,0,3,Graduate,Business Owner,29,Business Expansion,,1662111.0,,,0
+Gold,72380,3999426,180,1094866,1,2,Not Graduate,Self-Employed,20,Refinance,,4030202.0,,,1
+Gold,57640,4280546,12,634631,0,3,Graduate,Freelancer,19,Purchase,,4316229.0,,,0
+Gold,197478,2401811,120,677873,1,0,Not Graduate,Self-Employed,3,Purchase,,2439311.0,,,1
+Gold,75011,4113376,240,955530,1,1,Not Graduate,Self-Employed,15,Renovation,,4124981.0,,,1
+Gold,18032,3729298,24,655951,1,3,Not Graduate,Salaried,16,Business Expansion,,3770982.0,,,0
+Gold,22026,888072,240,179940,0,1,Graduate,Business Owner,27,Education,,933059.0,,,0
+Gold,45687,4233240,120,1132716,1,1,Graduate,Salaried,5,Education,,4257434.0,,,0
+Gold,177528,1425343,60,316250,1,4,Graduate,Self-Employed,7,Business Expansion,,1471655.0,,,1
+Gold,197635,2248879,360,536131,1,2,Graduate,Freelancer,16,Renovation,,2273051.0,,,1
+Gold,80071,4246608,60,248509,1,0,Not Graduate,Business Owner,29,Education,,4286345.0,,,0
+Gold,108548,3985671,24,378305,1,3,Not Graduate,Salaried,6,Renovation,,4013019.0,,,0
+Gold,69765,3972268,360,936122,1,0,Graduate,Freelancer,16,Education,,4001661.0,,,1
+Gold,111429,744550,360,99383,1,3,Graduate,Freelancer,2,Renovation,,776001.0,,,1
+Gold,60276,1960374,60,199146,0,4,Not Graduate,Freelancer,20,Business Expansion,,1969457.0,,,0
+Gold,185208,439534,12,128106,0,1,Graduate,Self-Employed,22,Education,,475998.0,,,0
+Gold,94563,3699742,60,566917,1,3,Graduate,Salaried,11,Education,,3736427.0,,,0
+Gold,95317,1841960,180,101573,1,0,Graduate,Freelancer,22,Renovation,,1888525.0,,,1
+Gold,145098,1655025,24,197117,0,2,Graduate,Salaried,23,Refinance,,1683853.0,,,0
+Gold,108331,4271882,180,284851,0,2,Not Graduate,Self-Employed,15,Business Expansion,,4306440.0,,,0
+Gold,76378,4360284,12,1048004,1,0,Graduate,Salaried,4,Purchase,,4406827.0,,,0
+Gold,156701,140357,360,38509,1,3,Graduate,Business Owner,21,Education,,172676.0,,,1
+Gold,27323,2997357,24,850456,1,1,Graduate,Freelancer,1,Education,,3042542.0,,,0
+Gold,19440,4942251,120,384723,0,4,Graduate,Freelancer,21,Renovation,,4984602.0,,,0
+Gold,172030,630632,60,150053,1,0,Not Graduate,Self-Employed,14,Purchase,,639306.0,,,1
+Gold,39985,686706,120,115571,0,1,Graduate,Salaried,28,Education,,723346.0,,,0
+Gold,113443,4873793,180,1088645,0,0,Not Graduate,Business Owner,17,Purchase,,4921998.0,,,0
+Gold,124725,1092360,60,278455,0,1,Not Graduate,Salaried,25,Renovation,,1131472.0,,,0
+Gold,44524,657700,120,80878,1,2,Not Graduate,Business Owner,11,Education,,690256.0,,,1
+Gold,32166,4445569,120,918374,0,3,Graduate,Freelancer,29,Purchase,,4491783.0,,,0
+Gold,159843,3434771,60,430732,0,2,Not Graduate,Freelancer,9,Purchase,,3478689.0,,,0
+Gold,91858,1029290,360,238971,1,2,Graduate,Self-Employed,12,Renovation,,1059808.0,,,1
+Gold,110366,2857723,120,736637,1,0,Graduate,Salaried,0,Business Expansion,,2889962.0,,,1
+Gold,75838,1629389,24,332963,0,2,Graduate,Self-Employed,13,Refinance,,1671651.0,,,0
+Gold,185299,2595374,60,362928,1,4,Not Graduate,Self-Employed,18,Purchase,,2608583.0,,,1
+Gold,91473,3489029,180,942409,0,1,Graduate,Self-Employed,24,Business Expansion,,3531749.0,,,0
+Gold,177987,2753300,36,756514,0,2,Not Graduate,Salaried,30,Purchase,,2791359.0,,,0
+Gold,184815,2383150,120,275931,1,3,Not Graduate,Business Owner,3,Renovation,,2392608.0,,,1
+Gold,50134,3060930,60,580467,0,2,Not Graduate,Freelancer,8,Refinance,,3081910.0,,,0
+Gold,48630,3633033,24,328967,1,2,Graduate,Salaried,5,Education,,3641910.0,,,0
+Gold,61260,1533463,360,432022,1,0,Not Graduate,Business Owner,12,Education,,1554932.0,,,1
+Gold,112957,3466965,12,229341,0,1,Graduate,Salaried,3,Business Expansion,,3493705.0,,,0
+Gold,87912,4331190,12,372797,1,1,Graduate,Salaried,26,Education,,4361051.0,,,0
+Gold,113015,51695,360,12594,0,0,Not Graduate,Self-Employed,26,Refinance,,62237.0,,,0
+Gold,150453,288012,120,74031,1,3,Not Graduate,Freelancer,6,Refinance,,293546.0,,,1
+Gold,106359,977869,240,109517,0,1,Not Graduate,Freelancer,16,Business Expansion,,1003531.0,,,0
+Gold,187331,260690,12,30457,1,4,Not Graduate,Freelancer,23,Business Expansion,,296086.0,,,1
+Gold,59379,1710185,36,273997,1,3,Graduate,Freelancer,30,Purchase,,1724675.0,,,0
+Gold,167558,842660,240,76459,0,4,Graduate,Salaried,25,Refinance,,847907.0,,,0
+Gold,135877,1783854,120,477638,0,2,Not Graduate,Business Owner,26,Purchase,,1832684.0,,,0
+Gold,30425,2526092,24,174059,0,3,Not Graduate,Salaried,18,Business Expansion,,2546888.0,,,0
+Gold,67874,4291654,240,740146,1,2,Graduate,Business Owner,25,Education,,4337746.0,,,1
+Gold,43175,796770,36,75099,1,2,Graduate,Freelancer,26,Refinance,,823946.0,,,1
+Gold,85987,2768260,24,492022,0,3,Not Graduate,Freelancer,3,Refinance,,2788229.0,,,0
+Gold,43369,4484484,12,536409,1,2,Graduate,Business Owner,6,Refinance,,4490326.0,,,0
+Gold,110689,2068102,12,215003,0,4,Not Graduate,Salaried,29,Business Expansion,,2081627.0,,,0
+Gold,189806,1940987,240,572504,1,4,Graduate,Business Owner,7,Education,,1968144.0,,,1
+Gold,130389,3009550,240,365384,0,3,Graduate,Business Owner,22,Business Expansion,,3051205.0,,,0
+Gold,120448,3744511,36,722717,1,1,Graduate,Salaried,4,Business Expansion,,3793548.0,,,0
+Gold,158479,4853362,36,280029,0,3,Not Graduate,Self-Employed,19,Renovation,,4866004.0,,,0

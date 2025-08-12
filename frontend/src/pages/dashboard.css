@@ -1,0 +1,34 @@
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #fff;
+    padding: 8px 15px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-circle {
+    width: 40px;
+    height: 40px;
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+  
+  .profile-details p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .header-logo {
+    height: 100px; /* Adjust as needed */
+    width: auto;
+    object-fit: contain;
+  }
