@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+# WeApprove – Loan Approval Prediction System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WeApprove is a **MERN stack project with Machine Learning integration** that helps predict loan approvals.  
+It allows users to apply for multiple loan types, stores their data in MongoDB, and uses a trained ML model to predict approval chances.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+##  Features
+- **User Authentication** (Signup/Login with JWT)
+- **Different Loan Categories**:
+  - Home Loan
+  - Education Loan
+  - Car Loan
+  - Gold Loan
+  - Business Loan
+  - Personal Loan
+- **Separate Forms** for each loan type
+- **MongoDB Collections** for each loan category
+- **Machine Learning Model** integrated with backend for approval prediction
+- **Simple and user-friendly dashboard**
+- **Chatbot integration** for user assistance
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Tech Stack
+- **Frontend:** React.js, Tailwind CSS / Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Tokens)  
+- **Machine Learning:** Python (Scikit-learn / TensorFlow)  
+- **Chatbot:** Python  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+##  Project Structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+WeApprove/
+│── backend/              # Express.js backend
+│   ├── config/           # Database config
+│   ├── controllers/      # Business logic
+│   ├── middleware/       # Auth & middleware
+│   ├── models/           # MongoDB models
+│   ├── ml_model/         # ML model integration
+│   ├── routes/           # API routes
+│   ├── uploads/          # File uploads
+│   ├── server.js         # Entry point
+│   └── api.py            # ML API
+│
+│── frontend/             # React frontend
+│   ├── public/           # Static files
+│   └── src/              # React components & pages
+│
+│── chatbot_backend/      # Chatbot module (inside backend)
+│── chatbot_env/          # Python virtual environment
+│── .gitignore
+│── README.md
+│── package.json
 
-### `npm run build`
+## Installation and setup
+# 1. Clone the repository
+git clone https://github.com/aastha8923/WeApprove.git
+cd WeApprove
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 2. Install frontend dependencies
+cd frontend
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 3. Install backend dependencies
+cd ../backend
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 4. Install ML model dependencies
+cd ml_model
+pip install -r requirements.txt
 
-### `npm run eject`
+# 5. Install chatbot dependencies
+cd ../chatbot_backend
+pip install -r requirements.txt
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##  Running the Project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Run the following commands in separate terminals (one for each service):
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# 1. Start the Chatbot Backend
+cd backend/chatbot_backend
+python chatbot.py
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 2. Start the ML Model API
+cd backend/ml_model
+python app.py
 
-## Learn More
+# 3. Start the Node.js Backend
+cd backend
+node server.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 4. Start the React Frontend
+cd frontend
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are welcome!
+Fork the repo
+Create a new branch (feature-branch)
+Commit your changes
+Push the branch and open a Pull Request
