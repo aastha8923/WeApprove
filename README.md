@@ -57,7 +57,9 @@ WeApprove/
 │── README.md
 │── package.json
 
-## Installation and setup
+```
+
+##  Installation and setup
 # 1. Clone the repository
 git clone https://github.com/aastha8923/WeApprove.git
 cd WeApprove
@@ -99,6 +101,7 @@ node server.js
 cd frontend
 npm start
 
+```
 ## Contributing
 
 Contributions are welcome!
